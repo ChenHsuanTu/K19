@@ -110,3 +110,26 @@ Welcome to a space woven with starlight and ignited by imagination.Guided by our
 那是，超新星爆炸。    
 ​降落在地球上的星之雨。    
 那是為了慶祝遙遠彼方有新星誕生，而出現的流星群。     
+
+
+### Alex and the Phantom Band
+
+The sun shone bright and golden over the hustle and bustle of market day in the town square. Hawkers shouted their wares from their carts, and everywhere were people buying and talking. Alex had been absorbing the pulse of market day for the past two hours, searching for the perfect flute to give his father for his birthday.
+
+Alex looked up startled as the clock struck the hour. He saw a pale girl with intense blue eyes. Alex followed her line of sight as she turned her head to the bell tower. “…four…” Alex counted the strokes. “Five…six…seven…eight…wow, I hope it’s not too late! Nanna told me to be home by eleven o’clock this morning…eleven…oh, please stop right there!…Twelve…thirteen?? THAT can’t have been right!”
+
+The town square went quiet, void of all noise as a cloud blocked the blazing light of the sun. Alex looked around in the dim, eerie light. All of the familiar shops lined the streets, and all of the people were there too, but they were frozen in place like so many life-size dolls.
+
+As he turned around and around, the faint sound of a procession was brought to his ear on the wind. Alex turned toward the music and saw the girl, straw-colored hair and blue checked skirt blowing in the wind, beckoning him to her. When he reached her she took him by the hand and led him along the winding, twisting streets, the music getting stronger all the time.
+
+The girl stopped short in front of a shabby looking theater. Its walls were stained with neglect. Its windows were boarded up, and the door was hung at an odd angle. An old sign over the door read “His Majesty’s Royal Band.” The girl opened the door and ushered Alex inside. In front of him spread a brightly lit concert hall with red velvet seats, diamond chandeliers, and dark mahogany walls. The stage was enormous, with red curtains draped around the front like a giant birthday cake. But what was on the stage was even more astonishing. Music was pouring out of instruments, and a baton was waving about, directing the band, but there were no people!
+
+The music stopped, and suddenly all of the instruments looked at Alex. The baton was the last to turn, but when it did, it pointed directly at Alex. “Well, state your name and business, young man,” said the baton, “We haven’t got all day to stand here gawking at each other.” “Um…my name is Alex,” said Alex, “and I was looking for a flute to give to my father for his birthday.” “I am the conductor,” spoke the baton grandly. “I give the band a beat. Also I tell the players how the music is supposed to sound. Let me introduce you to…His Majesty’s Royal Band!” [Band plays and stops]
+
+There was a moment of silence. Then the baton laid itself gently on the conductor’s stand. Alex climbed upon the stage and his eyes fell upon a strange sight. All of the instruments were laid down across the chairs as if on some non-existent lap, hovering five or six inches above the seats. Alex bumped into one of the flutes. “Oops, sorry,” he said. “That’s all right, lad,” said the flute. “My name is Fiona. You’re Alex, right? And you’re looking for a flute for your father. Come and see me before you leave, because I think I have something that might interest you.”
+
+Alex made his way to the conductor’s podium, and climbed up on it. In front of him spread the glittering band like a handful of gold and silver that some careless giant had let fall. And there was the baton. Its dark mahogany handle glowed in the light of the chandeliers. Alex picked it up and held it in front of him. Without thinking, he lifted the baton and pointed it at the trumpets, which responded with a golden shower of sound. Now curious, he pointed the baton at the clarinets.
+
+They responded with a low murmur of blushing pink sound. The flutes and piccolos whistled cheerily in emerald green. The tuba rumbled its happy tune while glowing a chocolate brown. All the saxophones joined together in harmony to create a reedy, rusty red. The trombone played a duet in purple with the oboe. The euphonium sounded a clear blue from away in the back of the band. The bassoons sang out in orange. Rising out of the swirl of sound and color shone the silver bell-like tone of the french horns. And then the whole band joined in. Overwhelmed with sound and dizzy with color, Alex lifted his baton to the far back of the stage, and cued the percussion. [The music plays to a conclusion.] Alex lowered his tired arms, and with a great sigh slid to the floor, fading into unconsciousness. He barely noticed Fiona as she slipped a package into his pocket.
+
+“Alex!” called Nanna, “Wake up, or you’re going to miss your father before he leaves for work. It’s his birthday today!” At once Alex sat bolt upright in bed, realizing that he had not gotten his father a present. As he stood up Alex felt a weight in his pajama pocket. Slipping his hand inside, he drew out an ancient-looking wooden box, beautifully polished. And carved on the lid was a picture of the girl with the straw-colored hair. The hinges let out not a whisper of sound as he raised the lid. Nestled inside was a wooden flute of glossy mahogany. Joyously Alex ran downstairs and jumped into his father’s arms.
