@@ -1,16 +1,19 @@
 # 星群下的幻影奇談
 ###  *Tales of Phantoms Beneath the Starry Sky*
 <br>
-高雄中學校友管樂團　暨　高雄中學管樂團　第十九次聯合音樂會
 
-K.S.H.S. Alumni Wind Orchestra & Kaohsiung Senior High School Wind Band 19th Annual Joint Concert
+《星群下的幻影奇談》雄中管樂團與校友管樂團    
+KSAWO & KSWB 19th Joint Concert
+
+~~高雄中學校友管樂團　暨　高雄中學管樂團　第十九次聯合音樂會~~    
+~~K.S.H.S. Alumni Wind Orchestra & Kaohsiung Senior High School Wind Band 19th Annual Joint Concert~~
 
 <Hr>
 
 ## 曲目
     
-Fanfare for the Common Man - Aaron Copland (arr. Robert Longfield)    
-《平凡人的號角》艾倫．柯普蘭（編曲：羅伯特．隆菲爾德）     
+Fanfare for the Common Man - Aaron Copland    
+《平凡人的號角》艾倫．柯普蘭     
 <br>
 Alex and the Phantom Band - David Maslanka    
 《艾力克斯與幻影樂團》大衛．馬斯拉卡    
@@ -37,6 +40,38 @@ Selections from Disney's Moana - arr. Jay Bocook
 How to Train Your Dragon - John Powell    
 《馴龍高手》約翰．包威爾      
 
+<Hr> 
+
+## 曲目安排
+
+|        |          | 曲目                                       | 分鐘 | 備註                   |
+| ------ | -------- | -------------------------------------- | ---- | ------------------ |
+| 上半場 | A團     | Fanfare for the Common Man             | 3    |                    |
+| 上半場 | A團     | Alex and the Phantom Band              | 17   | 說書人｜李佳勳 |
+| 上半場 | B團     | Gullivers Travels                      | 7    | 說書人｜李佳勳 |
+| 上半場 | B團     | 掃除用具のファンタジー      | 5    |                    |
+|中場休息        |         |                                        |      |                    |
+| 下半場 | B團     | 流星群の物語～はかなくも壮大な宇宙へ～ | 9    | 說書人｜莊福泰校長 |
+| 下半場 | B團     | Sandpaper Ballet                       | 3    |                    |
+| 下半場 | B團     | Selections from Moana                  | 5    |                    |
+| 下半場 | B團或A團 | 童玩                                 | 3    |                    |
+| 下半場 | A團     | How to Train Your Dragon               | 13   |                    |
+| 正式演出結束       |          |                                        |      |                    |
+| 安可 | A團     | Super Mario Bros                       | 6    |                    |
+
+## 曲目時間總計
+
+|        | 演出時間 |  
+| ------ | -------------------- |  
+| 上半場 | 32                   |  
+| 下半場 | 33                   | 
+
+
+|        | 演出時間（不含安可） | 
+| ------ | -------------------- |  
+| A團   | 33                   |  
+| B團   | 29                   |
+
 <Hr>     
 
 ## 節目演出介紹（對外文宣）    
@@ -58,7 +93,19 @@ As night falls, our storyteller opens a mystical tome of notes. Journey from dai
 
 Welcome to a space woven with starlight and ignited by imagination.Guided by our Storyteller, this concert weaves diverse works—from everyday life to the vast universe—into a seamless narrative. You are more than an audience; you are a traveler crossing the boundaries of time and space, exploring the echoes between ordinary moments and the grand cosmos.This journey of wonder is for all ages, turning music into life parables. Immerse yourself in this world of sound and carry the lingering magic of these tales into the night.
 
-<Hr>     
+<Hr>    
+
+## 演出人員名單
+
+樂團｜高雄中學校友管樂團、高雄中學管樂團
+客席指揮｜王戰
+說書人｜莊福泰校長、李佳勳
+
+Band | K.S.H.S. Alumni Wind BandBand, Kaohsiung Senior High School Wind Band
+Guest Conductor | WANG Chan
+Storyteller | CHUANG Fu-Tai, LI Jia-Syun
+
+<Hr>    
 
 ## 節目演出介紹（節目製作相關）  
 
@@ -75,6 +122,17 @@ Welcome to a space woven with starlight and ignited by imagination.Guided by our
 我們致力於打造一場「大人也能享受的想像旅程」，透過說書人的引導，讓每首作品不再只是純粹的技術展現，而是一則則能被理解、感受甚至共鳴的故事。說書人的語言不艱澀、不制式，而是以具畫面感的方式帶領觀眾理解音樂的脈絡與情緒轉折，就像一位熟悉古今的旅人，陪伴大家一頁一頁打開這本精彩的故事書。
 
 希望觀眾進入這場由聲音構築的敘事世界，在音樂中徜徉、在故事裡遨遊。當最後一個音符落下，樂園的燈火或許會靜止，但我們希望那份關於人性、關於幻想、關於記憶的故事餘韻，能讓您帶著屬於自己的那一頁，溫暖地離開音樂廳。
+
+<Hr>    
+
+### 票務資訊
+預計系統開賣時間：2026/05/01
+票價：300、500、800
+開賣席次：
+開放樓層：1樓、2樓
+同意本場節目售票提供衛武營會員優惠方案：會員卡(包括無限卡、生活卡及青年卡)9折優惠。
+其他票價優惠：早鳥 75 折、學生 8 折、團員優惠票 8 折、身障 5 折、敬老 5 折
+
 
 <Hr>    
 
