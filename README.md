@@ -5,6 +5,11 @@
 《星群下的幻影奇談》雄中管樂團與校友管樂團    
 KSAWO & KSWB 19th Joint Concert
 
+||||
+|--|--|--|
+| <img src="https://chenhsuantu.github.io/K19/pic/demo1.jpg"> | <img src="https://chenhsuantu.github.io/K19/pic/demo2.jpg"> |<img src="https://chenhsuantu.github.io/K19/pic/demo3.jpg"> |
+
+
 ~~高雄中學校友管樂團　暨　高雄中學管樂團　第十九次聯合音樂會~~    
 ~~K.S.H.S. Alumni Wind Orchestra & Kaohsiung Senior High School Wind Band 19th Annual Joint Concert~~
 
@@ -74,6 +79,12 @@ How to Train Your Dragon - John Powell
 
 <Hr>     
 
+## 排練時間
+
+![](https://chenhsuantu.github.io/K19/pic/timetable.jpg)
+
+<Hr>
+
 ## 節目演出介紹（對外文宣）    
 
 #### 短版：節目指南刊物，75字數內     
@@ -97,13 +108,13 @@ Welcome to a space woven with starlight and ignited by imagination.Guided by our
 
 ## 演出人員名單
 
-樂團｜高雄中學校友管樂團、高雄中學管樂團
-客席指揮｜王戰
-說書人｜莊福泰校長、李佳勳
-
-Band | K.S.H.S. Alumni Wind BandBand, Kaohsiung Senior High School Wind Band
-Guest Conductor | WANG Chan
-Storyteller | CHUANG Fu-Tai, LI Jia-Syun
+樂團｜高雄中學校友管樂團、高雄中學管樂團     
+客席指揮｜王戰     
+說書人｜莊福泰校長、李佳勳     
+     
+Band | K.S.H.S. Alumni Wind BandBand, Kaohsiung Senior High School Wind Band     
+Guest Conductor | WANG Chan     
+Storyteller | CHUANG Fu-Tai, LI Jia-Syun     
 
 <Hr>    
 
@@ -126,12 +137,12 @@ Storyteller | CHUANG Fu-Tai, LI Jia-Syun
 <Hr>    
 
 ### 票務資訊
-預計系統開賣時間：2026/05/01
-票價：300、500、800
-開賣席次：
-開放樓層：1樓、2樓
-同意本場節目售票提供衛武營會員優惠方案：會員卡(包括無限卡、生活卡及青年卡)9折優惠。
-其他票價優惠：早鳥 75 折、學生 8 折、團員優惠票 8 折、身障 5 折、敬老 5 折
+預計系統開賣時間：2026/05/01     
+票價：300、500、800     
+開賣席次：     
+開放樓層：1樓、2樓     
+同意本場節目售票提供衛武營會員優惠方案：會員卡(包括無限卡、生活卡及青年卡)9折優惠。     
+其他票價優惠：早鳥 75 折、學生 8 折、團員優惠票 8 折、身障 5 折、敬老 5 折     
 
 
 <Hr>    
