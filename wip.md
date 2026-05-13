@@ -12,7 +12,7 @@
    <img src="https://chenhsuantu.github.io/K19/pic/%E9%9B%99%E6%9C%88%E5%88%8A%E6%A0%A1%E7%A8%BF.png" width="50%">     
 - ✅ 文化幣青年席位專案 2026/5/13
   - 青年五折自由席，不限單一票區，最高 200 席 
-- ⚠️ $\color{red}{演出需求表}$	2026/6/5
+- ⚠️ <font color="red">演出需求表</font> 2026/6/5
 - ⚠️ $\color{red}{前後台工作證}$	2026/6/5
 - $\color{red}{場地技術會議}$
 
