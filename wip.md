@@ -64,7 +64,7 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
 - 草圖確認後完稿（7天）2026/5/23
  
 註：修改次數以三次為限，改稿工作天為3天，包含圖面調整和排版、文字資訊修正等等。超過一次酌收＄300；完稿之後若圖面不滿意想換風格，則收取半價（$4500），新圖以另案重新計費。
-<img src="https://chenhsuantu.github.io/K19/pic/design_initial.jpg" width="80%">  
+<img src="https://chenhsuantu.github.io/K19/pic/design_initial.jpg" width="50%">  
      
 ### 設計資料
 - [設計需求](https://chenhsuantu.github.io/K19/design_proposal)
@@ -109,7 +109,7 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
 - ✅ 公告團練資訊 2026/5/7
 - ⚠️ <font color="red">第一階段找人截止</font>	2026/5/23	
 - ⚠️ <font color="red">公告分團</font>	2026/6/1
-- <font color="blue">☐ 團練出席狀況表單製作</font> 2026/6/21
+- <font color="blue">☐ 團練出席狀況表單製作</font>	2026/6/21
 - <font color="blue">☐ 參與人員大表（含便當統計）</font>	2026/6/21
 
 ### 人事幹部分工
