@@ -70,7 +70,7 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
 ### 設計資料
 - [設計需求](https://chenhsuantu.github.io/K19/design_proposal)
 - [設計參考資訊](https://chenhsuantu.github.io/K19/design_idea)
-- [設計文字內容](https://chenhsuantu.github.io/K19/design_conetnt)
+- [設計文字內容](https://chenhsuantu.github.io/K19/design_content)
 
 ### 關於雄管校友團 logo
 原定用投票時粗略版本，暫時用在本次音樂會，未來可以再精修正式 logo。但作業時程上難配合，因此本次不放校友團 logo。
