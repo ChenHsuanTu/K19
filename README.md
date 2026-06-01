@@ -19,17 +19,18 @@ KSAWO & KSWB 19th Joint Concert
 <br/>     
 
 期待參加音樂會的旅程了嗎？快填寫[參與意願調查](https://forms.gle/FCWKae4Q78AuN7Un7) ！
+    
 
 ## 團練時間表
-
-本次聯合音樂會與以往不同，會以龍團／星團取代校內團／校友團的分團。分團會報名後依照各聲部的人數平衡，由音樂總監分成龍團／星團，預計 6/1 公布分團結果。     
-因此第一階段[演出人員調查](https://forms.gle/FCWKae4Q78AuN7Un7)會於 5/23 截止！
-
 ![](https://chenhsuantu.github.io/K19/pic/timetable.jpg)
 
-#### 團練說明
+#### 演出人員名單
+- [演出人員名單（分團結果）](https://chenhsuantu.github.io/K19/member)
 
-如有遇到龍團／星團某一團特定時間無法或較難配合，可以填寫在表單備註以方便安排。
+
+#### 報名說明
+- 如果還沒來得及報名，請盡快填寫[演出人員調查](https://forms.gle/FCWKae4Q78AuN7Un7)！
+- 如有遇到龍團／星團某一團特定時間無法或較難配合，可以填寫在表單備註以方便安排。
 
 
 #### 出席標準
@@ -38,19 +39,32 @@ KSAWO & KSWB 19th Joint Concert
 - 當客席指揮團練（深色）出席 2 次：需出席助理指揮團練（淺色）5 次 + 分部 4 次。       
 
 P.S. 出席標準是綜合全團的狀況。如個人出席次數無法到標準（或需要參加兩團），請填寫在下面備註說明，也會依照能力等衡量，由音樂總監評估後調整須出席次數，或用其他方式來補齊、驗收。彈性出席標準會再透過分部長告知。    
+    
 
+## 演出曲目
 
+#### 龍團🐉
+- **Fanfare for the Common Man** - Aaron Copland
+- **Alex and the Phantom Band** 📖- David Maslanka
+- **童玩** - 詹采軒
+- **How to Train Your Dragon** - John Powell (arr. Bertrand Moren)
+#### 星團🌟
 
-## 各團曲目亮點
+- **Gulliver’s Travels** 📖- Bert Appermont
+- **掃除用具のファンタジー** - 三浦秀秋
+- **流星群の物語～はかなくも壮大な宇宙へ～** 📖- 三浦真理（arr. 佐川馨）
+- **Sandpaper Ballet** - Leroy Anderson (arr. Hans van der Heide)
+- **Selections from Disney’s Moana** - arr. Jay Bocook
+### 各團曲目亮點
 
-### 龍團🐉
+#### 龍團🐉
 - Alex and the Phantom Band 《艾力克斯與幻影樂團》- David Maslanka
     - 樂曲由樂團搭配說書人，一起演繹出艾力克斯奇幻如夢境的經歷。樂團變成奇遇中的幻影樂團，隨著旁白將旋律變成故事的一部分。邀請李佳勳擔任說書人。
 - How to Train Your Dragon 《馴龍高手》- John Powell (arr. Bertrand Moren)      
     - 正式曲目最後一首，作為音樂會結尾的宏大曲目。
 
 
-### 星團🌟
+#### 星團🌟
 
 - 流星群の物語～はかなくも壮大な宇宙へ～ 《流星雨物語──致虛幻而又壯闊的宇宙》- 三浦真理 (arr. 佐川馨)
     - 邀請莊福泰校長引言，用壯闊的宇宙開啟下半場。
