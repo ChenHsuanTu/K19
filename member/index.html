@@ -1,0 +1,324 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>演出人員名單　星群下的幻影奇談</title>
+    <style>
+        
+        /* 網頁基礎字型 */
+        body {
+            color: #333;
+            margin: 0;
+            padding: 20px;
+        }
+
+        /* 標題與標籤的容器（用來控制寬度與表格一致） */
+        .container {
+            width: 50%;
+            margin: 0 auto;
+        }
+
+        h1.title {
+            text-align: center;
+            margin-top: 40px;
+            margin-bottom: 20px;
+            color: #111;
+        }
+
+        .update-time {
+            text-align: right;
+            color: #666;
+            font-size: 0.9em;
+            margin-bottom: 10px;
+        }
+
+        /* 圖例說明列表樣式 */
+        .legend-list {
+            list-style-type: none;
+            padding: 0;
+            margin: 20px auto 0 auto;
+            line-height: 1.8;
+        }
+        .legend-list li {
+            margin-bottom: 5px;
+            display: inline-block;
+            margin-right: 20px; /* 讓列表在桌機版可以橫向排開 */
+        }
+        
+        /* 設定整個表格的樣式 */
+        table {
+            width: 50%;               /* 桌機版：佔畫面寬度的一半 */
+            margin: 40px auto;        /* 上下留點空間，左右 auto 達到「置中」效果 */
+            border-collapse: collapse;/* 合併邊框 */
+        }
+
+        /* 針對三欄分別設定固定寬度 */
+t       th:nth-child(1), td:nth-child(1) { width: 10%; } /* 第一欄：10% */
+        th:nth-child(2), td:nth-child(2) { width: 45%; } /* 第二欄：45% */
+        th:nth-child(3), td:nth-child(3) { width: 45%; } /* 第三欄：45% */
+
+        /* 設定所有單元格的基礎樣式 */
+        th, td {
+            padding: 20px 24px;       /* 【修改】加大格子內的邊邊留白（上下 20px，左右 24px） */
+            line-height: 1.8;         /* 【修改】加大格子內的換行行距（預設約 1.2，改為 1.8 更舒適） */
+            text-align: left;         /* 文字靠左對齊 */
+            border: none;             /* 完全隱藏框線 */
+            vertical-align: top;      /* 讓內容對齊頂部 */
+        }
+
+        /* 讓表格標題列的留白與內容一致 */
+        th {
+            padding: 20px 24px;
+        }
+
+        /* 將每一行的「第一個單元格」（第一欄）文字加粗 */
+        tr td:first-child, tr th:first-child {
+            font-weight: bold;
+            color: #333;              /* 可以稍微加深顏色，讓標題更明顯 */
+            white-space: nowrap;      /* 避免樂器名稱斷行 */
+        }
+
+        /* 樣式定義 */
+        /*.style-A { font-weight: bold; }       /* 後綴 A：粗體 */
+        /*.style-I { font-style: italic; }      /* 後綴 I：斜體 */
+        /* 新的設定：改為顏色區分 */
+        .style-A { color: #0000E3; }           /* 後綴 A：藍色 */
+        .style-I { color: 	#A23400; }          /* 後綴 I：棕色 */
+        .style-none { color: #006000; }         /* 沒有後綴：紅色 */
+        .both-present { text-decoration: underline; } /* 兩邊都出現：底線 */
+
+        /* 選擇性：保持滑鼠懸停效果 */
+        tr:hover {
+            background-color: #f9f9f9;
+        }
+
+        /* ==========================================
+           RWD 響應式設定：當螢幕寬度小於 768px 時（例如手機）
+           ========================================== */
+           @media screen and (max-width: 992px) {
+            table, .container { width: 80%; }     /* 平板佔 80% */
+        }
+        @media screen and (max-width: 768px) {
+            table, .container {
+                width: 100%;          /* 手機版：滿版 */
+            }
+            table {
+                margin: 10px 0 20px 0;
+                table-layout: auto;   /* 手機版取消固定欄寬，避免字太擠 */
+            }
+            th, td {
+                padding: 16px 12px;   
+                line-height: 1.8;     
+            }
+            th:nth-child(1), td:nth-child(1) { width: auto; }
+            th:nth-child(2), td:nth-child(2) { width: auto; }
+            th:nth-child(3), td:nth-child(3) { width: auto; }
+            
+            .legend-list li {
+                display: block;       /* 手機版圖例改為上下列點 */
+                margin-right: 0;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1 class="title">星群下的幻影奇談</h1>
+        高雄中學校友管樂團暨高雄中學管樂團　第十九次聯合音樂會<br/>
+        KSAWO & KSWB 19th Joint Concert<br/>
+        <hr/>
+        <h1 class="title">演出人員名單</h1>
+        <div class="update-time">更新時間：2026/6/1</div>
+        ※文字樣式說明：<span class="both-present">參加兩團</span>　<span class="style-A">校友團員</span>　<span class="style-none">校內團員</span>　<span class="style-I">協演人員</span>
+    </div>
+
+    <table>
+        <thead>
+            <tr>
+                <th></th>
+                <th>龍團🐉</th>
+                <th>星團🌟</th>
+            </tr>
+        </thead>
+        <tbody id="instrument-table">
+            <tr>
+                <td>長笛</td>
+                <td>許展語A
+                    林泓佑
+                    劉子謙
+                </td>
+                <td>許修齊
+                    余彥儒A
+                    王子軒
+                    林泓佑
+                    劉子謙</td>
+            </tr>
+            <tr>
+                <td>豎笛</td>
+                <td>張峰碩
+                    吳沛謙
+                    徐梓翔A
+                    王瓴聿A
+                    黃宥穎
+                    黃冠程</td>
+                <td>林敬宸
+                    王柏謙
+                    廖子頡
+                    蘇誠意
+                    徐梓翔A
+                    王瓴聿A
+                    黃冠程
+                    張峰碩
+                    吳沛謙</td>
+            </tr>
+            <tr>
+                <td>薩克管</td>
+                <td>陳忠義
+                    楊恂A
+                    眭昊恩</td>
+                <td>蘇備德A
+                    莊宇軒
+                    眭昊恩
+                    呂沐羲
+                    林宇希
+                    陳忠義</td>
+            </tr>
+            <tr>
+                <td>雙簧管</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>巴松管</td>
+                <td>吳宥陞
+                    張彩瀅A</td>
+                <td>吳宥陞
+                    張彩瀅A</td>
+            </tr>
+            <tr>
+                <td>法國號</td>
+                <td>梁莊堯A
+                    許恒瑞I
+                    蕭仲恩I
+                    陳洛煒I</td>
+                <td>張晏滕
+                    呂康彧
+                    許恒瑞I
+                    蕭仲恩I
+                    陳洛煒I
+                    梁莊堯A</td>
+            </tr>
+            <tr>
+                <td>小號</td>
+                <td>陳彥滐
+                    林均翰</td>
+                <td>郭旻宗
+                    藍元良A
+                    大海‧伊思瑪哈尚
+                    陳彥滐
+                    林均翰</td>
+            </tr>
+            <tr>
+                <td>長號</td>
+                <td>林丞偉A
+                    林岱威A
+                    利柏曄A
+                    蘇毓仁
+                    陳信樂
+                    曾品融</td>
+                <td>陳清元A
+                    陳政賢A
+                    莊家齊A
+                    許宥宸A
+                    劉宣均
+                    曾品融
+                    林丞偉A</td>
+            </tr>
+            <tr>
+                <td>上低音號</td>
+                <td>曹睿恆
+                    袁律涵</td>
+                <td>袁律涵
+                    曹睿恆</td>
+            </tr>
+            <tr>
+                <td>低音號</td>
+                <td>莊才昇A</td>
+                <td>黃浚賀
+                    廖祐陞</td>
+            </tr>
+            <tr>
+                <td>打擊</td>
+                <td>劉昱翔
+                    林畇昕A
+                    阮昱愷
+                    趙彥傑A
+                    鄒耘瀚A</td>
+                <td>蘇昭維
+                    林澍琦
+                    陳彥儒
+                    范翊詔
+                    陳顥允</td>
+            </tr>
+            <tr>
+                <td>低音貝斯</td>
+                <td>孫敬棠A</td>
+                <td>孫敬棠A</td>
+            </tr>
+
+        </tbody>
+    </table>
+
+    <script>
+        document.querySelectorAll('#instrument-table tr').forEach(row => {
+            const tds = row.querySelectorAll('td');
+            if (tds.length < 3) return; // 確保有三欄
+
+            // 1. 抓取並清理左右兩欄的名字列表 (去除多餘空白、換行)
+            const list1Raw = tds[1].innerText.split(/\s+/).filter(n => n.trim() !== "");
+            const list2Raw = tds[2].innerText.split(/\s+/).filter(n => n.trim() !== "");
+
+            // 2. 建立「純名字」的陣列，用來比對是否兩邊都有出現
+            const getPureName = (nameWithTag) => nameWithTag.replace(/[AI]$/, '');
+            const namesInList1 = list1Raw.map(getPureName);
+            const namesInList2 = list2Raw.map(getPureName);
+
+            // 3. 處理單一欄位的函數
+            function processColumn(rawList, targetColumn, opponentPureNames) {
+                let htmlResults = [];
+
+                rawList.forEach(fullName => {
+                    let pureName = getPureName(fullName);
+                    let classes = [];
+
+                    // 條件 1 & 2：判斷後綴
+                    if (fullName.endsWith('A')) {
+                        classes.push('style-A');
+                    } else if (fullName.endsWith('I')) {
+                        classes.push('style-I');
+                    } else {
+                        classes.push('style-none');
+                    }
+
+                    // 條件 3：判斷是否兩邊都出現
+                    if (opponentPureNames.includes(pureName)) {
+                        classes.push('both-present');
+                    }
+
+                    // 組裝成帶有專屬 class 的 span 標籤
+                    let classAttr = classes.length > 0 ? ` class="${classes.join(' ')}"` : '';
+                    htmlResults.push(`<span${classAttr}>${pureName}</span>`);
+                });
+
+                // 條件 4：名字跟名字中間用全形空白（　）分隔
+                targetColumn.innerHTML = htmlResults.join('　');
+            }
+
+            // 執行轉換
+            processColumn(list1Raw, tds[1], namesInList2);
+            processColumn(list2Raw, tds[2], namesInList1);
+        });
+    </script>
+</body>
+</html>
