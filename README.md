@@ -55,13 +55,14 @@ P.S. 出席標準是綜合全團的狀況。如個人出席次數無法到標準
 - **Alex and the Phantom Band** 📖- David Maslanka
 - **童玩** - 詹采軒
 - **How to Train Your Dragon** - John Powell (arr. Bertrand Moren)
+      
 #### 星團🌟
-
 - **Gulliver’s Travels** 📖- Bert Appermont
 - **掃除用具のファンタジー** - 三浦秀秋
 - **流星群の物語～はかなくも壮大な宇宙へ～** 📖- 三浦真理（arr. 佐川馨）
 - **Sandpaper Ballet** - Leroy Anderson (arr. Hans van der Heide)
 - **Selections from Disney’s Moana** - arr. Jay Bocook
+      
 ### 各團曲目亮點
 
 #### 龍團🐉
