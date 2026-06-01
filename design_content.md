@@ -36,7 +36,7 @@
 |原文曲目   |原文作曲   |中文曲目   |中文作曲|
 |---|---|---|---|
 |Fanfare for the Common Man | Aaron Copland |平凡人的號角|艾倫．柯普蘭|
-|Alex and the Phantom Band | David Maslanka|艾力克斯與幻影樂團|大衛．馬斯拉卡|
+|Alex and the Phantom Band | David Maslanka|艾力克斯與幻影樂團|大衛．馬斯蘭卡|
 |Gulliver’s Travels | Bert Appermont|格列佛遊記|伯特．阿佩蒙特|
 |掃除用具のファンタジー | 三浦秀秋|打掃用具幻想曲|三浦秀秋|
 |（中場休息）|||
