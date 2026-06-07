@@ -43,5 +43,5 @@
 |流星群の物語～はかなくも壮大な宇宙へ～ | 三浦真理（arr. 佐川馨）|流星雨物語──致虛幻而壯闊的宇宙|三浦真理（編曲：佐川馨）|
 |Sandpaper Ballet | Leroy Anderson (arr. Hans van der Heide)|砂紙芭蕾|勒羅伊．安德森（編曲：漢斯．范．德．海德）|
 |Selections from Disney’s Moana | arr. Jay Bocook|海洋奇緣選粹|（編曲：傑．博庫克）|
-|童玩|詹采軒|-|-|
+|童玩|詹采軒|童玩|詹采軒|
 |How to Train Your Dragon | John Powell (arr. Bertrand Moren)|馴龍高手|約翰．包威爾（編曲：貝特朗．莫倫）|
