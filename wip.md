@@ -67,7 +67,7 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
 
 
 ## 📍設計相關
-外包設計師：林怡盈    
+**外包設計師：林怡盈**    
 
 - ✅ 風格挑選與草圖確認	2026/5/13
 - ✅ 草圖修改與視覺初稿提供	2026/5/23    
@@ -90,20 +90,13 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
 - 草圖繪製（3天）2026/5/16     
 - 草圖確認後完稿（7天）2026/5/23
 
+註：修改次數以三次為限，改稿工作天為3天，包含圖面調整和排版、文字資訊修正等等。超過一次酌收＄300；完稿之後若圖面不滿意想換風格，則收取半價（$4500），新圖以另案重新計費。   　　
+
 ### 提供給設計師資料
 - [設計需求](https://chenhsuantu.github.io/K19/design_proposal)
 - [設計參考資訊](https://chenhsuantu.github.io/K19/design_idea)
 - [設計文字內容](https://chenhsuantu.github.io/K19/design_content)
-
-註：修改次數以三次為限，改稿工作天為3天，包含圖面調整和排版、文字資訊修正等等。超過一次酌收＄300；完稿之後若圖面不滿意想換風格，則收取半價（$4500），新圖以另案重新計費。        
-
-<img src="https://chenhsuantu.github.io/K19/pic/design_initial.jpg" width="50%">  
-     
-### 提供給設計師資料
-- [設計需求](https://chenhsuantu.github.io/K19/design_proposal)
-- [設計參考資訊](https://chenhsuantu.github.io/K19/design_idea)
-- [設計文字內容](https://chenhsuantu.github.io/K19/design_content)
-
+　　　　　
 ### 關於雄管校友團 logo
 原定用投票時粗略版本，暫時用在本次音樂會，未來可以再精修正式 logo。但作業時程上難配合，因此本次不放校友團 logo。
      
@@ -111,32 +104,33 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
 
 ## 📍廠商相關
 
-### 錄影錄音廠商
+### 📍錄影錄音廠商
 - ✅ 錄影作業保留席 2026/5/12
 - ✅ 合約簽約 2026/5/13
 - ✅ 訂金繳納 2026/5/13
 
 **錄影錄音廠商：禾立藝術**     
-方案費用：$ 29,500     
+費用：$ 29,500     
 - 錄影：兩機贈一機 
 - 錄音：四軌
            
-### 樂器車廠商
+### 📍樂器車廠商
 - ⏳ <font color="blue">聯絡樂器車廠商</font> 2026/7/6      
 
-**樂器車廠商：＿＿＿＿**      
-需求：
+**樂器車廠商：＿＿＿＿＿＿**      
+費用：$ ＿＿＿         
 - 車輛：＿＿ 台
 - 時程：
   - 7/27 早上：雄中綜合大樓 → 衛武營
   - 7/29 晚上：衛武營 → 雄中管樂社辦
 
-### 鋼琴調音師
+### 📍鋼琴調音師
 - ⏳ <font color="blue">聯絡鋼琴調音師</font> 2026/6/21 
 
-**鋼琴調音師：＿＿＿＿**     
+**鋼琴調音師：＿＿＿＿＿＿** 
+費用：$ ＿＿＿       
 - [衛武營鋼琴調音申請表單](https://docs.google.com/forms/d/e/1FAIpQLSeHiZ599b0SuwYUrOTc9iavwIflct8tb3dnqcmAzi5LMumwVg/viewform)
-  - 窗口：呂佳能調音師
+  - 窗口：呂佳能　調音師
   - 公司：07-5315383
   - 手機：0987-821-131
 
@@ -149,11 +143,11 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
 - ✅ 公告團練資訊	2026/5/7
 - ✅ 第一階段找人截止	2026/5/23	
 - ✅ 公告分團	2026/6/1
-- ⚠️ <font color="blue">團練出席狀況表單製作</font>	2026/6/21
-- ⚠️ <font color="blue">參與人員大表（含便當統計）</font>	2026/6/21
+- ⚠️ <font color="red">團練出席狀況表單製作</font>	2026/6/21
+- ⚠️ <font color="red">參與人員大表（含便當統計）</font>	2026/6/21
 
 ### 演出人員名單／分團結果
-- [演出人員名單（分團結果）](https://chenhsuantu.github.io/K19/member)     
+[演出人員名單（分團結果）](https://chenhsuantu.github.io/K19/member)     
 
 ### 人事幹部分工
 - 顧問：遠軒
@@ -168,7 +162,7 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
 
 #### 公告
 - 參與意願調查：[https://forms.gle/mGhX678bWQsAyUMW9](https://forms.gle/mGhX678bWQsAyUMW9)
-- 音樂會公開資訊：[https://bit.ly/ksawo19](https://bit.ly/ksawo19)
+- 音樂會公開資訊：[https://bit.ly/ksawo19](https://bit.ly/ksawo19)       
 #### 幹部內部
 - [參與意願調查結果](https://docs.google.com/spreadsheets/d/1dFJ_M3eat-5QGJzTTgddtNwCkPXwnEF2yeBqd5hIU2Q/edit?gid=836008564#gid=836008564)
 - [演出人員調查表](https://docs.google.com/spreadsheets/d/14wUn90VWnSjyz9NNkTU3BDj4-iz8mVe39fiHhzpdh70/edit?gid=1777202819#gid=1777202819)    
@@ -202,7 +196,7 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
    - [IG](https://www.instagram.com/kswb_is_the_best/) 大頭照
 - ✅ 開始宣傳 2026/6/10
 - ✅ 早鳥截止 2026/6/14
-- ☑️ 持續宣傳 2026/6/5 - 2026/8/1
+- 🏃 持續宣傳 2026/6/5 - 2026/8/1
 - ⏳ <font color="blue">回饋單</font> 2026/7/5
 
     
