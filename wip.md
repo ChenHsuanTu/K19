@@ -12,11 +12,14 @@
    <img src="https://chenhsuantu.github.io/K19/pic/%E9%9B%99%E6%9C%88%E5%88%8A%E6%A0%A1%E7%A8%BF.png" width="50%">     
 - ✅ 文化幣青年席位專案 2026/5/13
   - 青年五折自由席，不限單一票區，最高 200 席 
-- ⚠️ <font color="red">演出需求表</font> 2026/6/5
-- ⚠️ <font color="red">前後台工作證</font>	2026/6/5
-- <font color="red">場地技術會議</font>
+- ✅ 演出需求表 2026/6/5
+- ✅ 前後台工作證初版 2026/6/5
+- ⚠️ <font color="red">衛武營場館租借尾款</font> 2026/6/24
+- <font color="red">場地技術會議</font> 暫訂 2026/7/8
+- <font color="red">衛武營舞監演出需求確認期限</font> 2026/7/17
+- <font color="red">前後台工作證資訊提供</font> 2026/7/17       
 
-### 關於「文化幣青年席位專案」核銷流程
+### ⭐ 關於「文化幣青年席位專案」核銷流程
 
 > 演出結束後核銷相關結案請於**演出結束後 5 個工作天內**繳交相關文件，逾期不候；並請先提供**售票系統提供之青年席銷售報表電子檔**，確認金額後請郵寄以下紙本文件至「**830043 高雄市鳳山區三多一路 1 號　藝術總監室 陳育璟秘書 收**」
 >
@@ -39,6 +42,7 @@
 - ✅ OPENTIX 活動登錄表	2026/5/10	
 - ✅ OPENTIX 上架	2026/5/13
 - ✅ 文化幣青年席位	2026/5/13	
+- ✅ OPENTIX 宣傳圖檔更新 2026/6/7	
 
 <img src="https://chenhsuantu.github.io/K19/pic/OT啟售.jpg" width="50%">     
 
@@ -46,7 +50,7 @@
 OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://www.opentix.life/event/2053691239618875392)       
 - 身心障礙人士及陪同者1名購票5折優待，入場時應出示身心障礙手冊，陪同者與身障者需同時入場       
 - 65歲以上年長者購票可享5折優惠，入場時請出示證件       
-- 早鳥票即日起至6/10止購票享75折優惠       
+- 早鳥票即日起至6/14止購票享75折優惠       
 - 團員優惠8折（輸入優惠代碼）       
 - 學生購票享8折優惠（入場時請出示證件）       
 - 衛武營付費會員9折       
@@ -58,16 +62,36 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
 ## 設計相關
 外包設計師：林怡盈    
 
-時程規劃：
+- ✅ 風格挑選與草圖確認	2026/5/13
+- ✅ 草圖修改與視覺初稿提供	2026/5/23    
+- ✅ 數位圖和海報第一版完稿	2026/5/27
+- ✅ 數位圖和海報第一版提出修改建議	2026/5/27
+- ✅ 數位圖和海報第二版完稿、細修並定稿	2026/5/30
+- ✅ 酷卡和邀請卡第一版完稿	2026/6/1
+- ✅ 酷卡和邀請卡第一版提出修改建議	2026/6/7
+- ✅ 數位圖和海報第二版完稿、細修並定稿	2026/6/8
+- ✅ 數位素材圖檔交付	2026/6/9
+- ⚠️ <font color="red">設計師款項交付</font> 2026/6/14
+
+### 設計圖檔     
+- [Dropbox](https://www.dropbox.com/scl/fo/3hhlqtnlx42zglbccx27p/AG7-iqOrEiseO_FmN07ldLg?rlkey=wvsppbm6n2vps4oy12006zo1b&st=gfgdpgjb&dl=0)
+- [網頁備存](https://chenhsuantu.github.io/K19/design_file)      
+
+### 原預計時程規劃
 - 風格挑選（3天）2026/5/13     
 - 草圖繪製（3天）2026/5/16     
 - 草圖確認後完稿（7天）2026/5/23
- 
+
+### 提供給設計師資料
+- [設計需求](https://chenhsuantu.github.io/K19/design_proposal)
+- [設計參考資訊](https://chenhsuantu.github.io/K19/design_idea)
+- [設計文字內容](https://chenhsuantu.github.io/K19/design_content)
+
 註：修改次數以三次為限，改稿工作天為3天，包含圖面調整和排版、文字資訊修正等等。超過一次酌收＄300；完稿之後若圖面不滿意想換風格，則收取半價（$4500），新圖以另案重新計費。        
 
 <img src="https://chenhsuantu.github.io/K19/pic/design_initial.jpg" width="50%">  
      
-### 設計資料
+### 提供給設計師資料
 - [設計需求](https://chenhsuantu.github.io/K19/design_proposal)
 - [設計參考資訊](https://chenhsuantu.github.io/K19/design_idea)
 - [設計文字內容](https://chenhsuantu.github.io/K19/design_content)
@@ -89,29 +113,39 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
 - 錄影：兩機贈一機 
 - 錄音：四軌
            
-### 樂器車
-- <font color="blue">聯絡樂器車廠商</font> 2026/7/6
+### 樂器車廠商
+- <font color="blue">聯絡樂器車廠商</font> 2026/7/6      
 
 樂器車廠商：＿＿＿＿      
-
 需求：
 - 車輛：＿＿ 台
 - 時程：
   - 7/27 早上：雄中綜合大樓 → 衛武營
   - 7/29 晚上：衛武營 → 雄中管樂社辦
 
-     
+### 鋼琴調音師
+- <font color="blue">聯絡鋼琴調音師</font> 2026/6/21 
+
+鋼琴調音師：＿＿＿＿    
+- [衛武營鋼琴調音申請表單](https://docs.google.com/forms/d/e/1FAIpQLSeHiZ599b0SuwYUrOTc9iavwIflct8tb3dnqcmAzi5LMumwVg/viewform)
+  - 窗口：呂佳能調音師
+  - 公司：07-5315383
+  - 手機：0987-821-131
+
 <br/>
 
 
 ## 人事相關
 
 - ✅ 團練時程表與報名表單整理	2026/5/6
-- ✅ 公告團練資訊 2026/5/7
-- ⚠️ <font color="red">第一階段找人截止</font>	2026/5/23	
-- ⚠️ <font color="red">公告分團</font>	2026/6/1
+- ✅ 公告團練資訊	2026/5/7
+- ✅ 第一階段找人截止	2026/5/23	
+- ✅ 公告分團	2026/6/1
 - <font color="blue">☐ 團練出席狀況表單製作</font>	2026/6/21
 - <font color="blue">☐ 參與人員大表（含便當統計）</font>	2026/6/21
+
+### 演出人員名單／分團結果
+- [演出人員名單（分團結果）](https://chenhsuantu.github.io/K19/member)     
 
 ### 人事幹部分工
 - 顧問：遠軒
@@ -121,7 +155,7 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
   - 昭安：薩克斯風、法國號、小號
   - 侑宸：長號、低銅、打擊（其他）
  
-### 團員相關資訊
+### 團練相關資訊
 <img src="https://chenhsuantu.github.io/K19/pic/timetable.jpg" width="70%">   
 
 #### 公告
@@ -129,7 +163,8 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
 - 音樂會公開資訊：[https://bit.ly/ksawo19](https://bit.ly/ksawo19)
 #### 幹部內部
 - [參與意願調查結果](https://docs.google.com/spreadsheets/d/1dFJ_M3eat-5QGJzTTgddtNwCkPXwnEF2yeBqd5hIU2Q/edit?gid=836008564#gid=836008564)
-- [演出人員調查表](https://docs.google.com/spreadsheets/d/14wUn90VWnSjyz9NNkTU3BDj4-iz8mVe39fiHhzpdh70/edit?gid=1777202819#gid=1777202819)
+- [演出人員調查表](https://docs.google.com/spreadsheets/d/14wUn90VWnSjyz9NNkTU3BDj4-iz8mVe39fiHhzpdh70/edit?gid=1777202819#gid=1777202819)    
+- [建議樂器編制](https://docs.google.com/spreadsheets/d/1amRzK4iyc2WEGupP9PMHxjSnLi4SyzdosnzXzsGKEOY/edit?gid=1134243704#gid=1134243704)
 
      
 <br/>
