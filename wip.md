@@ -17,6 +17,9 @@
 - ⏳ <font color="red">衛武營舞監演出需求確認期限</font> 2026/7/17
 - ⏳ <font color="red">前後台工作證資訊提供</font> 2026/7/17       
 
+### 衛武營場館租借系統
+[《星群下的幻影奇談》雄中管樂團與校友管樂團 (25331045)](https://portal.venuehire.npac-weiwuying.org/Portal/Application/Detail/54ce43ab-4c73-f011-b069-005056b0842b)
+
 ### 衛武營雙月刊節目文宣    
 <img src="https://chenhsuantu.github.io/K19/pic/%E9%9B%99%E6%9C%88%E5%88%8A%E6%A0%A1%E7%A8%BF.png" width="50%">  
 
@@ -46,6 +49,9 @@
 - ✅ OPENTIX 宣傳圖檔更新 2026/6/7	
 
 <img src="https://chenhsuantu.github.io/K19/pic/OT啟售.jpg" width="50%">     
+
+### OPENTIX 系統
+[《星群下的幻影奇談》雄中管樂團與校友管樂團　節目代碼：115051104B](https://opt.console.opentix.life/organizer/index.html#/exhibition/event/dashboard/2053722527579742209?pId=2053691239618875392&pOnlineStart=1778644800&pOnlineEnd=1785328200)
 
 ### 售票資訊
 OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://www.opentix.life/event/2053691239618875392)       
