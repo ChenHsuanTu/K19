@@ -95,7 +95,7 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
 ### 提供給設計師資料
 - [設計需求](https://chenhsuantu.github.io/K19/design_proposal)
 - [設計參考資訊](https://chenhsuantu.github.io/K19/design_idea)
-- [設計文字內容](https://chenhsuantu.github.io/K19/design_content)
+- [設計文字內容](https://chenhsuantu.github.io/K19/design_content)                   
 　　　　　
 ### 關於雄管校友團 logo
 原定用投票時粗略版本，暫時用在本次音樂會，未來可以再精修正式 logo。但作業時程上難配合，因此本次不放校友團 logo。
@@ -104,7 +104,7 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
 
 ## 📍廠商相關
 
-### 📍錄影錄音廠商
+### 🎥錄影錄音廠商
 - ✅ 錄影作業保留席 2026/5/12
 - ✅ 合約簽約 2026/5/13
 - ✅ 訂金繳納 2026/5/13
@@ -114,7 +114,9 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
 - 錄影：兩機贈一機 
 - 錄音：四軌
            
-### 📍樂器車廠商
+<br/>
+
+### 🚚樂器車廠商
 - ⏳ <font color="blue">聯絡樂器車廠商</font> 2026/7/6      
 
 **樂器車廠商：＿＿＿＿＿＿**      
@@ -123,8 +125,10 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
 - 時程：
   - 7/27 早上：雄中綜合大樓 → 衛武營
   - 7/29 晚上：衛武營 → 雄中管樂社辦
+           
+<br/>
 
-### 📍鋼琴調音師
+### 🎹鋼琴調音師
 - ⏳ <font color="blue">聯絡鋼琴調音師</font> 2026/6/21 
 
 **鋼琴調音師：＿＿＿＿＿＿** 
@@ -163,6 +167,7 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
 #### 公告
 - 參與意願調查：[https://forms.gle/mGhX678bWQsAyUMW9](https://forms.gle/mGhX678bWQsAyUMW9)
 - 音樂會公開資訊：[https://bit.ly/ksawo19](https://bit.ly/ksawo19)       
+
 #### 幹部內部
 - [參與意願調查結果](https://docs.google.com/spreadsheets/d/1dFJ_M3eat-5QGJzTTgddtNwCkPXwnEF2yeBqd5hIU2Q/edit?gid=836008564#gid=836008564)
 - [演出人員調查表](https://docs.google.com/spreadsheets/d/14wUn90VWnSjyz9NNkTU3BDj4-iz8mVe39fiHhzpdh70/edit?gid=1777202819#gid=1777202819)    
@@ -213,20 +218,15 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
      
 <br/>
 
-## 📍演出節目相關
+## 📍節目製作相關
+- ✅ 說書人節目呈現討論 2026/6/12
+- ⚠️ <font color="red">說書人腳本初稿</font> 2026/6/21
+  - Alex and the Phantom Band
+  - Gulliver’s Travels
+  - 流星群の物語～はかなくも壮大な宇宙へ～
+- ⚠️ <font color="red">說書人演員初次討論</font> 2026/6/26
 
-### 說書人
-
-- 說書人簽約
-- 說書人排練時間確認
-- 說書人講稿
-- 校長聯繫確認
-
-### 說書人講稿
-
-1. Alex and the Phantom Band
-2. Gulliver’s Travels
-3. 流星群の物語～はかなくも壮大な宇宙へ～
-
-<br/>
-
+### 說書人腳本構思
+- [Alex and the Phantom Band]()
+- [Gulliver’s Travels]()
+- [流星群の物語～はかなくも壮大な宇宙へ～]()
