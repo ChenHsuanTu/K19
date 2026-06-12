@@ -20,8 +20,8 @@
 - 酷卡
     - [正面](https://chenhsuantu.github.io/K19/design_file/2026雄中幻影奇談_card01_105x148mm.jpg)
     - [背面](https://chenhsuantu.github.io/K19/design_file/2026雄中幻影奇談_card02_105x148mm.jpg)      
-    <img src="https://chenhsuantu.github.io/K19/design_file/2026雄中幻影奇談_card01_105x148mm" height="100px">
-    <img src="https://chenhsuantu.github.io/K19/design_file/2026雄中幻影奇談_card02_105x148mm" height="100px">
+    <img src="https://chenhsuantu.github.io/K19/design_file/2026雄中幻影奇談_card01_105x148mm.jpg" height="100px">
+    <img src="https://chenhsuantu.github.io/K19/design_file/2026雄中幻影奇談_card02_105x148mm.jpg" height="100px">
 - 邀請卡
     - [正面](https://chenhsuantu.github.io/K19/design_file/2026雄中幻影奇談_inv_card01_100x210.jpg)
     - [背面](https://chenhsuantu.github.io/K19/design_file/2026雄中幻影奇談_inv_card02_100x210.jpg)      
