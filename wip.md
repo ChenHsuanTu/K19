@@ -13,9 +13,9 @@
 - ✅ 演出需求表 2026/6/5
 - ✅ 前後台工作證初版 2026/6/5
 - ⚠️ <font color="red">衛武營場館租借尾款</font> 2026/6/24
-- ⏳<font color="red">場地技術會議</font> 暫訂 2026/7/8
-- ⏳<font color="red">衛武營舞監演出需求確認期限</font> 2026/7/17
-- ⏳<font color="red">前後台工作證資訊提供</font> 2026/7/17       
+- ⏳ <font color="red">場地技術會議</font> 暫訂 2026/7/8
+- ⏳ <font color="red">衛武營舞監演出需求確認期限</font> 2026/7/17
+- ⏳ <font color="red">前後台工作證資訊提供</font> 2026/7/17       
 
 ### 衛武營雙月刊節目文宣    
 <img src="https://chenhsuantu.github.io/K19/pic/%E9%9B%99%E6%9C%88%E5%88%8A%E6%A0%A1%E7%A8%BF.png" width="50%">  
