@@ -5,11 +5,6 @@
 《星群下的幻影奇談》雄中管樂團與校友管樂團    
 KSAWO & KSWB 19th Joint Concert
 
-||||
-|--|--|--|
-| <img src="https://chenhsuantu.github.io/K19/pic/demo1.jpg"> | <img src="https://chenhsuantu.github.io/K19/pic/demo2.jpg"> |<img src="https://chenhsuantu.github.io/K19/pic/demo3.jpg"> |
-
-
 ~~高雄中學校友管樂團　暨　高雄中學管樂團　第十九次聯合音樂會~~    
 ~~K.S.H.S. Alumni Wind Orchestra & Kaohsiung Senior High School Wind Band 19th Annual Joint Concert~~
 
