@@ -15,9 +15,9 @@
 - ✅ 演出需求表 2026/6/5
 - ✅ 前後台工作證初版 2026/6/5
 - ⚠️ <font color="red">衛武營場館租借尾款</font> 2026/6/24
--  <font color="red">場地技術會議</font> 暫訂 2026/7/8
--  <font color="red">衛武營舞監演出需求確認期限</font> 2026/7/17
--  <font color="red">前後台工作證資訊提供</font> 2026/7/17       
+- ⏳<font color="red">場地技術會議</font> 暫訂 2026/7/8
+- ⏳<font color="red">衛武營舞監演出需求確認期限</font> 2026/7/17
+- ⏳<font color="red">前後台工作證資訊提供</font> 2026/7/17       
 
 ### ⭐ 關於「文化幣青年席位專案」核銷流程
 
@@ -72,6 +72,7 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
 - ✅ 數位圖和海報第二版完稿、細修並定稿	2026/6/8
 - ✅ 數位素材圖檔交付	2026/6/9
 - ⚠️ <font color="red">設計師款項交付</font> 2026/6/14
+- ⏳ <font color="red">酷卡與邀請卡印刷</font> 2026/7/5
 
 ### 設計圖檔     
 - [Dropbox](https://www.dropbox.com/scl/fo/3hhlqtnlx42zglbccx27p/AG7-iqOrEiseO_FmN07ldLg?rlkey=wvsppbm6n2vps4oy12006zo1b&st=gfgdpgjb&dl=0)
@@ -108,15 +109,15 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
 - ✅ 合約簽約 2026/5/13
 - ✅ 訂金繳納 2026/5/13
 
-錄影錄音廠商：禾立藝術     
+**錄影錄音廠商：禾立藝術**     
 方案費用：$ 29,500     
 - 錄影：兩機贈一機 
 - 錄音：四軌
            
 ### 樂器車廠商
-- <font color="blue">聯絡樂器車廠商</font> 2026/7/6      
+- ⏳ <font color="blue">聯絡樂器車廠商</font> 2026/7/6      
 
-樂器車廠商：＿＿＿＿      
+**樂器車廠商：＿＿＿＿**      
 需求：
 - 車輛：＿＿ 台
 - 時程：
@@ -124,9 +125,9 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
   - 7/29 晚上：衛武營 → 雄中管樂社辦
 
 ### 鋼琴調音師
-- <font color="blue">聯絡鋼琴調音師</font> 2026/6/21 
+- ⏳ <font color="blue">聯絡鋼琴調音師</font> 2026/6/21 
 
-鋼琴調音師：＿＿＿＿    
+**鋼琴調音師：＿＿＿＿**     
 - [衛武營鋼琴調音申請表單](https://docs.google.com/forms/d/e/1FAIpQLSeHiZ599b0SuwYUrOTc9iavwIflct8tb3dnqcmAzi5LMumwVg/viewform)
   - 窗口：呂佳能調音師
   - 公司：07-5315383
@@ -141,8 +142,8 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
 - ✅ 公告團練資訊	2026/5/7
 - ✅ 第一階段找人截止	2026/5/23	
 - ✅ 公告分團	2026/6/1
-- <font color="blue">☐ 團練出席狀況表單製作</font>	2026/6/21
-- <font color="blue">☐ 參與人員大表（含便當統計）</font>	2026/6/21
+- ⚠️ <font color="blue">團練出席狀況表單製作</font>	2026/6/21
+- ⚠️ <font color="blue">參與人員大表（含便當統計）</font>	2026/6/21
 
 ### 演出人員名單／分團結果
 - [演出人員名單（分團結果）](https://chenhsuantu.github.io/K19/member)     
@@ -172,13 +173,13 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
 ## 📍團練現場相關
 - ⚠️ <font color="red">團費繳納方式</font> 2026/6/21
 - ⚠️ <font color="red">團員票領票方式</font> 2026/6/21
--  <font color="blue">庶務值班規劃</font> 2026/7/10
+- ⏳ <font color="blue">庶務值班規劃</font> 2026/7/5
 
 ### 團員費用與團員票特殊優惠
 - 團費 500 元：領團員票 2 張
 - 活動費 1000 元（演出人員必須要繳交）
 - OPENTIX 輸入團員折扣碼 ksawokswb 享 8 折
-- <font color="red">團員半價方案</font>：加價 1000 元，可領原價 500 元票 4 張，即等同半價優惠。
+- ✅ <font color="red">團員半價方案</font>：加價 1000 元，可領原價 500 元票 4 張，即等同半價優惠。
    - 每位團員僅限 1 次
    - 限定由票務刷票，一次需購買 4 張，不得分次。
    - 可改成領取 800 元票 2 張，或 300 元票 6 張。      
@@ -194,6 +195,9 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
    - [IG](https://www.instagram.com/kswb_is_the_best/) 大頭照
 - ✅ 開始宣傳 2026/6/10
 - ✅ 早鳥截止 2026/6/14
+- ☑️ 持續宣傳 2026/6/5 - 2026/8/1
+- ⏳ <font color="blue">回饋單</font> 2026/7/5
+
     
 <br/>
 
@@ -203,7 +207,7 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
 <br/>
 
 ## 📍節目冊相關
-- <font color="red">網頁設計製作初稿</font> 2026/6/21
+- ⏳ <font color="red">網頁設計製作初稿</font> 2026/6/21
 
      
 <br/>
