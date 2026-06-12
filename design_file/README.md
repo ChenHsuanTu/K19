@@ -1,23 +1,19 @@
-## 素材圖檔
+## 設計圖檔
+     
+### 數位使用
+- [音樂會宣傳主圖](https://chenhsuantu.github.io/K19/design_file/2026雄中_210x210cm.jpg)
+![](https://chenhsuantu.github.io/K19/design_file/2026雄中_210x210cm.jpg)
+- [OPENTIX 宣傳圖檔](https://chenhsuantu.github.io/K19/design_file/2026雄中校友_300x420px.png)
+- [數位大頭貼](https://chenhsuantu.github.io/K19/design_file/FB頭貼_900x900px.png)
+- [數位banner](https://chenhsuantu.github.io/K19/design_file/FBbanner_1640x856.png)
+- [數位圖框](https://chenhsuantu.github.io/K19/design_file/bg_900x900px.png)
+- [素材圖檔](https://chenhsuantu.github.io/K19/design_file/png)
 
-### 文字素材
-- [標題](https://chenhsuantu.github.io/K19/design_file/png/title.png)
-- [團名](https://chenhsuantu.github.io/K19/design_file/png/高雄中學校友管樂團　 高雄中學管樂團　 第十九次聯合音樂會.png)
-
-### 樂器素材
-- [上低音號](https://chenhsuantu.github.io/K19/design_file/png/Euph.png)
-- [長笛](https://chenhsuantu.github.io/K19/design_file/png/Fl.png)
-- [薩克管](https://chenhsuantu.github.io/K19/design_file/png/Sax.png)
-- [小號](https://chenhsuantu.github.io/K19/design_file/png/Tp.png)
-
-### 故事素材
-- [月亮與人與船](https://chenhsuantu.github.io/K19/design_file/png/BB.png)
-- [船](https://chenhsuantu.github.io/K19/design_file/png/Boat.png)
-- [鳥群](https://chenhsuantu.github.io/K19/design_file/png/bird.png)
-- [書本河流](https://chenhsuantu.github.io/K19/design_file/png/Book.png)
-- [月亮與人](https://chenhsuantu.github.io/K19/design_file/png/Boy.png)
-- [雲朵](https://chenhsuantu.github.io/K19/design_file/png/Cloud.png)
-
-
-
-
+### 印刷品
+- [A1海報](https://chenhsuantu.github.io/K19/design_file/2026雄中校友_post_A1.jpg)
+- 酷卡
+    - [正面](https://chenhsuantu.github.io/K19/design_file/2026雄中幻影奇談_card01_105x148mm.jpg)
+    - [背面](https://chenhsuantu.github.io/K19/design_file/2026雄中幻影奇談_card02_105x148mm.jpg)
+- 邀請卡
+    - [正面](https://chenhsuantu.github.io/K19/design_file/2026雄中幻影奇談_inv_card01_100x210.jpg)
+    - [背面](https://chenhsuantu.github.io/K19/design_file/2026雄中幻影奇談_inv_card02_100x210.jpg)
