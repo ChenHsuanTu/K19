@@ -15,9 +15,9 @@ Composer: David Maslanka
 
 
 ## 腳本
-`中文翻譯：杜承軒`
+##### 中文翻譯：杜承軒
 
-（由說書人第一句話開場）
+`由說書人第一句話開場`
 
 耀眼燦爛的金色陽光，灑在小鎮廣場上熱鬧非凡的市集日。 ■
 
@@ -27,19 +27,19 @@ Composer: David Maslanka
 
 -
 
-（打擊樂漸強後，段落速度跟著十三聲鐘聲）
+`打擊樂漸強後，段落速度跟著十三聲鐘聲`
 
-<sup>①</sup>當整點的鐘聲響起時，Alex 驚訝地抬起頭。
+<sup>1</sup>當整點的鐘聲響起時，Alex 驚訝地抬起頭。
 
-<sup>②</sup>他看見一個皮膚白皙，有著深邃藍眼睛的女孩。 <font style="color:gray;">［皮膚白皙 or 臉色蒼白］</font>
+<sup>2</sup>他看見一個皮膚白皙，有著深邃藍眼睛的女孩。 <font style="color:gray;">［皮膚白皙 or 臉色蒼白］</font>
 
-<sup>③</sup>當女孩轉頭望向鐘樓時，Alex 也順著她的視線看了過去。
+<sup>3</sup>當女孩轉頭望向鐘樓時，Alex 也順著她的視線看了過去。
 
-「<sup>④</sup><font style="color:blue;">……四……</font>」Alex 數著鐘聲。
+「<font style="color:blue;"><sup>4</sup>……四……</font>」Alex 數著鐘聲。
 
-「<font style="color:blue;"><sup>⑤</sup>五……<sup>⑥</sup>六……<sup>⑦</sup>七……<sup>⑧</sup>八……<sup>⑨</sup>哇，希望還來得及！</font>」
+「<font style="color:blue;"><sup>5</sup>五……<sup>6</sup>六……<sup>7</sup>七……<sup>8</sup>八……<sup>9</sup>哇，希望還來得及！</font>」
 
-「<font style="color:blue;"><sup>⑩</sup>奶奶叫我今天早上十一點前要到家……<sup>⑪</sup>十一……噢，不要再響了！……<sup>⑫</sup>十二……<sup>⑬</sup>十三？？這也太奇怪了吧！</font>」
+「<font style="color:blue;"><sup>10</sup>奶奶叫我今天早上十一點前要到家……<sup>11</sup>十一……噢，不要再響了！……<sup>12</sup>十二……<sup>13</sup>十三？？這也太奇怪了吧！</font>」■
 
 -
 
@@ -47,85 +47,51 @@ Composer: David Maslanka
 
 Alex 在昏暗且怪異的光線中環顧四周。
 
-所有熟悉的店鋪依然林立在街道兩旁，所有的人也都還在這裡。但他們卻像真人大小的玩偶一樣，被定格在原地。
+所有熟悉的店鋪依然林立在街道兩旁，所有的人也都還在這裡。但他們卻像真人大小的玩偶一樣，被定格在原地。■
 
 -
 
-當他環顧了一圈又一圈時，微風中隱隱約約地，傳來了一陣微弱的遊行音樂。
-
-Alex turned toward the music and saw the girl, straw-colored hair and blue checked skirt blowing in the wind, beckoning him to her.
+當他環顧了一圈又一圈時，微風中隱隱約約地，傳來了一陣微弱的遊行音樂。■　`打擊遊行音樂`
 
 Alex 轉向音樂傳來的方向，看見了那個女孩，稻草色的頭髮和藍色格子裙在風中飄揚，正朝著他招手。
 
-When he reached her she took him by the hand and led him along the winding, twisting streets, the music getting stronger all the time.
-
-當他走到女孩身邊時，女孩牽起他的手，帶著他穿過蜿蜒曲折的街道，一路上，音樂也變得越來越響亮。
+當他走到女孩身邊時，女孩牽起他的手，帶著他穿過蜿蜒曲折的街道，一路上，音樂也變得越來越響亮。■
 
 -
-
-The girl stopped short in front of a shabby looking theater.
 
 女孩在一間外觀破舊的劇院前停下腳步。
 
-Its walls were stained with neglect.
-
 牆壁因缺乏維護而佈滿汙漬。
-
-Its windows were boarded up, and the door was hung at an odd angle.
 
 窗戶被木板釘死，大門也以一種奇怪的角度歪向一邊。
 
-An old sign over the door read “His Majesty’s Royal Band.”
+門上有一塊古老的招牌寫著：■
 
-門上有一塊古老的招牌寫著：「陛下皇家管樂團」。
-
-The girl opened the door and ushered Alex inside.
+「陛下皇家管樂團」。■ `銅管齊奏`
 
 女孩打開門，帶著 Alex 走進去。
 
-In front of him spread a brightly lit concert hall with red velvet seats, diamond chandeliers, and dark mahogany walls.
+呈現在他眼前的是一座燈火通明的音樂廳，裡面有著紅色的天鵝絨座椅、鑽石水晶燈，以及深色的紅木牆壁。■
 
-呈現在他眼前的是一座燈火通明的音樂廳，裡面有著紅色的天鵝絨座椅、鑽石水晶燈，以及深色的紅木牆壁。
-
-The stage was enormous, with red curtains draped around the front like a giant birthday cake.
-
-舞台巨大無比，前方垂掛著的紅色帷幕，看起來像個巨大的生日蛋糕。
-
-But what was on the stage was even more astonishing.
+舞台巨大無比，前方垂掛著的紅色帷幕，看起來像個巨大的生日蛋糕。■
 
 但舞台上的景象更加令人驚訝。
 
-Music was pouring out of instruments, and a baton was waving about, directing the band, but there were no people!
-
-音樂正從樂器中傾瀉而出，一根指揮棒在空中揮舞著指揮樂團，但現場卻一個人都沒有！
+音樂正從樂器中傾瀉而出，一根指揮棒在空中揮舞著指揮樂團，但現場卻一個人都沒有！■
 
 -
 
-The music stopped, and suddenly all of the instruments looked at Alex.
-
 音樂戛然而止，突然間，所有的樂器都看向了 Alex。
-
-The baton was the last to turn, but when it did, it pointed directly at Alex.
 
 指揮棒是最後一個轉過來的，當它轉過來時，直接指向了 Alex。
 
-“Well, state your name and business, young man,” said the baton, “We haven’t got all day to stand here gawking at each other.”
-
 「<font style="color:green;">嘿，年輕人，報上名來。來這有什麼事嗎？</font>」指揮棒說道，「<font style="color:green;">我們可沒閒工夫站在這兒互相乾瞪眼。</font>」
-
-“Um…my name is Alex,” said Alex, “and I was looking for a flute to give to my father for his birthday.”
 
 「<font style="color:blue;">嗯……我叫 Alex，</font>~~」Alex 說，「~~<font style="color:blue;">我在找一支長笛，想送給爸爸當生日禮物。</font>」
 
-“I am the conductor,” spoke the baton grandly.
-
 「<font style="color:green;">我是指揮，</font>」指揮棒莊嚴地說。
 
-“I give the band a beat. Also I tell the players how the music is supposed to sound. Let me introduce you to…His Majesty’s Royal Band!” 
-
 「<font style="color:green;">我給樂團節拍，也告訴演奏者音樂應該聽起來是什麼樣子。讓我向你介紹……陛下皇家管樂團！</font>」
-
-[Band plays and stops]
 
 `【樂團演奏後停止】`
 
