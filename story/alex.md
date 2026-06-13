@@ -43,15 +43,15 @@ Alex followed her line of sight as she turned her head to the bell tower.
 
 “…four…” Alex counted the strokes.
 
-「……四……」Alex 數著鐘聲。
+<font style="color:blue;">「……四……」</font>Alex 數著鐘聲。
 
 “Five…six…seven…eight…wow, I hope it’s not too late!”
 
-「五……六……七……八……哇，希望還來得及！」
+<font style="color:blue;">「五……六……七……八……哇，希望還來得及！」</font>
 
 “Nanna told me to be home by eleven o’clock this morning…eleven…oh, please stop right there!…Twelve…thirteen?? THAT can’t have been right!”
 
-「奶奶叫我今天早上十一點前要到家……十一……噢，不要再響了！……十二……十三？？這也太奇怪了吧！」
+<font style="color:blue;">「奶奶叫我今天早上十一點前要到家……十一……噢，不要再響了！……十二……十三？？這也太奇怪了吧！」</font>
 
 -
 
@@ -89,27 +89,27 @@ The girl stopped short in front of a shabby looking theater.
 
 Its walls were stained with neglect.
 
-牆壁因缺乏照看而佈滿污漬。
+牆壁因缺乏維護而佈滿汙漬。
 
 Its windows were boarded up, and the door was hung at an odd angle.
 
-窗戶被木板封死，門板也以古怪的角度傾斜掛著。
+窗戶被木板釘死，大門也以一種奇怪的角度歪向一邊。
 
 An old sign over the door read “His Majesty’s Royal Band.”
 
-門上的一塊舊招牌寫著「陛下皇家管樂團」。
+門上有一塊古老的招牌寫著：「陛下皇家管樂團」。
 
 The girl opened the door and ushered Alex inside.
 
-女孩打開門，引領亞歷克斯走進去。
+女孩打開門，帶著 Alex 走進去。
 
 In front of him spread a brightly lit concert hall with red velvet seats, diamond chandeliers, and dark mahogany walls.
 
-呈現在他眼前的是一座燈火通明的音樂廳，有著紅天鵝絨座椅、鑽石吊燈和深色紅木牆面。
+呈現在他眼前的是一座燈火通明的音樂廳，裡面有著紅色的天鵝絨座椅、鑽石水晶燈，以及深色的紅木牆壁。
 
 The stage was enormous, with red curtains draped around the front like a giant birthday cake.
 
-舞台巨大無比，前方的紅色帷幕垂掛著，看起來像個巨大的生日蛋糕。
+舞台巨大無比，前方垂掛著的紅色帷幕，看起來像個巨大的生日蛋糕。
 
 But what was on the stage was even more astonishing.
 
@@ -123,27 +123,27 @@ Music was pouring out of instruments, and a baton was waving about, directing th
 
 The music stopped, and suddenly all of the instruments looked at Alex.
 
-音樂戛然而止，突然間所有的樂器都看向了亞歷克斯。
+音樂戛然而止，突然間，所有的樂器都看向了 Alex。
 
 The baton was the last to turn, but when it did, it pointed directly at Alex.
 
-指揮棒是最後一個轉過來的，當它轉過來時，直接指向了亞歷克斯。
+指揮棒是最後一個轉過來的，當它轉過來時，直接指向了 Alex。
 
 “Well, state your name and business, young man,” said the baton, “We haven’t got all day to stand here gawking at each other.”
 
-「好吧，年輕人，報上名來並說明來意，」指揮棒說道，「我們可沒時間整天站在這兒互相瞪眼。」
+<font style="color:green;">「嘿，年輕人，報上名來。來這有什麼事嗎？」</font>指揮棒說道，<font style="color:green;">「我們可沒閒工夫站在這兒互相乾瞪眼。」</font>
 
 “Um…my name is Alex,” said Alex, “and I was looking for a flute to give to my father for his birthday.”
 
-「嗯……我叫亞歷克斯，」亞歷克斯說，「我正在找一支長笛要送給我父親當生日禮物。」
+<font style="color:blue;">「嗯……我叫 Alex，」</font>Alex 說，<font style="color:blue;">「我正在找一支長笛要送給我父親當生日禮物。」</font>
 
 “I am the conductor,” spoke the baton grandly.
 
-「我是指揮，」指揮棒莊嚴地說。
+<font style="color:green;">「我是指揮，」指揮棒莊嚴地說。</font>
 
 “I give the band a beat. Also I tell the players how the music is supposed to sound. Let me introduce you to…His Majesty’s Royal Band!” 
 
-「我給樂團節拍，也告訴演奏者音樂應該聽起來是什麼樣子。讓我向你介紹……陛下皇家管樂團！」
+<font style="color:green;">「我給樂團節拍，也告訴演奏者音樂應該聽起來是什麼樣子。讓我向你介紹……陛下皇家管樂團！」</font>
 
 [Band plays and stops]
 
@@ -157,7 +157,7 @@ There was a moment of silence. Then the baton laid itself gently on the conducto
 
 Alex climbed upon the stage and his eyes fell upon a strange sight.
 
-亞歷克斯爬上舞台，他的目光落在一個奇異的景象上。
+Alex 爬上舞台，他的目光落在一個奇異的景象上。
 
 All of the instruments were laid down across the chairs as if on some non-existent lap, hovering five or six inches above the seats.
 
@@ -165,17 +165,17 @@ All of the instruments were laid down across the chairs as if on some non-existe
 
 Alex bumped into one of the flutes. “Oops, sorry,” he said.
 
-亞歷克斯撞到了一支長笛。「噢，對不起，」他說。
+Alex 撞到了一支長笛。「噢，對不起，」他說。
 
 “That’s all right, lad,” said the flute. “My name is Fiona. You’re Alex, right? And you’re looking for a flute for your father. Come and see me before you leave, because I think I have something that might interest you.”
 
-「沒關係，孩子，」長笛說，「我叫菲奧娜。你是亞歷克斯，對吧？你正在為你父親找長笛。你離開前來找我一下，我想我有東西你可能會感興趣。」
+「沒關係，孩子，」長笛說，「我叫菲奧娜。你是 Alex，對吧？你正在為你父親找長笛。你離開前來找我一下，我想我有東西你可能會感興趣。」
 
 -
 
 Alex made his way to the conductor’s podium, and climbed up on it.
 
-亞歷克斯走向指揮台並爬了上去。
+Alex 走向指揮台並爬了上去。
 
 In front of him spread the glittering band like a handful of gold and silver that some careless giant had let fall.
 
@@ -187,7 +187,7 @@ And there was the baton. Its dark mahogany handle glowed in the light of the cha
 
 Alex picked it up and held it in front of him.
 
-亞歷克斯拿起它並舉在身前。
+Alex 拿起它並舉在身前。
 
 Without thinking, he lifted the baton and pointed it at the trumpets, which responded with a golden shower of sound.
 
@@ -237,11 +237,11 @@ And then the whole band joined in.
 
 Overwhelmed with sound and dizzy with color, Alex lifted his baton to the far back of the stage, and cued the percussion. [The music plays to a conclusion.]
 
-亞歷克斯被聲音淹沒、被色彩暈眩，他向舞台最後方舉起指揮棒，示意打擊樂部進入。[音樂演奏至結束。]
+Alex 被聲音淹沒、被色彩暈眩，他向舞台最後方舉起指揮棒，示意打擊樂部進入。[音樂演奏至結束。]
 
 Alex lowered his tired arms, and with a great sigh slid to the floor, fading into unconsciousness.
 
-亞歷克斯放下疲憊的雙臂，深深嘆了一口氣後滑落到地板上，漸漸失去了意識。
+Alex 放下疲憊的雙臂，深深嘆了一口氣後滑落到地板上，漸漸失去了意識。
 
 He barely noticed Fiona as she slipped a package into his pocket.
 
@@ -251,15 +251,15 @@ He barely noticed Fiona as she slipped a package into his pocket.
 
 “Alex!” called Nanna, “Wake up, or you’re going to miss your father before he leaves for work. It’s his birthday today!”
 
-「亞歷克斯！」奶奶叫道，「快醒醒，不然你就在你爸爸去上班前見不到他了。今天是他的生日！」
+「Alex！」奶奶叫道，「快醒醒，不然你就在你爸爸去上班前見不到他了。今天是他的生日！」
 
 At once Alex sat bolt upright in bed, realizing that he had not gotten his father a present.
 
-亞歷克斯立刻在床上坐得直挺挺的，意識到自己還沒給父親買禮物。
+Alex 立刻在床上坐得直挺挺的，意識到自己還沒給父親買禮物。
 
 As he stood up Alex felt a weight in his pajama pocket.
 
-當他站起身時，亞歷克斯感覺到睡衣口袋裡沉甸甸的。
+當他站起身時，Alex 感覺到睡衣口袋裡沉甸甸的。
 
 Slipping his hand inside, he drew out an ancient-looking wooden box, beautifully polished.
 
@@ -279,7 +279,7 @@ Nestled inside was a wooden flute of glossy mahogany.
 
 Joyously Alex ran downstairs and jumped into his father’s arms.
 
-亞歷克斯興高采烈地跑下樓，撲進了父親的懷裡。
+Alex 興高采烈地跑下樓，撲進了父親的懷裡。
 
 
 ## 英文官方旁白
