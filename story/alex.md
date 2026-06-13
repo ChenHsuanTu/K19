@@ -2,7 +2,8 @@
 Composer: David Maslanka
 
 ## 參考資料
-[🎞️ YouTube 樂團音檔](https://www.youtube.com/watch?v=1lfb5c8NNaM&list=PLTwGp7yPzLtsztraYg2UaE-7z50kd9v-f&index=2)
+- [🎞️ YouTube 樂團音檔](https://www.youtube.com/watch?v=1lfb5c8NNaM&list=PLTwGp7yPzLtsztraYg2UaE-7z50kd9v-f&index=2)
+- [🎞️ 樂譜商示範音檔](https://maslankapress.com/shop/alex-and-the-phantom-band-wind-ens-sets/)
 
 ## 表演安排
 說書人為旁白的角色。因為與指揮會有 cue 點的互動，會定點在一個地方，面對觀眾講話。演出途中目光或手勢，可以往樂團，但不會直接移動過去。     
