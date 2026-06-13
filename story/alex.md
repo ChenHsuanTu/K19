@@ -157,19 +157,19 @@ There was a moment of silence. Then the baton laid itself gently on the conducto
 
 Alex climbed upon the stage and his eyes fell upon a strange sight.
 
-Alex 爬上舞台，他的目光落在一個奇異的景象上。
+Alex 爬上舞台，他的目光停在一個奇怪的畫面上。
 
 All of the instruments were laid down across the chairs as if on some non-existent lap, hovering five or six inches above the seats.
 
-所有的樂器都橫放在椅子上，彷彿放在某個不存在的大腿上，懸浮在椅面上方五、六英吋處。
+所有的樂器都橫放在椅子上，就好像放在某個看不見的大腿上一樣，懸浮在座位上方十幾公分高的地方。
 
 Alex bumped into one of the flutes. “Oops, sorry,” he said.
 
-Alex 撞到了一支長笛。「噢，對不起，」他說。
+Alex 不小心撞到了一支長笛。「<font style="color:blue;">噢，對不起，</font>」他說。
 
 “That’s all right, lad,” said the flute. “My name is Fiona. You’re Alex, right? And you’re looking for a flute for your father. Come and see me before you leave, because I think I have something that might interest you.”
 
-「沒關係，孩子，」長笛說，「我叫菲奧娜。你是 Alex，對吧？你正在為你父親找長笛。你離開前來找我一下，我想我有東西你可能會感興趣。」
+「<font style="color:magenta;">沒關係，小朋友，</font>」長笛說，「<font style="color:magenta;">我叫 Fiona。你是 Alex，對吧？你正在為你父親找一支長笛。你離開前來找我一下，我想我有東西你可能會感興趣。</font>」
 
 -
 
@@ -179,23 +179,23 @@ Alex 走向指揮台並爬了上去。
 
 In front of him spread the glittering band like a handful of gold and silver that some careless giant had let fall.
 
-在他面前展開的閃耀樂團，就像某個粗心的巨人撒下的一把金銀珠寶。
+在他眼前的是一片閃閃發光的樂團，就像某個粗心的巨人不小心撒下的一把金銀珠寶。
 
 And there was the baton. Its dark mahogany handle glowed in the light of the chandeliers.
 
-那根指揮棒就在那裡，它的深色紅木手柄在吊燈的光線下閃閃發亮。
+那根指揮棒就在那裡，它那深色紅木製成的手柄，在水晶燈的光線下閃閃發亮。
 
 Alex picked it up and held it in front of him.
 
-Alex 拿起它並舉在身前。
+Alex 拿起指揮棒，並舉在胸前。
 
 Without thinking, he lifted the baton and pointed it at the trumpets, which responded with a golden shower of sound.
 
-他不假思索地舉起指揮棒指向小號，小號隨即報以如金色驟雨般的樂聲。
+他不經意地將指揮棒指向小號，小號隨即回以一陣如金色陣雨般的樂聲。
 
 Now curious, he pointed the baton at the clarinets.
 
-這下他好奇了，他將指揮棒指向單簧管。
+這下他開始好奇了，他將指揮棒指向單簧管。
 
 -
 
@@ -245,13 +245,13 @@ Alex 放下疲憊的雙臂，深深嘆了一口氣後滑落到地板上，漸漸
 
 He barely noticed Fiona as she slipped a package into his pocket.
 
-他幾乎沒注意到菲奧娜將一個包裹塞進了他的口袋。
+他幾乎沒注意到 Fiona 將一個包裹塞進了他的口袋。
 
 -
 
 “Alex!” called Nanna, “Wake up, or you’re going to miss your father before he leaves for work. It’s his birthday today!”
 
-「Alex！」奶奶叫道，「快醒醒，不然你就在你爸爸去上班前見不到他了。今天是他的生日！」
+「<font style="color:deeppink;">Alex！</font>」奶奶叫道，「<font style="color:green;">快醒醒，不然你就在你爸爸去上班前見不到他了。今天是他的生日！</font>」
 
 At once Alex sat bolt upright in bed, realizing that he had not gotten his father a present.
 
