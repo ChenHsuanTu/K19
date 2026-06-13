@@ -227,7 +227,7 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
 ## 📍節目製作相關
 - ✅ 說書人節目呈現討論 2026/6/12
 - ⚠️ <font color="red">說書人腳本初稿</font> 2026/6/21
-  - Alex and the Phantom Band
+  - ✅ Alex and the Phantom Band 2026/6/13
   - Gulliver’s Travels
   - 流星群の物語～はかなくも壮大な宇宙へ～
 - ⚠️ <font color="red">說書人演員初次討論</font> 2026/6/26
