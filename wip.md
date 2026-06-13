@@ -79,7 +79,7 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
 - ✅ 數位圖和海報第二版完稿、細修並定稿	2026/6/8
 - ✅ 數位素材圖檔交付	2026/6/9
 - ⚠️ <font color="red">設計師款項交付</font> 2026/6/14
-- ⏳ <font color="red">酷卡與邀請卡印刷</font> 2026/7/5
+- ⏳ <font color="red">酷卡與邀請卡印刷</font> 2026/6/21
 
 ### 設計圖檔     
 - [Dropbox](https://www.dropbox.com/scl/fo/3hhlqtnlx42zglbccx27p/AG7-iqOrEiseO_FmN07ldLg?rlkey=wvsppbm6n2vps4oy12006zo1b&st=gfgdpgjb&dl=0)
@@ -129,7 +129,8 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
 <br/>
 
 ### 🔸鋼琴調音師
-- ⏳ <font color="blue">聯絡鋼琴調音師</font> 2026/6/21 
+- ✅ 調音申請表單填寫 2026/6/13
+- ⏳ <font color="blue">聯絡資訊確認</font> 2026/6/17 
 
 **鋼琴調音師：＿＿＿＿＿＿** 
 費用：$ ＿＿＿       
