@@ -31,11 +31,11 @@ Alex had been absorbing the pulse of market day for the past two hours, searchin
 
 Alex looked up startled as the clock struck the hour.
 
-當鐘聲敲響整點時，亞歷克斯驚訝地抬起頭。
+當整點的鐘聲響起時，Alex 驚訝地抬起頭。
 
 He saw a pale girl with intense blue eyes.
 
-他看見一個臉色蒼白、有著深邃藍眼睛的女孩。
+他看見一個皮膚白皙，有著深邃藍眼睛的女孩。 <font style="color:gray;">［皮膚白皙 or 臉色蒼白］</font>
 
 Alex followed her line of sight as she turned her head to the bell tower.
 
