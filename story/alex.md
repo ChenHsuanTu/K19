@@ -135,7 +135,7 @@ The baton was the last to turn, but when it did, it pointed directly at Alex.
 
 “Um…my name is Alex,” said Alex, “and I was looking for a flute to give to my father for his birthday.”
 
-「<font style="color:blue;">嗯……我叫 Alex，</font>」Alex 說，「<font style="color:blue;">我在找一支長笛，想送給爸爸當生日禮物。</font>」
+「<font style="color:blue;">嗯……我叫 Alex，</font>~~」Alex 說，「~~<font style="color:blue;">我在找一支長笛，想送給爸爸當生日禮物。</font>」
 
 “I am the conductor,” spoke the baton grandly.
 
@@ -147,7 +147,7 @@ The baton was the last to turn, but when it did, it pointed directly at Alex.
 
 [Band plays and stops]
 
-*【樂團演奏後停止】*
+【樂團演奏後停止】
 
 -
 
