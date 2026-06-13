@@ -132,7 +132,7 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
 - ✅ 調音申請表單填寫 2026/6/13
 - ⏳ <font color="blue">聯絡資訊確認</font> 2026/6/17 
 
-**鋼琴調音師：＿＿＿＿＿＿** 
+**鋼琴調音師：＿＿＿＿＿＿**          
 費用：$ ＿＿＿       
 - [衛武營鋼琴調音申請表單](https://docs.google.com/forms/d/e/1FAIpQLSeHiZ599b0SuwYUrOTc9iavwIflct8tb3dnqcmAzi5LMumwVg/viewform)
   - 窗口：呂佳能　調音師
@@ -234,7 +234,7 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
               
 <br/>
 
-<ul style="color: #AAAAAA; font-size: 6px;">
+<ul style="color: gray; font-size: 14px;">
 <li>統編：88043399</li>
 <li>抬頭：高雄中學校友管樂團</li>
 </ul>
