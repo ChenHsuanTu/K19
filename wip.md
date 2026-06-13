@@ -232,9 +232,8 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
 - [Gulliver’s Travels]()
 - [流星群の物語～はかなくも壮大な宇宙へ～]()
 
-<font color="#AAAAAA" size="4">
-<ul>
-<li>統編：88043399         
-<li>抬頭：高雄中學校友管樂團
+<ul style="color: #AAAAAA; font-size: 6px;">
+<li>統編：88043399</li>
+<li>抬頭：高雄中學校友管樂團</li>
 </ul>
-</font>
+
