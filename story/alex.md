@@ -1,7 +1,7 @@
 # Alex and the Phantom Band
 David Maslanka
 
-[YouTube 樂團音檔](https://www.youtube.com/watch?v=1lfb5c8NNaM&list=PLTwGp7yPzLtsztraYg2UaE-7z50kd9v-f&index=2)
+[🎞️ YouTube 樂團音檔](https://www.youtube.com/watch?v=1lfb5c8NNaM&list=PLTwGp7yPzLtsztraYg2UaE-7z50kd9v-f&index=2)
 
 ## 表演安排
 說書人為旁白的角色。因為與指揮會有 cue 點的互動，會定點在一個地方，面對觀眾講話。演出途中目光或手勢，可以往樂團，但不會直接移動過去。     
@@ -13,7 +13,7 @@ David Maslanka
 - [文字檔備分於下方頁面](./alex.md/#英文官方旁白)
 
 ## 腳本
-中文翻譯：杜承軒
+`中文翻譯：杜承軒`
 
 The sun shone bright and golden over the hustle and bustle of market day in the town square.
 
@@ -249,7 +249,7 @@ He barely noticed Fiona as she slipped a package into his pocket.
 
 “Alex!” called Nanna, “Wake up, or you’re going to miss your father before he leaves for work. It’s his birthday today!”
 
-「<font style="color:deeppink;">Alex！</font>」奶奶叫道，「<font style="color:green;">快醒醒，不然你爸出門上班前你就見不到他了。今天是他的生日呢！</font>」
+「<font style="color:deeppink;">Alex！</font>」奶奶叫道，「<font style="color:deeppink;">快醒醒，不然你爸出門上班前你就見不到他了。今天是他的生日呢！</font>」
 
 At once Alex sat bolt upright in bed, realizing that he had not gotten his father a present.
 
