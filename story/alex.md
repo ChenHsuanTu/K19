@@ -193,51 +193,45 @@ Without thinking, he lifted the baton and pointed it at the trumpets, which resp
 
 他不經意地將指揮棒指向小號，小號隨即回以一陣如金色陣雨般的樂聲。
 
-Now curious, he pointed the baton at the clarinets.
+Now curious, he pointed the baton at the clarinets. They responded with a low murmur of blushing pink sound.
 
-這下他開始好奇了，他將指揮棒指向單簧管。
-
--
-
-They responded with a low murmur of blushing pink sound.
-
-它們以一種如羞澀粉紅般的低聲呢喃回應。
+這下他開始好奇了，他將指揮棒指向單簧管。它們以一陣低沉細語。如同羞澀、粉紅色般的音色，低聲呢喃回應。
 
 The flutes and piccolos whistled cheerily in emerald green.
 
-長笛和短笛以翠綠色的光芒歡快地鳴響。
+長笛和短笛像翠綠色一樣，歡快地發出輕快愉悅的口哨聲。
 
 The tuba rumbled its happy tune while glowing a chocolate brown.
 
-低音號發出巧克力褐色的光芒，同時轟鳴著快樂的曲調。
+低音號閃爍著巧克力褐色的光芒，轟隆隆地演奏著快樂的曲調。
 
 All the saxophones joined together in harmony to create a reedy, rusty red.
 
-所有的薩克斯風齊聲合奏，交織出如簧片般質感的鐵鏽紅。
+所有的薩克斯風和諧地齊聲合奏，交織出一抹帶有簧片的沙啞感，如鐵鏽般的深紅色。
 
 The trombone played a duet in purple with the oboe.
 
-長號與雙簧管一起演奏出紫色的二重奏。
+長號與雙簧管一起吹奏出紫色的二重奏。
 
 The euphonium sounded a clear blue from away in the back of the band.
 
-上低音號從樂團後方傳出清澈的藍色音調。
+上低音號從樂團後方，傳出清澈的蔚藍音調。
 
 The bassoons sang out in orange.
 
-低音管以橘色高聲歌唱。
+低音管，則高唱出橘色的光芒。
 
 Rising out of the swirl of sound and color shone the silver bell-like tone of the french horns.
 
-法國號那如銀鈴般的音色，從聲音與色彩的漩渦中脫穎而出。
+從這陣聲音與色彩的漩渦中脫穎而出的，是法國號那如銀鈴般耀眼的音色。
 
 And then the whole band joined in.
 
-接著，整個樂團齊聲加入。
+~~接著，~~整個樂團一起加入了合奏。
 
 Overwhelmed with sound and dizzy with color, Alex lifted his baton to the far back of the stage, and cued the percussion. 
 
-Alex 被聲音淹沒、被色彩暈眩，他向舞台最後方舉起指揮棒，示意打擊樂部進入。
+Alex 被震撼的聲音淹沒。被絢麗的色彩搞得頭暈目眩。他將指揮棒指向舞台的最後方，給了打擊樂進入的拍點。
 
 [The music plays to a conclusion.]
 
@@ -245,25 +239,25 @@ Alex 被聲音淹沒、被色彩暈眩，他向舞台最後方舉起指揮棒，
 
 Alex lowered his tired arms, and with a great sigh slid to the floor, fading into unconsciousness.
 
-Alex 放下疲憊的雙臂，深深嘆了一口氣後滑落到地板上，漸漸失去了意識。
+Alex 放下他疲憊的雙臂，深深嘆了一口氣後滑落到地板上，漸漸失去了意識。
 
 He barely noticed Fiona as she slipped a package into his pocket.
 
-他幾乎沒注意到 Fiona 將一個包裹塞進了他的口袋。
+他沒注意到 Fiona 悄悄地把一個包裹塞進了他的口袋。
 
 -
 
 “Alex!” called Nanna, “Wake up, or you’re going to miss your father before he leaves for work. It’s his birthday today!”
 
-「<font style="color:deeppink;">Alex！</font>」奶奶叫道，「<font style="color:green;">快醒醒，不然你就在你爸爸去上班前見不到他了。今天是他的生日！</font>」
+「<font style="color:deeppink;">Alex！</font>」奶奶叫道，「<font style="color:green;">快醒醒，不然你爸出門上班前你就見不到他了。今天是他的生日呢！</font>」
 
 At once Alex sat bolt upright in bed, realizing that he had not gotten his father a present.
 
-Alex 立刻在床上坐得直挺挺的，意識到自己還沒給父親買禮物。
+Alex 立刻在床上猛地坐了起來，才想到自己竟然還沒幫爸爸準備禮物。
 
 As he stood up Alex felt a weight in his pajama pocket.
 
-當他站起身時，Alex 感覺到睡衣口袋裡沉甸甸的。
+當他站起身時，他感覺到睡衣口袋裡沉甸甸的。
 
 Slipping his hand inside, he drew out an ancient-looking wooden box, beautifully polished.
 
@@ -275,15 +269,15 @@ And carved on the lid was a picture of the girl with the straw-colored hair.
 
 The hinges let out not a whisper of sound as he raised the lid.
 
-當他掀開蓋子時，鉸鏈沒有發出半點聲響。
+當他掀開蓋子時，鉸鏈沒有發出一丁點的聲音。
 
 Nestled inside was a wooden flute of glossy mahogany.
 
-靜靜躺在裡面的是一支閃耀著光澤的紅木長笛。
+靜靜躺在裡面的，是一支閃耀著光澤的紅木長笛。
 
 Joyously Alex ran downstairs and jumped into his father’s arms.
 
-Alex 興高采烈地跑下樓，撲進了父親的懷裡。
+Alex 興高采烈地跑下樓，撲進了父親的懷抱裡。
 
 
 ## 英文官方旁白
