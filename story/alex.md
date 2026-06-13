@@ -17,6 +17,8 @@ Composer: David Maslanka
 ## 腳本
 ##### 中文翻譯：杜承軒
 
+【■ 表示等待音樂後進下一個提示點】
+
 `由說書人第一句話開場`
 
 耀眼燦爛的金色陽光，灑在小鎮廣場上熱鬧非凡的市集日。 ■
@@ -31,7 +33,7 @@ Composer: David Maslanka
 
 <sup>1</sup>當整點的鐘聲響起時，Alex 驚訝地抬起頭。
 
-<sup>2</sup>他看見一個皮膚白皙，有著深邃藍眼睛的女孩。 <font style="color:gray;">［皮膚白皙 or 臉色蒼白］</font>
+<sup>2</sup>他看見一個皮膚白皙，有著深邃藍眼睛的女孩。
 
 <sup>3</sup>當女孩轉頭望向鐘樓時，Alex 也順著她的視線看了過去。
 
@@ -91,139 +93,81 @@ Alex 轉向音樂傳來的方向，看見了那個女孩，稻草色的頭髮和
 
 「<font style="color:green;">我是指揮，</font>」指揮棒莊嚴地說。
 
-「<font style="color:green;">我給樂團節拍，也告訴演奏者音樂應該聽起來是什麼樣子。</font> ■ `木琴音效` <font style="color:green;"> 讓我向你介紹…… </font> ■ `小鼓` <font style="color:green;">陛下皇家管樂團！</font>」
+「<font style="color:green;">我給樂團節拍，也告訴演奏者音樂應該聽起來是什麼樣子。</font> ■ `木琴音效` <font style="color:green;"> 讓我向你介紹…… </font> ■ `小鼓` <font style="color:green;">陛下皇家管樂團！</font>」■
 
 `【樂團演奏後停止】`
 
 -
 
-There was a moment of silence. Then the baton laid itself gently on the conductor’s stand.
-
-現場安靜了一會兒，接著指揮棒輕輕地躺在指揮台上。
-
-Alex climbed upon the stage and his eyes fell upon a strange sight.
+現場安靜了一會兒，接著指揮棒輕輕地躺在指揮台上。 ■
 
 Alex 爬上舞台，他的目光停在一個奇怪的畫面上。
 
-All of the instruments were laid down across the chairs as if on some non-existent lap, hovering five or six inches above the seats.
-
 所有的樂器都橫放在椅子上，就好像放在某個看不見的大腿上一樣，懸浮在座位上方十幾公分高的地方。
 
-Alex bumped into one of the flutes. “Oops, sorry,” he said.
+Alex 不小心撞到了一支長笛。 ■ `低音號音效與長笛旋律一句`
 
-Alex 不小心撞到了一支長笛。「<font style="color:blue;">噢，對不起，</font>」他說。
+「<font style="color:blue;">噢，對不起，</font>」他說。■ `木琴漸強後，跟著雙簧管旋律主題一起進入`
 
-“That’s all right, lad,” said the flute. “My name is Fiona. You’re Alex, right? And you’re looking for a flute for your father. Come and see me before you leave, because I think I have something that might interest you.”
+「<font style="color:magenta;">沒關係，小朋友，</font>」長笛說，
 
-「<font style="color:magenta;">沒關係，小朋友，</font>」長笛說，「<font style="color:magenta;">我叫 Fiona。你是 Alex，對吧？你正在為你父親找一支長笛。你離開前來找我一下，我想我有東西你可能會感興趣。</font>」
+「<font style="color:magenta;">我叫 Fiona。你是 Alex，對吧？你正在為你父親找一支長笛。你離開前來找我一下，我想我有東西你可能會感興趣。</font>」■
 
 -
-
-Alex made his way to the conductor’s podium, and climbed up on it.
 
 Alex 走向指揮台並爬了上去。
 
-In front of him spread the glittering band like a handful of gold and silver that some careless giant had let fall.
-
 在他眼前的是一片閃閃發光的樂團，就像某個粗心的巨人不小心撒下的一把金銀珠寶。
-
-And there was the baton. Its dark mahogany handle glowed in the light of the chandeliers.
 
 那根指揮棒就在那裡，它那深色紅木製成的手柄，在水晶燈的光線下閃閃發亮。
 
-Alex picked it up and held it in front of him.
-
 Alex 拿起指揮棒，並舉在胸前。
 
-Without thinking, he lifted the baton and pointed it at the trumpets, which responded with a golden shower of sound.
+他不經意地將指揮棒指向小號，小號隨即回以一陣如金色陣雨般的樂聲。■
 
-他不經意地將指揮棒指向小號，小號隨即回以一陣如金色陣雨般的樂聲。
+這下他開始好奇了，他將指揮棒指向單簧管。它們以一陣低沉細語。如同羞澀、粉紅色般的音色，低聲呢喃回應。■
 
-Now curious, he pointed the baton at the clarinets. They responded with a low murmur of blushing pink sound.
+長笛和短笛像翠綠色一樣，歡快地發出輕快愉悅的口哨聲。■
 
-這下他開始好奇了，他將指揮棒指向單簧管。它們以一陣低沉細語。如同羞澀、粉紅色般的音色，低聲呢喃回應。
+低音號閃爍著巧克力褐色的光芒，轟隆隆地演奏著快樂的曲調。■
 
-The flutes and piccolos whistled cheerily in emerald green.
+所有的薩克斯風和諧地齊聲合奏，交織出一抹帶有簧片的沙啞感，如鐵鏽般的深紅色。■
 
-長笛和短笛像翠綠色一樣，歡快地發出輕快愉悅的口哨聲。
+長號與雙簧管一起吹奏出紫色的二重奏。■
 
-The tuba rumbled its happy tune while glowing a chocolate brown.
+上低音號從樂團後方，傳出清澈的蔚藍音調。■
 
-低音號閃爍著巧克力褐色的光芒，轟隆隆地演奏著快樂的曲調。
+低音管，則高唱出橘色的光芒。■
 
-All the saxophones joined together in harmony to create a reedy, rusty red.
+從這陣聲音與色彩的漩渦中脫穎而出的，是法國號那如銀鈴般耀眼的音色。■
 
-所有的薩克斯風和諧地齊聲合奏，交織出一抹帶有簧片的沙啞感，如鐵鏽般的深紅色。
+~~接著，~~整個樂團一起加入了合奏。■
 
-The trombone played a duet in purple with the oboe.
-
-長號與雙簧管一起吹奏出紫色的二重奏。
-
-The euphonium sounded a clear blue from away in the back of the band.
-
-上低音號從樂團後方，傳出清澈的蔚藍音調。
-
-The bassoons sang out in orange.
-
-低音管，則高唱出橘色的光芒。
-
-Rising out of the swirl of sound and color shone the silver bell-like tone of the french horns.
-
-從這陣聲音與色彩的漩渦中脫穎而出的，是法國號那如銀鈴般耀眼的音色。
-
-And then the whole band joined in.
-
-~~接著，~~整個樂團一起加入了合奏。
-
-Overwhelmed with sound and dizzy with color, Alex lifted his baton to the far back of the stage, and cued the percussion. 
-
-Alex 被震撼的聲音淹沒。被絢麗的色彩搞得頭暈目眩。他將指揮棒指向舞台的最後方，給了打擊樂進入的拍點。
-
-[The music plays to a conclusion.]
+Alex 被震撼的聲音淹沒。被絢麗的色彩搞得頭暈目眩。他將指揮棒指向舞台的最後方，給了打擊樂進入的拍點。■
 
 `【音樂演奏至結束。】`
 
-Alex lowered his tired arms, and with a great sigh slid to the floor, fading into unconsciousness.
-
 Alex 放下他疲憊的雙臂，深深嘆了一口氣後滑落到地板上，漸漸失去了意識。
 
-He barely noticed Fiona as she slipped a package into his pocket.
-
-他沒注意到 Fiona 悄悄地把一個包裹塞進了他的口袋。
+他沒注意到 Fiona 悄悄地把一個包裹塞進了他的口袋。■
 
 -
 
-“Alex!” called Nanna, “Wake up, or you’re going to miss your father before he leaves for work. It’s his birthday today!”
-
 「<font style="color:deeppink;">Alex！</font>」奶奶叫道，「<font style="color:deeppink;">快醒醒，不然你爸出門上班前你就見不到他了。今天是他的生日呢！</font>」
-
-At once Alex sat bolt upright in bed, realizing that he had not gotten his father a present.
 
 Alex 立刻在床上猛地坐了起來，才想到自己竟然還沒幫爸爸準備禮物。
 
-As he stood up Alex felt a weight in his pajama pocket.
-
 當他站起身時，他感覺到睡衣口袋裡沉甸甸的。
 
-Slipping his hand inside, he drew out an ancient-looking wooden box, beautifully polished.
+他把手伸進去，掏出一個看起來很古老、打磨得很漂亮的木盒。■
 
-他把手伸進去，掏出一個看起來很古老、打磨得很漂亮的木盒。
-
-And carved on the lid was a picture of the girl with the straw-colored hair.
-
-盒蓋上刻著那個有著稻草色頭髮女孩的畫像。
-
-The hinges let out not a whisper of sound as he raised the lid.
+盒蓋上刻著那個有著稻草色頭髮女孩的畫像。■ `長笛旋律`
 
 當他掀開蓋子時，鉸鏈沒有發出一丁點的聲音。
 
-Nestled inside was a wooden flute of glossy mahogany.
+靜靜躺在裡面的，是一支閃耀著光澤的紅木長笛。■
 
-靜靜躺在裡面的，是一支閃耀著光澤的紅木長笛。
-
-Joyously Alex ran downstairs and jumped into his father’s arms.
-
-Alex 興高采烈地跑下樓，撲進了父親的懷抱裡。
+Alex 興高采烈地跑下樓，撲進了父親的懷抱裡。■
                        
 
 ## 中英文對照
@@ -248,7 +192,7 @@ Alex looked up startled as the clock struck the hour.
 
 He saw a pale girl with intense blue eyes.
 
-他看見一個皮膚白皙，有著深邃藍眼睛的女孩。 <font style="color:gray;">［皮膚白皙 or 臉色蒼白］</font>
+他看見一個皮膚白皙，有著深邃藍眼睛的女孩。
 
 Alex followed her line of sight as she turned her head to the bell tower.
 
