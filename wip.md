@@ -132,12 +132,17 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
 - ✅ 調音申請表單填寫 2026/6/13
 - ⏳ <font color="blue">聯絡資訊確認</font> 2026/6/17 
 
-**鋼琴調音師：＿＿＿＿＿＿**          
-費用：$ ＿＿＿       
+**鋼琴調音師：李俊利　調音師**          
+費用：$ ＿＿＿ 
+- 聯絡資訊：0933655686       
+- 調音時間：＿＿＿   
 - [衛武營鋼琴調音申請表單](https://docs.google.com/forms/d/e/1FAIpQLSeHiZ599b0SuwYUrOTc9iavwIflct8tb3dnqcmAzi5LMumwVg/viewform)
-  - 窗口：呂佳能　調音師
-  - 公司：07-5315383
-  - 手機：0987-821-131
+  - 功學社南區服務課（史坦威技術中心）
+  - 地址：高雄市鹽埕區五福四路104號3樓
+  - 電話：07-5315383
+  - 代表聯絡人：呂佳能 副理
+  - 電話：0987-821131
+  - Line ID: jianeng324
 
 <br/>
 
