@@ -13,6 +13,7 @@ Composer: David Maslanka
 - [Narrator’s text (Official)](https://davidmaslanka.com/works/alex-and-the-phantom-band/)
 - [文字檔備分於下方頁面](./alex.md/#英文官方旁白)
 
+<br/>
 
 ## 腳本
 ##### 中文翻譯：杜承軒
@@ -169,6 +170,7 @@ Alex 立刻在床上猛地坐了起來，才想到自己竟然還沒幫爸爸準
 
 Alex 興高采烈地跑下樓，撲進了父親的懷抱裡。■
                        
+<br/>
 
 ## 中英文對照
 
@@ -436,6 +438,7 @@ Joyously Alex ran downstairs and jumped into his father’s arms.
 
 Alex 興高采烈地跑下樓，撲進了父親的懷抱裡。
 
+<br/>
 
 ## 英文官方旁白
 The sun shone bright and golden over the hustle and bustle of market day in the town square. Hawkers shouted their wares from their carts, and everywhere were people buying and talking. Alex had been absorbing the pulse of market day for the past two hours, searching for the perfect flute to give his father for his birthday.
