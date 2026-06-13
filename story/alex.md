@@ -1,6 +1,7 @@
 # Alex and the Phantom Band
-David Maslanka
+Composer: David Maslanka
 
+## 參考資料
 [🎞️ YouTube 樂團音檔](https://www.youtube.com/watch?v=1lfb5c8NNaM&list=PLTwGp7yPzLtsztraYg2UaE-7z50kd9v-f&index=2)
 
 ## 表演安排
