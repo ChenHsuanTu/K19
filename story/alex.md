@@ -83,15 +83,15 @@ Alex 轉向音樂傳來的方向，看見了那個女孩，稻草色的頭髮和
 
 音樂戛然而止，突然間，所有的樂器都看向了 Alex。
 
-指揮棒是最後一個轉過來的，當它轉過來時，直接指向了 Alex。
+指揮棒是最後一個轉過來的，當它轉過來時，直接指向了 Alex。■ `一聲長音齊奏`
 
 「<font style="color:green;">嘿，年輕人，報上名來。來這有什麼事嗎？</font>」指揮棒說道，「<font style="color:green;">我們可沒閒工夫站在這兒互相乾瞪眼。</font>」
 
-「<font style="color:blue;">嗯……我叫 Alex，</font>~~」Alex 說，「~~<font style="color:blue;">我在找一支長笛，想送給爸爸當生日禮物。</font>」
+「<font style="color:blue;">嗯……我叫 Alex，</font>~~」Alex 說，「~~ ■ `雙簧管旋律一句`<font style="color:blue;">我在找一支長笛，</font> ■ `長笛旋律一句` <font style="color:blue;">想送給爸爸當生日禮物。</font>」■
 
 「<font style="color:green;">我是指揮，</font>」指揮棒莊嚴地說。
 
-「<font style="color:green;">我給樂團節拍，也告訴演奏者音樂應該聽起來是什麼樣子。讓我向你介紹……陛下皇家管樂團！</font>」
+「<font style="color:green;">我給樂團節拍，也告訴演奏者音樂應該聽起來是什麼樣子。</font> ■ `木琴音效` <font style="color:green;"> 讓我向你介紹…… </font> ■ `小鼓` <font style="color:green;">陛下皇家管樂團！</font>」
 
 `【樂團演奏後停止】`
 
