@@ -39,47 +39,47 @@ He saw a pale girl with intense blue eyes.
 
 Alex followed her line of sight as she turned her head to the bell tower.
 
-當女孩轉頭望向鐘樓時，亞歷克斯也跟著她的視線看去。
+當女孩轉頭望向鐘樓時，Alex 也順著她的視線看了過去。
 
 “…four…” Alex counted the strokes.
 
-「……四……」亞歷克斯數著鐘聲。
+「……四……」Alex 數著鐘聲。
 
 “Five…six…seven…eight…wow, I hope it’s not too late!”
 
-「五……六……七……八……哇，我希望還不算太晚！」
+「五……六……七……八……哇，希望還來得及！」
 
 “Nanna told me to be home by eleven o’clock this morning…eleven…oh, please stop right there!…Twelve…thirteen?? THAT can’t have been right!”
 
-「奶奶叫我今天早上十一點前要到家……十一……噢，請停在那裡就好！……十二……十三？？那絕對不對勁！」
+「奶奶叫我今天早上十一點前要到家……十一……噢，不要再響了！……十二……十三？？這也太奇怪了吧！」
 
 -
 
 The town square went quiet, void of all noise as a cloud blocked the blazing light of the sun.
 
-隨著一朵雲遮住了耀眼的陽光，鎮上廣場變得一片寂靜，所有的噪音都消失了。
+隨著一朵烏雲遮住了刺眼的陽光，小鎮廣場頓時安靜了下來，所有的吵雜聲都消失了。
 
 Alex looked around in the dim, eerie light.
 
-亞歷克斯在昏暗且怪異的光線中環顧四周。
+Alex 在昏暗且怪異的光線中環顧四周。
 
 All of the familiar shops lined the streets, and all of the people were there too, but they were frozen in place like so many life-size dolls.
 
-所有熟悉的店鋪依然林立在街道兩旁，所有的人也都在那裡，但他們卻像真人大小的玩偶一樣被凍結在原地。
+所有熟悉的店鋪依然林立在街道兩旁，所有的人也都還在這裡。但他們卻像真人大小的玩偶一樣，被定格在原地。
 
 -
 
 As he turned around and around, the faint sound of a procession was brought to his ear on the wind.
 
-當他轉了一圈又一圈時，風中傳來了一陣隱約的遊行樂聲。
+當他環顧了一圈又一圈時，微風中隱隱約約地，傳來了一陣微弱的遊行音樂。
 
 Alex turned toward the music and saw the girl, straw-colored hair and blue checked skirt blowing in the wind, beckoning him to her.
 
-亞歷克斯轉向音樂傳來的方向，看見那個女孩，她稻草色的頭髮和藍色格子裙在風中飄揚，正朝他招手。
+Alex 轉向音樂傳來的方向，看見了那個女孩，稻草色的頭髮和藍色格子裙在風中飄揚，正朝著他招手。
 
 When he reached her she took him by the hand and led him along the winding, twisting streets, the music getting stronger all the time.
 
-當他走到她身邊時，她牽起他的手，帶著他穿過蜿蜒曲折的街道，音樂聲也隨之變得越來越大。
+當他走到女孩身邊時，女孩牽起他的手，帶著他穿過蜿蜒曲折的街道，一路上，音樂也變得越來越響亮。
 
 -
 
