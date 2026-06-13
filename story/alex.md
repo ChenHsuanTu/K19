@@ -131,15 +131,15 @@ The baton was the last to turn, but when it did, it pointed directly at Alex.
 
 “Well, state your name and business, young man,” said the baton, “We haven’t got all day to stand here gawking at each other.”
 
-<font style="color:green;">「嘿，年輕人，報上名來。來這有什麼事嗎？」</font>指揮棒說道，<font style="color:green;">「我們可沒閒工夫站在這兒互相乾瞪眼。」</font>
+「<font style="color:green;">嘿，年輕人，報上名來。來這有什麼事嗎？</font>」指揮棒說道，<font style="color:green;">「我們可沒閒工夫站在這兒互相乾瞪眼。」</font>
 
 “Um…my name is Alex,” said Alex, “and I was looking for a flute to give to my father for his birthday.”
 
-<font style="color:blue;">「嗯……我叫 Alex，」</font>Alex 說，<font style="color:blue;">「我正在找一支長笛要送給我父親當生日禮物。」</font>
+<font style="color:blue;">「嗯……我叫 Alex，」</font>Alex 說，<font style="color:blue;">「我在找一支長笛，想送給爸爸當生日禮物。」</font>
 
 “I am the conductor,” spoke the baton grandly.
 
-<font style="color:green;">「我是指揮，」指揮棒莊嚴地說。</font>
+<font style="color:green;">「我是指揮，」</font>指揮棒莊嚴地說。
 
 “I give the band a beat. Also I tell the players how the music is supposed to sound. Let me introduce you to…His Majesty’s Royal Band!” 
 
@@ -147,7 +147,7 @@ The baton was the last to turn, but when it did, it pointed directly at Alex.
 
 [Band plays and stops]
 
-[樂團演奏後停止]
+*【樂團演奏後停止】*
 
 -
 
