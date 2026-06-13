@@ -43,15 +43,15 @@ Alex followed her line of sight as she turned her head to the bell tower.
 
 “…four…” Alex counted the strokes.
 
-<font style="color:blue;">「……四……」</font>Alex 數著鐘聲。
+「<font style="color:blue;">……四……</font>」Alex 數著鐘聲。
 
 “Five…six…seven…eight…wow, I hope it’s not too late!”
 
-<font style="color:blue;">「五……六……七……八……哇，希望還來得及！」</font>
+「<font style="color:blue;">五……六……七……八……哇，希望還來得及！</font>」
 
 “Nanna told me to be home by eleven o’clock this morning…eleven…oh, please stop right there!…Twelve…thirteen?? THAT can’t have been right!”
 
-<font style="color:blue;">「奶奶叫我今天早上十一點前要到家……十一……噢，不要再響了！……十二……十三？？這也太奇怪了吧！」</font>
+「<font style="color:blue;">奶奶叫我今天早上十一點前要到家……十一……噢，不要再響了！……十二……十三？？這也太奇怪了吧！</font>」
 
 -
 
@@ -131,19 +131,19 @@ The baton was the last to turn, but when it did, it pointed directly at Alex.
 
 “Well, state your name and business, young man,” said the baton, “We haven’t got all day to stand here gawking at each other.”
 
-「<font style="color:green;">嘿，年輕人，報上名來。來這有什麼事嗎？</font>」指揮棒說道，<font style="color:green;">「我們可沒閒工夫站在這兒互相乾瞪眼。」</font>
+「<font style="color:green;">嘿，年輕人，報上名來。來這有什麼事嗎？</font>」指揮棒說道，「<font style="color:green;">我們可沒閒工夫站在這兒互相乾瞪眼。</font>」
 
 “Um…my name is Alex,” said Alex, “and I was looking for a flute to give to my father for his birthday.”
 
-<font style="color:blue;">「嗯……我叫 Alex，」</font>Alex 說，<font style="color:blue;">「我在找一支長笛，想送給爸爸當生日禮物。」</font>
+「<font style="color:blue;">嗯……我叫 Alex，</font>」Alex 說，「<font style="color:blue;">我在找一支長笛，想送給爸爸當生日禮物。</font>」
 
 “I am the conductor,” spoke the baton grandly.
 
-<font style="color:green;">「我是指揮，」</font>指揮棒莊嚴地說。
+「<font style="color:green;">我是指揮，</font>」指揮棒莊嚴地說。
 
 “I give the band a beat. Also I tell the players how the music is supposed to sound. Let me introduce you to…His Majesty’s Royal Band!” 
 
-<font style="color:green;">「我給樂團節拍，也告訴演奏者音樂應該聽起來是什麼樣子。讓我向你介紹……陛下皇家管樂團！」</font>
+「<font style="color:green;">我給樂團節拍，也告訴演奏者音樂應該聽起來是什麼樣子。讓我向你介紹……陛下皇家管樂團！</font>」
 
 [Band plays and stops]
 
