@@ -147,7 +147,7 @@ The baton was the last to turn, but when it did, it pointed directly at Alex.
 
 [Band plays and stops]
 
-【樂團演奏後停止】
+`【樂團演奏後停止】`
 
 -
 
@@ -235,9 +235,13 @@ And then the whole band joined in.
 
 接著，整個樂團齊聲加入。
 
-Overwhelmed with sound and dizzy with color, Alex lifted his baton to the far back of the stage, and cued the percussion. [The music plays to a conclusion.]
+Overwhelmed with sound and dizzy with color, Alex lifted his baton to the far back of the stage, and cued the percussion. 
 
-Alex 被聲音淹沒、被色彩暈眩，他向舞台最後方舉起指揮棒，示意打擊樂部進入。[音樂演奏至結束。]
+Alex 被聲音淹沒、被色彩暈眩，他向舞台最後方舉起指揮棒，示意打擊樂部進入。
+
+[The music plays to a conclusion.]
+
+`【音樂演奏至結束。】`
 
 Alex lowered his tired arms, and with a great sigh slid to the floor, fading into unconsciousness.
 
