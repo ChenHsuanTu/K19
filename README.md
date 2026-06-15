@@ -3,7 +3,7 @@
 高雄中學校友管樂團暨高雄中學管樂團　第十九次聯合音樂會       
 KSAWO & KSWB 19th Joint Concert      
 <br/>       
-![](https://chenhsuantu.github.io/K19/pic/banner.png)
+![](https://chenhsuantu.github.io/K19/design_file/FBbanner_1640x856.jpg)
 > 歡迎來到由星光交織、由想像力點燃的故事空間。 
 >
 > 以「說書人」作為靈魂引路人，樂曲將故事日常與壯闊宇宙等風格多元的作品巧妙串聯。觀眾不只是聽眾，更是穿梭於時空邊界的旅人，隨著說書人在日常平凡的生活與壯麗無垠的宇宙之間，展開扣人心弦的聲音探尋。
