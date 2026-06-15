@@ -15,6 +15,8 @@
 - [宣傳相關](#📍宣傳相關)
 - [節目冊相關](#📍節目冊相關)
 - [節目製作相關](#📍節目製作相關)
+  - [說書人腳本](#說書人腳本構思)
+  - [演出順序](#演出順序)
 
 <hr/>
 
@@ -252,6 +254,33 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
 - [Gulliver’s Travels](https://chenhsuantu.github.io/K19/story/gulliver)
 - [流星群の物語～はかなくも壮大な宇宙へ～](https://chenhsuantu.github.io/K19/story/star)
               
+
+### 演出順序
+
+#### 上半場
+- 🐉 **Fanfare for the Common Man** 🎺- Aaron Copland
+  - 🎺 銅管在二樓合唱席吹奏
+- 🐉 **Alex and the Phantom Band** 📖- David Maslanka
+  - 📖 說書人：李佳勳
+- 🚨 樂團換場
+  - 📖 說書人：李佳勳
+- 🌟**Gulliver’s Travels** 📖- Bert Appermont
+  - 📖 說書人：李佳勳
+- 🌟**掃除用具のファンタジー** 🧹- 三浦秀秋
+  - 🧹 舞台前方舞蹈
+
+#### 下半場
+- 🌟**流星群の物語～はかなくも壮大な宇宙へ～** 📖- 三浦真理（arr. 佐川馨）
+  - 📖 說書人：莊福泰　校長
+- 🌟**Sandpaper Ballet** - Leroy Anderson (arr. Hans van der Heide)
+- 🌟**Selections from Disney’s Moana** - arr. Jay Bocook
+- 🚨 樂團換場
+  - 🪀 童玩換場
+- 🐉 **童玩** - 詹采軒
+- 🐉 **How to Train Your Dragon** - John Powell (arr. Bertrand Moren)
+
+
+
 <br/>
 
 <ul style="color: gray; font-size: 14px;">
