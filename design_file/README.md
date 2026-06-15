@@ -3,14 +3,14 @@
 ### 數位使用
 - [音樂會宣傳主圖](https://chenhsuantu.github.io/K19/design_file/2026雄中_210x210cm.jpg)     
 <img src="https://chenhsuantu.github.io/K19/design_file/2026雄中_210x210cm.jpg" height="100px">
-- [OPENTIX 宣傳圖檔](https://chenhsuantu.github.io/K19/design_file/2026雄中校友_300x420px.png)     
-<img src="https://chenhsuantu.github.io/K19/design_file/2026雄中校友_300x420px.png" height="100px">
-- [數位大頭貼](https://chenhsuantu.github.io/K19/design_file/FB頭貼_900x900px.png)      
-<img src="https://chenhsuantu.github.io/K19/design_file/FB頭貼_900x900px.png" height="100px">
-- [數位banner](https://chenhsuantu.github.io/K19/design_file/FBbanner_1640x856.png)     
-<img src="https://chenhsuantu.github.io/K19/design_file/FBbanner_1640x856.png" height="100px">
-- [數位圖框](https://chenhsuantu.github.io/K19/design_file/bg_900x900px.png)     
-<img src="https://chenhsuantu.github.io/K19/design_file/bg_900x900px.png" height="100px">
+- [OPENTIX 宣傳圖檔](https://chenhsuantu.github.io/K19/design_file/2026雄中校友_300x420px.jpg)     
+<img src="https://chenhsuantu.github.io/K19/design_file/2026雄中校友_300x420px.jpg" height="100px">
+- [數位大頭貼](https://chenhsuantu.github.io/K19/design_file/FB頭貼_900x900px.jpg)      
+<img src="https://chenhsuantu.github.io/K19/design_file/FB頭貼_900x900px.jpg" height="100px">
+- [數位banner](https://chenhsuantu.github.io/K19/design_file/FBbanner_1640x856.jpg)     
+<img src="https://chenhsuantu.github.io/K19/design_file/FBbanner_1640x856.jpg" height="100px">
+- [數位圖框](https://chenhsuantu.github.io/K19/design_file/bg_900x900px.jpg)     
+<img src="https://chenhsuantu.github.io/K19/design_file/bg_900x900px.jpg" height="100px">
 - [素材圖檔](https://chenhsuantu.github.io/K19/design_file/png)
      
 
