@@ -15,7 +15,7 @@
 - [宣傳相關](#📍宣傳相關)
 - [節目冊相關](#📍節目冊相關)
 - [節目製作相關](#📍節目製作相關)
-  - [說書人腳本](#說書人腳本構思)
+  - [說書人腳本](#說書人腳本)
   - [演出順序](#演出順序)
 
 <hr/>
@@ -249,7 +249,7 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
   - 流星群の物語～はかなくも壮大な宇宙へ～
 - ⚠️ <font color="red">說書人演員初次討論</font> 2026/6/26
 
-### 說書人腳本構思
+### 說書人腳本
 - [Alex and the Phantom Band](https://chenhsuantu.github.io/K19/story/alex)
 - [Gulliver’s Travels](https://chenhsuantu.github.io/K19/story/gulliver)
 - [流星群の物語～はかなくも壮大な宇宙へ～](https://chenhsuantu.github.io/K19/story/star)
