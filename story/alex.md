@@ -6,13 +6,15 @@ Composer: David Maslanka
 - [🎞️ 樂譜商示範音檔](https://maslankapress.com/shop/alex-and-the-phantom-band-wind-ens-sets/)
 
 ## 表演安排
+**說書人：李佳勳**     
+
 說書人為旁白的角色。因為與指揮會有 cue 點的互動，會定點在一個地方，面對觀眾講話。演出途中目光或手勢，可以往樂團，但不會直接移動過去。     
 有譜架可以看稿，目前方式有兩種，一個是站著，會有麥克風架（手勢可以做更多）。一個是坐著，手持麥克風。    
 
 
 ## 旁白文稿 
 - [Narrator’s text (Official)](https://davidmaslanka.com/works/alex-and-the-phantom-band/)
-- [文字檔備分於下方頁面](./alex.md/#英文官方旁白)
+- [文字檔備分於下方頁面](#英文官方旁白)
 
 <br/>
 

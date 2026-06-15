@@ -5,6 +5,7 @@ Composer: Bert Appermont
 - [🎞️ YouTube 樂團音檔](https://www.youtube.com/watch?v=BNOg8S-vTH8&list=PLTwGp7yPzLtsztraYg2UaE-7z50kd9v-f&index=3)
 
 ## 表演安排
+**說書人：李佳勳**     
 
 以第三人稱或第一人稱來介紹格列佛遊記。因遇到樂團換場，會有一段較長的開頭介紹。    
 當樂團準備好時，可以介紹船員（樂團）、船長（指揮），以及開始啟程的鳴笛（調音）。
