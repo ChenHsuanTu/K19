@@ -70,9 +70,9 @@
 
 ### OPENTIX 系統
 [《星群下的幻影奇談》雄中管樂團與校友管樂團　節目代碼：115051104B](https://opt.console.opentix.life/organizer/index.html#/exhibition/event/dashboard/2053722527579742209?pId=2053691239618875392&pOnlineStart=1778644800&pOnlineEnd=1785328200)     
-窗口：黃敏娟　小姐
-- 06-3362632
-- vicki_huang@mail.npac-ntch.org
+- 窗口：黃敏娟　小姐
+  - 06-3362632
+  - vicki_huang@mail.npac-ntch.org
 
 ### 售票資訊
 OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://www.opentix.life/event/2053691239618875392)       
