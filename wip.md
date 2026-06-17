@@ -217,6 +217,12 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
    - 限定由票務刷票，一次需購買 4 張，不得分次。
    - 可改成領取 800 元票 2 張，或 300 元票 6 張。      
 
+### 音樂會總務
+- 統籌人：子謙
+
+### 音樂會票務
+- 統籌人：品融
+
 <br/>
 
 ## 📍宣傳相關
@@ -250,7 +256,7 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
 - ⚠️ <font color="red">說書人腳本初稿</font> 2026/6/21
   - ✅ Alex and the Phantom Band 2026/6/13
   - Gulliver’s Travels
-  - 流星群の物語～はかなくも壮大な宇宙へ～
+  - ✅ 流星群の物語～はかなくも壮大な宇宙へ～ 2026/6/17
 - ⚠️ <font color="red">說書人演員初次討論</font> 2026/6/26
 
 ### 說書人腳本
