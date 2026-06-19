@@ -31,7 +31,7 @@
   - 青年五折自由席，不限單一票區，最高 200 席 
 - ✅ 演出需求表 2026/6/5
 - ✅ 前後台工作證初版 2026/6/5
-- ⚠️ <font color="red">衛武營場館租借尾款</font> 2026/6/24
+- ✅ 衛武營場館租借尾款 2026/6/18
 - ⏳ <font color="red">場地技術會議</font> 暫訂 2026/7/8
 - ⏳ <font color="red">衛武營舞監演出需求確認期限</font> 2026/7/17
 - ⏳ <font color="red">前後台工作證資訊提供</font> 2026/7/17       
@@ -100,7 +100,7 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
 - ✅ 酷卡和邀請卡第一版提出修改建議	2026/6/7
 - ✅ 數位圖和海報第二版完稿、細修並定稿	2026/6/8
 - ✅ 數位素材圖檔交付	2026/6/9
-- ⚠️ <font color="red">設計師款項交付</font> 2026/6/14
+- ✅ 設計師款項交付 2026/6/18
 - ⏳ <font color="red">酷卡與邀請卡印刷</font> 2026/6/21
 
 ### 設計圖檔     
@@ -292,7 +292,7 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
 
 <br/>
 
-## 曲目翻譯
+### 曲目翻譯
 - **Fanfare for the Common Man** - Aaron Copland
   - 平凡人的號角／艾倫．柯普蘭
 - **Alex and the Phantom Band** - David Maslanka
@@ -301,14 +301,12 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
   - 格列佛遊記／伯特．阿佩蒙特
 - **掃除用具のファンタジー** - 三浦秀秋
   - 打掃用具幻想曲／三浦秀秋
-
-#### 下半場
 - **流星群の物語～はかなくも壮大な宇宙へ～** - 三浦真理（arr. 佐川馨）
   - 流星雨物語──致虛幻而壯闊的宇宙／三浦真理（編曲：佐川馨）
 - **Sandpaper Ballet** - Leroy Anderson (arr. Hans van der Heide)
   - 砂紙芭蕾／勒羅伊．安德森（編曲：漢斯．范．德．海德）
 - **Selections from Disney’s Moana** - arr. Jay Bocook
-  - 海洋奇緣選粹／編曲：傑．博庫克）
+  - 海洋奇緣選粹／編曲：傑．博庫克
 - **童玩** - 詹采軒
   - 童玩／詹采軒
 - **How to Train Your Dragon** - John Powell (arr. Bertrand Moren)
