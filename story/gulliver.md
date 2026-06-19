@@ -1,7 +1,7 @@
-[🔙 回說書人首頁](README.md)
-
 # Gulliver’s Travels
 Composer: Bert Appermont
+
+[🔙 回說書人首頁](README.md)
 
 ## 參考資料
 - [🎞️ YouTube 樂團音檔](https://www.youtube.com/watch?v=BNOg8S-vTH8&list=PLTwGp7yPzLtsztraYg2UaE-7z50kd9v-f&index=3)
