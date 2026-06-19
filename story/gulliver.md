@@ -36,7 +36,8 @@ Composer: Bert Appermont
 `調音完成`        
 準備好跟著音樂一起出海冒險了嗎？讓我們掌聲歡迎今天領航的船長！ `指揮上場`    
 `指揮站定位後開始第一段的導聆`
-
+         
+<br/>
           
 ### 第一段：小人國
 *Lilliput - Land of the Midgets*      
