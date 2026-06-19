@@ -6,6 +6,7 @@
 - [衛武營場館相關](#衛武營場館相關)
 - [OPENTIX 票務相關](#opentix-票務相關)
 - [設計相關](#設計相關)
+  - [設計圖檔](design_file/README.md)
 - [廠商相關](#廠商相關)
   - [錄影錄音](#錄影錄音廠商)
   - [樂器車](#樂器車廠商)
@@ -16,7 +17,7 @@
 - [宣傳相關](#宣傳相關)
 - [節目冊相關](#節目冊相關)
 - [節目製作相關](#節目製作相關)
-  - [說書人腳本](#說書人腳本)
+  - [說書人腳本](story/README.md)
   - [演出順序](#演出順序)
 
 <hr/>
@@ -103,8 +104,8 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
 - ⏳ <font color="red">酷卡與邀請卡印刷</font> 2026/6/21
 
 ### 設計圖檔     
-- [Dropbox](https://www.dropbox.com/scl/fo/3hhlqtnlx42zglbccx27p/AG7-iqOrEiseO_FmN07ldLg?rlkey=wvsppbm6n2vps4oy12006zo1b&st=gfgdpgjb&dl=0)
-- [網頁備存](https://chenhsuantu.github.io/K19/design_file)      
+- [設計圖檔網頁](design_file/README.md)      
+- [設計師 Dropbox](https://www.dropbox.com/scl/fo/3hhlqtnlx42zglbccx27p/AG7-iqOrEiseO_FmN07ldLg?rlkey=wvsppbm6n2vps4oy12006zo1b&st=gfgdpgjb&dl=0)
 
 ### 原預計時程規劃
 - 風格挑選（3天）2026/5/13     
@@ -114,9 +115,9 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
 註：修改次數以三次為限，改稿工作天為3天，包含圖面調整和排版、文字資訊修正等等。超過一次酌收＄300；完稿之後若圖面不滿意想換風格，則收取半價（$4500），新圖以另案重新計費。   　　
 
 ### 提供給設計師資料
-- [設計需求](https://chenhsuantu.github.io/K19/design_proposal)
-- [設計參考資訊](https://chenhsuantu.github.io/K19/design_idea)
-- [設計文字內容](https://chenhsuantu.github.io/K19/design_content)      
+- [設計需求](design_proposal)
+- [設計參考資訊](design_idea)
+- [設計文字內容](design_content)      
                        
 ### 關於雄管校友團 logo
 原定用投票時粗略版本，暫時用在本次音樂會，未來可以再精修正式 logo。但作業時程上難配合，因此本次不放校友團 logo。
@@ -178,7 +179,7 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
 - ⚠️ <font color="red">參與人員大表（含便當統計）</font>	2026/6/21
 
 ### 演出人員名單／分團結果
-[演出人員名單（分團結果）](https://chenhsuantu.github.io/K19/member)     
+[演出人員名單（分團結果）](member)     
 
 ### 人事幹部分工
 - 顧問：遠軒
@@ -253,16 +254,16 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
 
 ## 📍節目製作相關
 - ✅ 說書人節目呈現討論 2026/6/12
-- ⚠️ <font color="red">說書人腳本初稿</font> 2026/6/21
+- ✅ 說書人腳本初稿 2026/6/21
   - ✅ Alex and the Phantom Band 2026/6/13
-  - Gulliver’s Travels
+  - ✅ Gulliver’s Travels 2026/6/20
   - ✅ 流星群の物語～はかなくも壮大な宇宙へ～ 2026/6/17
-- ⚠️ <font color="red">說書人演員初次討論</font> 2026/6/26
+- ⏳ <font color="red">說書人演員討論</font> 2026/6/24
 
 ### 說書人腳本
-- [Alex and the Phantom Band](https://chenhsuantu.github.io/K19/story/alex)
-- [Gulliver’s Travels](https://chenhsuantu.github.io/K19/story/gulliver)
-- [流星群の物語～はかなくも壮大な宇宙へ～](https://chenhsuantu.github.io/K19/story/star)
+- [Alex and the Phantom Band](story/alex)
+- [Gulliver’s Travels](story/gulliver)
+- [流星群の物語～はかなくも壮大な宇宙へ～](story/star)
               
 
 ### 演出順序
@@ -289,7 +290,27 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
 - 🐉 **童玩** - 詹采軒
 - 🐉 **How to Train Your Dragon** - John Powell (arr. Bertrand Moren)
 
+## 曲目翻譯
+- 🐉 **Fanfare for the Common Man** 🎺- Aaron Copland
+  - 🎺 銅管在二樓合唱席吹奏
+- 🐉 **Alex and the Phantom Band** 📖- David Maslanka
+  - 📖 說書人：李佳勳
+- 🚨 樂團換場
+  - 📖 說書人：李佳勳
+- 🌟**Gulliver’s Travels** 📖- Bert Appermont
+  - 📖 說書人：李佳勳
+- 🌟**掃除用具のファンタジー** 🧹- 三浦秀秋
+  - 🧹 舞台前方舞蹈
 
+#### 下半場
+- 🌟**流星群の物語～はかなくも壮大な宇宙へ～** 📖- 三浦真理（arr. 佐川馨）
+  - 📖 說書人：莊福泰　校長
+- 🌟**Sandpaper Ballet** - Leroy Anderson (arr. Hans van der Heide)
+- 🌟**Selections from Disney’s Moana** - arr. Jay Bocook
+- 🚨 樂團換場
+  - 🪀 童玩換場
+- 🐉 **童玩** - 詹采軒
+- 🐉 **How to Train Your Dragon** - John Powell (arr. Bertrand Moren)
 
 <br/>
 
