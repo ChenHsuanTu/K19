@@ -179,7 +179,7 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
 - ⚠️ <font color="red">參與人員大表（含便當統計）</font>	2026/6/21
 
 ### 演出人員名單／分團結果
-[演出人員名單（分團結果）](member)     
+[演出人員名單（分團結果）](member/index.html)     
 
 ### 人事幹部分工
 - 顧問：遠軒
@@ -290,27 +290,29 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
 - 🐉 **童玩** - 詹采軒
 - 🐉 **How to Train Your Dragon** - John Powell (arr. Bertrand Moren)
 
+<br/>
+
 ## 曲目翻譯
-- 🐉 **Fanfare for the Common Man** 🎺- Aaron Copland
-  - 🎺 銅管在二樓合唱席吹奏
-- 🐉 **Alex and the Phantom Band** 📖- David Maslanka
-  - 📖 說書人：李佳勳
-- 🚨 樂團換場
-  - 📖 說書人：李佳勳
-- 🌟**Gulliver’s Travels** 📖- Bert Appermont
-  - 📖 說書人：李佳勳
-- 🌟**掃除用具のファンタジー** 🧹- 三浦秀秋
-  - 🧹 舞台前方舞蹈
+- **Fanfare for the Common Man** - Aaron Copland
+  - 平凡人的號角／艾倫．柯普蘭
+- **Alex and the Phantom Band** - David Maslanka
+  - 艾力克斯與幻影樂團／大衛．馬斯蘭卡
+- **Gulliver’s Travels** - Bert Appermont
+  - 格列佛遊記／伯特．阿佩蒙特
+- **掃除用具のファンタジー** - 三浦秀秋
+  - 打掃用具幻想曲／三浦秀秋
 
 #### 下半場
-- 🌟**流星群の物語～はかなくも壮大な宇宙へ～** 📖- 三浦真理（arr. 佐川馨）
-  - 📖 說書人：莊福泰　校長
-- 🌟**Sandpaper Ballet** - Leroy Anderson (arr. Hans van der Heide)
-- 🌟**Selections from Disney’s Moana** - arr. Jay Bocook
-- 🚨 樂團換場
-  - 🪀 童玩換場
-- 🐉 **童玩** - 詹采軒
-- 🐉 **How to Train Your Dragon** - John Powell (arr. Bertrand Moren)
+- **流星群の物語～はかなくも壮大な宇宙へ～** - 三浦真理（arr. 佐川馨）
+  - 流星雨物語──致虛幻而壯闊的宇宙／三浦真理（編曲：佐川馨）
+- **Sandpaper Ballet** - Leroy Anderson (arr. Hans van der Heide)
+  - 砂紙芭蕾／勒羅伊．安德森（編曲：漢斯．范．德．海德）
+- **Selections from Disney’s Moana** - arr. Jay Bocook
+  - 海洋奇緣選粹／編曲：傑．博庫克）
+- **童玩** - 詹采軒
+  - 童玩／詹采軒
+- **How to Train Your Dragon** - John Powell (arr. Bertrand Moren)
+  - 馴龍高手／約翰．包威爾（編曲：貝特朗．莫倫）
 
 <br/>
 
