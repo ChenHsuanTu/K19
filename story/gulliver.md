@@ -108,12 +108,12 @@ Composer: Bert Appermont
 
 > 英文原文
 
-"The book "Gulliver's Travels" (1726) by author Jonathan Swift formed the provocation for writing this composition. Even though this composition isn't a literal representation of the original story, a number of elements were still retained. The ship's doctor Gulliver finds himself in 4 (fictive) areas, each with their own inhabitants and customs. Each part of this suite also received the name of one of these areas:      
+The book "Gulliver's Travels" (1726) by author Jonathan Swift formed the provocation for writing this composition. Even though this composition isn't a literal representation of the original story, a number of elements were still retained. The ship's doctor Gulliver finds himself in 4 (fictive) areas, each with their own inhabitants and customs. Each part of this suite also received the name of one of these areas:      
 I. Lilliput: The enterprising Lilliputians are represented by a playful, common theme in the first part.      
 II. Brobdingnag: In the land of "Brobdingnag" Gulliver is carried off by gigantic giants, which you hear approaching with the sounds of the bass instruments. The same theme is constantly repeated and quickened in order to increase the tension.      
 III. Laputa: Laputa is an island that floats in the air; its inhabitants are strange people with slanting heads. The dreamy, special atmosphere is especially well conveyed here.      
 IV. The Houyhnhnms: Finally Gulliver finds himself in the land of the Houyhnhnms, where intelligent and noble horses rule over the primitive, undeveloped people (yahoos). The trumpets in the brilliant opening express the galloping horses; the gallant theme that follows (horns and trombones) symbolises the primitive yahoos. The whole composition ends with a big finale.      
-I intentionally tried to limit the degree of difficulty of Gulliver's Travels. Despite this I think that this work can appeal to many orchestras due to the colourful orchestration (cues are provided where needed), the simple and clear theme and the highly imaginative breeding ground of a beautiful story around which this composition is built."      
+I intentionally tried to limit the degree of difficulty of Gulliver's Travels. Despite this I think that this work can appeal to many orchestras due to the colourful orchestration (cues are provided where needed), the simple and clear theme and the highly imaginative breeding ground of a beautiful story around which this composition is built.      
 
 > 中文翻譯
 
