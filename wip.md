@@ -100,7 +100,8 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
 - ✅ 數位圖和海報第二版完稿、細修並定稿	2026/6/8
 - ✅ 數位素材圖檔交付	2026/6/9
 - ✅ 設計師款項交付 2026/6/18
-- 🏃 <font color="red">酷卡與邀請卡印刷</font> 2026/6/23
+- 🏃 <font color="red">酷卡與邀請卡印刷</font> 2026/6/22
+- ⏳ <font color="blue">海報印刷</font> 2026/7/19
 
 ### 設計圖檔     
 - [設計圖檔網頁](design_file/README.md)      
