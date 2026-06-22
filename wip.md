@@ -88,7 +88,6 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
 
 
 ## 📍設計相關
-**外包設計師：林怡盈**    
 
 - ✅ 風格挑選與草圖確認	2026/5/13
 - ✅ 草圖修改與視覺初稿提供	2026/5/23    
@@ -104,6 +103,7 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
 - ⏳ <font color="blue">海報印刷</font> 2026/7/19
 
 ### 設計圖檔     
+**外包設計師：林怡盈**        
 - [設計圖檔網頁](design_file/README.md)      
 - [設計師 Dropbox](https://www.dropbox.com/scl/fo/3hhlqtnlx42zglbccx27p/AG7-iqOrEiseO_FmN07ldLg?rlkey=wvsppbm6n2vps4oy12006zo1b&st=gfgdpgjb&dl=0)
 
@@ -170,8 +170,8 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
 <br/>
 
 ### 🔸鋼琴調音師
-- ✅ 調音申請表單填寫 2026/6/13
-- ⏳ <font color="blue">聯絡資訊確認</font> 2026/6/17 
+- ✅ 調音申請表單填寫與確認 2026/6/13
+- ⏳ <font color="blue">調音時間確認</font> 2026/6/28 
 
 **鋼琴調音師：李俊利　調音師**          
 費用：$ ＿＿＿ 
@@ -267,7 +267,7 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
 [活動贊助企畫書](proposal.md)
 
 ### 音樂會公關
-- 統籌人：冠程
+- 負責人：冠程
 
 <br/>
 
