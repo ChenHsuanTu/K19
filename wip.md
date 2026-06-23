@@ -18,6 +18,7 @@
 - [節目製作相關](#節目製作相關)
   - [說書人腳本](story/README.md)
   - [演出順序](#演出順序)
+- [舞監相關](#舞監相關)
 - [支出費用紀錄](#支出費用紀錄)
 
 <hr/>
@@ -158,7 +159,7 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
 - 錄影：兩機贈一機 
 - 錄音：四軌
            
-<br/><br/>
+<br/>
 
 ### 🔸樂器車廠商
 - ⏳ <font color="blue">聯絡樂器車廠商</font> 2026/7/6      
@@ -170,7 +171,7 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
   - 7/27 早上：雄中綜合大樓 → 衛武營
   - 7/29 晚上：衛武營 → 雄中管樂社辦
            
-<br/><br/>
+<br/>
 
 ### 🔸鋼琴調音師
 - ✅ 調音申請表單填寫與確認 2026/6/13
@@ -213,9 +214,9 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
   - 明勳：長笛／短笛、豎笛、雙簧管／巴松管
   - 昭安：薩克斯風、法國號、小號
   - 侑宸：長號、低銅、打擊（其他）
-- 團練現場點名：
-  - 🐉龍團：冠程
-  - 🌟星團：侑宸
+- [團練現場點名](#團練點名)
+  - 🐉 龍團：冠程
+  - 🌟 星團：侑宸
 
 ### 團練相關資訊
 <img src="https://chenhsuantu.github.io/K19/pic/timetable.jpg" width="70%">   
@@ -260,6 +261,10 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
 
 ### 音樂會票務
 - 統籌人：品融
+
+### 團練點名
+- 🐉 龍團：冠程
+- 🌟 星團：侑宸
 
 <br/><br/>
 
@@ -354,6 +359,14 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
   - 童玩／詹采軒
 - **How to Train Your Dragon** - John Powell (arr. Bertrand Moren)
   - 馴龍高手／約翰．包威爾（編曲：貝特朗．莫倫）
+
+<br/><br/>
+
+## 📍舞監相關
+
+- 衛武營排練室怎麼去？
+- 現場工作人員組織
+- 細流
 
 <br/><br/>
 
