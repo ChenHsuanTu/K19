@@ -207,7 +207,7 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
 [演出人員名單（分團結果）](member/index.html)     
 
 ### 人事幹部分工
-- 顧問：遠軒
+- 顧問：遠軒（含協助保險事宜）
 - 統籌：家齊
 - 執行：明勳、昭安、侑宸
   - 明勳：長笛／短笛、豎笛、雙簧管／巴松管
@@ -221,7 +221,7 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
 <img src="https://chenhsuantu.github.io/K19/pic/timetable.jpg" width="70%">   
 
 #### 公告
-- 出席狀況表單：[演出與工作人員基本資料與團練出席調查](https://forms.gle/XFu6gSpB52mKFhHr5)
+- 人員資料與團練調查：[https://forms.gle/XFu6gSpB52mKFhHr5](https://forms.gle/XFu6gSpB52mKFhHr5)
 - 參與意願調查：[https://forms.gle/mGhX678bWQsAyUMW9](https://forms.gle/mGhX678bWQsAyUMW9)
 - 音樂會公開資訊：[https://bit.ly/ksawo19](https://bit.ly/ksawo19)       
 
@@ -232,7 +232,7 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
 - [演出人員調查表](https://docs.google.com/spreadsheets/d/14wUn90VWnSjyz9NNkTU3BDj4-iz8mVe39fiHhzpdh70/edit?gid=1777202819#gid=1777202819)    
 - [建議樂器編制](https://docs.google.com/spreadsheets/d/1amRzK4iyc2WEGupP9PMHxjSnLi4SyzdosnzXzsGKEOY/edit?gid=1134243704#gid=1134243704)
 
-#### 保險
+#### 保險資訊
 
 - 投保內容：三商美邦人壽旅行平安保險 (TA)
 - 保險險種：身故保險金、喪葬費用保險金、失能保險金、傷害醫療保險金
@@ -301,7 +301,7 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
   - ✅ Alex and the Phantom Band 2026/6/13
   - ✅ Gulliver’s Travels 2026/6/20
   - ✅ 流星群の物語～はかなくも壮大な宇宙へ～ 2026/6/17
-- ⏳ <font color="red">說書人演員討論</font> 2026/6/24
+- ✅ 說書人演員討論 2026/6/24
 
 ### 說書人腳本
 - [Alex and the Phantom Band](story/alex)
