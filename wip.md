@@ -57,7 +57,7 @@
 >
 > 確認無誤後會進行後續核銷作業，並依據財務付款期程進行撥款給付。
      
-<br/>
+<br/><br/>
 
 ## 📍OPENTIX 票務相關
 
@@ -85,7 +85,7 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
 - 衛武營付費會員9折       
 - 適用文化幣青年席位五折自由座優惠（僅限於OPENTIX網站與App使用100點以上文化幣支付）       
      
-<br/>
+<br/><br/>
 
 
 ## 📍設計相關
@@ -101,6 +101,7 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
 - ✅ 數位素材圖檔交付	2026/6/9
 - ✅ 設計師款項交付 2026/6/18
 - ✅ 酷卡與邀請卡印刷 2026/6/23
+- 🏃 <font color="blue">酷卡與邀請卡取件</font> 2026/6/25
 - ⏳ <font color="blue">海報印刷</font> 2026/7/19
 
 ### 設計圖檔     
@@ -143,7 +144,7 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
   - 規格：A1、雙面
   - 狀態：⏳ 
 
-<br/>
+<br/><br/>
 
 ## 📍廠商相關
 
@@ -157,7 +158,7 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
 - 錄影：兩機贈一機 
 - 錄音：四軌
            
-<br/>
+<br/><br/>
 
 ### 🔸樂器車廠商
 - ⏳ <font color="blue">聯絡樂器車廠商</font> 2026/7/6      
@@ -169,16 +170,16 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
   - 7/27 早上：雄中綜合大樓 → 衛武營
   - 7/29 晚上：衛武營 → 雄中管樂社辦
            
-<br/>
+<br/><br/>
 
 ### 🔸鋼琴調音師
 - ✅ 調音申請表單填寫與確認 2026/6/13
-- ⏳ <font color="blue">調音時間確認</font> 2026/6/28 
+- ⏳ <font color="blue">調音時間調整</font> 2026/6/24 
 
 **鋼琴調音師：李俊利　調音師**          
 費用：$ ＿＿＿ 
 - 聯絡資訊：0933655686       
-- 調音時間：＿＿＿   
+- 調音時間：＿＿＿   17:30～18:30
 - [衛武營鋼琴調音申請表單](https://docs.google.com/forms/d/e/1FAIpQLSeHiZ599b0SuwYUrOTc9iavwIflct8tb3dnqcmAzi5LMumwVg/viewform)
   - 功學社南區服務課（史坦威技術中心）
   - 地址：高雄市鹽埕區五福四路104號3樓
@@ -187,7 +188,7 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
   - 電話：0987-821131
   - Line ID: jianeng324
 
-<br/>
+<br/><br/>
 
 
 ## 📍人事相關
@@ -197,8 +198,10 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
 - ✅ 第一階段找人截止	2026/5/23	
 - ✅ 公告分團	2026/6/1
 - ✅ 未成年保險家長同意書製作 2026/6/22
-- ⚠️ 團練出席狀況表單製作	2026/6/24
-- ⚠️ 參與人員大表（含便當統計、保險等）	2026/6/24
+- ✅ 團練出席狀況表單製作	2026/6/24
+- ✅ 參與人員大表（含便當統計、保險等）	2026/6/24
+- ⏳ <font color="blue">確認兩團分部時間</font> 2026/6/27
+
 
 ### 演出人員名單／分團結果
 [演出人員名單（分團結果）](member/index.html)     
@@ -210,7 +213,10 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
   - 明勳：長笛／短笛、豎笛、雙簧管／巴松管
   - 昭安：薩克斯風、法國號、小號
   - 侑宸：長號、低銅、打擊（其他）
- 
+- 團練現場點名：
+  - 🐉龍團：冠程
+  - 🌟星團：侑宸
+
 ### 團練相關資訊
 <img src="https://chenhsuantu.github.io/K19/pic/timetable.jpg" width="70%">   
 
@@ -230,11 +236,10 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
 
 - 投保內容：三商美邦人壽旅行平安保險 (TA)
 - 保險險種：身故保險金、喪葬費用保險金、失能保險金、傷害醫療保險金
-
-未成年須簽署[投保家長同意書](https://drive.google.com/file/d/16PfSGRhGYH9BWG1IcDWJirXhHHNlHktl/view?usp=sharing)。
+- 未成年須簽署[投保家長同意書](https://drive.google.com/file/d/16PfSGRhGYH9BWG1IcDWJirXhHHNlHktl/view?usp=sharing)。
 
      
-<br/>
+<br/><br/>
 
 ## 📍團練現場相關
 - ⚠️ <font color="red">團費繳納方式</font> 2026/6/21
@@ -256,7 +261,7 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
 ### 音樂會票務
 - 統籌人：品融
 
-<br/>
+<br/><br/>
 
 ## 📍宣傳相關
 - ✅ 宣傳活動規劃 2026/5/31
@@ -271,7 +276,7 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
 - ⏳ <font color="blue">回饋單</font> 2026/7/5
 
     
-<br/>
+<br/><br/>
 
 ## 📍公關贊助相關
 - ✅ 活動贊助企畫書初稿 2026/6/23
@@ -282,13 +287,13 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
 ### 音樂會公關
 - 負責人：冠程
 
-<br/>
+<br/><br/>
 
 ## 📍節目冊相關
 - ⏳ <font color="red">網頁設計製作初稿</font> 2026/6/21
 
      
-<br/>
+<br/><br/>
 
 ## 📍節目製作相關
 - ✅ 說書人節目呈現討論 2026/6/12
@@ -328,7 +333,7 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
 - 🐉 **童玩** - 詹采軒
 - 🐉 **How to Train Your Dragon** - John Powell (arr. Bertrand Moren)
 
-<br/>
+<br/><br/>
 
 ### 曲目翻譯
 - **Fanfare for the Common Man** - Aaron Copland
@@ -350,7 +355,7 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
 - **How to Train Your Dragon** - John Powell (arr. Bertrand Moren)
   - 馴龍高手／約翰．包威爾（編曲：貝特朗．莫倫）
 
-<br/>
+<br/><br/>
 
 ## 💰支出費用紀錄
 
