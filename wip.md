@@ -225,7 +225,11 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
 - [建議樂器編制](https://docs.google.com/spreadsheets/d/1amRzK4iyc2WEGupP9PMHxjSnLi4SyzdosnzXzsGKEOY/edit?gid=1134243704#gid=1134243704)
 
 #### 保險
-未成年須簽署[同意書]
+
+- 投保內容：三商美邦人壽旅行平安保險 (TA)
+- 保險險種：身故保險金、喪葬費用保險金、失能保險金、傷害醫療保險金
+
+未成年須簽署[投保家長同意書](https://drive.google.com/file/d/16PfSGRhGYH9BWG1IcDWJirXhHHNlHktl/view?usp=sharing)。
 
      
 <br/>
