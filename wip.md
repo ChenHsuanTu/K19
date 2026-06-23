@@ -215,11 +215,13 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
 <img src="https://chenhsuantu.github.io/K19/pic/timetable.jpg" width="70%">   
 
 #### 公告
-- 出席狀況表單：[]()
+- 出席狀況表單：[演出與工作人員基本資料與團練出席調查](https://forms.gle/XFu6gSpB52mKFhHr5)
 - 參與意願調查：[https://forms.gle/mGhX678bWQsAyUMW9](https://forms.gle/mGhX678bWQsAyUMW9)
 - 音樂會公開資訊：[https://bit.ly/ksawo19](https://bit.ly/ksawo19)       
 
-#### 幹部內部
+#### 幹部內部資訊
+- [《星群》人員資料與團練調查：回覆結果](https://docs.google.com/spreadsheets/d/1Uv-LNNq__V5M1YWl10En8RiOG1vhJyWzkaHw94YCH48/edit?resourcekey=&gid=1104497967#gid=1104497967)
+- [《星群》人員資料與團練調查：表單編輯](https://docs.google.com/forms/d/1XpAAzgvFFbyINakuWumSQ0QFfUGYEaBGLH2OxdMO65s/edit)
 - [參與意願調查結果](https://docs.google.com/spreadsheets/d/1dFJ_M3eat-5QGJzTTgddtNwCkPXwnEF2yeBqd5hIU2Q/edit?gid=836008564#gid=836008564)
 - [演出人員調查表](https://docs.google.com/spreadsheets/d/14wUn90VWnSjyz9NNkTU3BDj4-iz8mVe39fiHhzpdh70/edit?gid=1777202819#gid=1777202819)    
 - [建議樂器編制](https://docs.google.com/spreadsheets/d/1amRzK4iyc2WEGupP9PMHxjSnLi4SyzdosnzXzsGKEOY/edit?gid=1134243704#gid=1134243704)
@@ -363,7 +365,7 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
 |場地申請規費|1,000|
 
 - 彩排與裝台：7/29 早、午。6,000 元／平日一個時段 × 2 個時段 = 12,000 元。
-- 合唱排練室：7/27 午、晚，7/28 早、午、晚／2,000 元／平日一個時段 × 5 個時段 = 10,000 元。
+- 合唱排練室：7/27 午、晚，7/28 早、午、晚。2,000 元／平日一個時段 × 5 個時段 = 10,000 元。
 - 鋼琴租用：史坦威 D-274 演奏鋼琴，7/29 午、晚。3,000 元／時段 × 2 個時段 = 6,000 元。
  
 ### 廠商
