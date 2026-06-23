@@ -129,7 +129,7 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
   - 規格：15K、象牙卡、雙面
   - 份數：300 張
   - 價格：2,100 元
-  - 狀態：✅ 印製中
+  - 狀態：✅ 印製完成
 - 酷卡
   - 規格：A6、雪銅紙、雙面
   - 份數：2,000 張
@@ -137,7 +137,7 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
     - 1,000 張約 2,800 元
     - 1,500 張約 4,400 元
     - 2,000 張約 5,200 元
-  - 狀態：✅ 印製中。
+  - 狀態：✅ 印製完成
     - 酷卡需送印刷廠合板印刷，因此時程較久。
 - A1 海報
   - 規格：A1、雙面
@@ -196,8 +196,9 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
 - ✅ 公告團練資訊	2026/5/7
 - ✅ 第一階段找人截止	2026/5/23	
 - ✅ 公告分團	2026/6/1
-- ⚠️ <font color="red">團練出席狀況表單製作</font>	2026/6/21
-- ⚠️ <font color="red">參與人員大表（含便當統計）</font>	2026/6/21
+- ✅ 未成年保險家長同意書製作 2026/6/22
+- ⚠️ 團練出席狀況表單製作	2026/6/24
+- ⚠️ 參與人員大表（含便當統計、保險等）	2026/6/24
 
 ### 演出人員名單／分團結果
 [演出人員名單（分團結果）](member/index.html)     
@@ -214,6 +215,7 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
 <img src="https://chenhsuantu.github.io/K19/pic/timetable.jpg" width="70%">   
 
 #### 公告
+- 出席狀況表單：[]()
 - 參與意願調查：[https://forms.gle/mGhX678bWQsAyUMW9](https://forms.gle/mGhX678bWQsAyUMW9)
 - 音樂會公開資訊：[https://bit.ly/ksawo19](https://bit.ly/ksawo19)       
 
