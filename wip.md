@@ -266,6 +266,7 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
 <br/><br/>
 
 ## 📍團練現場相關
+- ✅ 寄票表單 2026/6/25 
 - ⚠️ <font color="red">團費繳納方式</font> 2026/6/21
 - ⚠️ <font color="red">團員票領票方式</font> 2026/6/21
 - ⏳ <font color="blue">庶務值班規劃</font> 2026/7/5
@@ -279,13 +280,23 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
    - 限定由票務刷票，一次需購買 4 張，不得分次。
    - 可改成領取 800 元票 2 張，或 300 元票 6 張。      
 
-### 音樂會總務
+### 團練現場行政流程指引
+
+[**團練現場行政流程指引**](guideline.md)
+
+### 🔸音樂會總務
 - 統籌人：子謙
 
-### 音樂會票務
+### 🔸音樂會票務
 - 統籌人：品融
 
-### 團練點名
+#### 寄票表單
+
+- 寄票表單：[https://forms.gle/QGhoywd9ZWDANNr19](https://forms.gle/QGhoywd9ZWDANNr19)
+- 寄票表單後台：[https://docs.google.com/spreadsheets/d/137ed67QpIim21Aj605hPjLrnxJN61gt1qjtLRFWUC0c/edit?usp=sharing](https://docs.google.com/spreadsheets/d/137ed67QpIim21Aj605hPjLrnxJN61gt1qjtLRFWUC0c/edit?usp=sharing)
+- [寄票表單編輯](https://docs.google.com/forms/d/1vAob_vghozOt6XDJ3i1Opp0aAr2EcrX7WxXbUEWIoe0/edit)
+
+### 🔸團練點名
 - 🐉 龍團：冠程
 - 🌟 星團：侑宸
 

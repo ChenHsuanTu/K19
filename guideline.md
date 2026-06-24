@@ -70,6 +70,7 @@
 2. 團員半價方案繳費
 
 ### 團員費用
+
 - 團費 500 元：領團員票 2 張
 - 活動費 1000 元（演出人員必須要繳交）
 
@@ -137,8 +138,10 @@ OPENTIX 網址：https://www.opentix.life/event/2053691239618875392
 
 ### 📍寄票流程
 
-- 寄票表單：[]()
-- 寄票表單後台：[]()
+- 寄票表單：[https://forms.gle/QGhoywd9ZWDANNr19](https://forms.gle/QGhoywd9ZWDANNr19)
+- 寄票表單後台：[https://docs.google.com/spreadsheets/d/137ed67QpIim21Aj605hPjLrnxJN61gt1qjtLRFWUC0c/edit?usp=sharing](https://docs.google.com/spreadsheets/d/137ed67QpIim21Aj605hPjLrnxJN61gt1qjtLRFWUC0c/edit?usp=sharing)
+- [寄票表單編輯](https://docs.google.com/forms/d/1vAob_vghozOt6XDJ3i1Opp0aAr2EcrX7WxXbUEWIoe0/edit)
+
 
 1. 團員須先取得實體票券     
 2. 團員填寫寄票表單後，並將票券裝至信封中，交到寄票處
@@ -171,4 +174,4 @@ OPENTIX 網址：https://www.opentix.life/event/2053691239618875392
 > 團費優惠、折扣之辦法，以規則另訂之。               
 > 高雄中學管樂團團員，於繳納該團團費後，適用本章程有關團員之規定，惟團員大會及選舉、被選舉、罷免之權利不適用之。          
 
-在未變更以前，入團費為 200 元，常年團費為每年 500 元。
+P.S. 在未變更以前，入團費為 200 元，常年團費為每年 500 元。
