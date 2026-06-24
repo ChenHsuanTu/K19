@@ -1,4 +1,4 @@
-# 團練現場行政流程指引
+# 團練行政流程指引
 
 - [負責人名單](#負責人名單)
 - [音樂會人事與團練點名](#音樂會人事與團練點名)
@@ -141,7 +141,6 @@ OPENTIX 網址：https://www.opentix.life/event/2053691239618875392
 - 寄票表單：[https://forms.gle/QGhoywd9ZWDANNr19](https://forms.gle/QGhoywd9ZWDANNr19)
 - 寄票表單後台：[https://docs.google.com/spreadsheets/d/137ed67QpIim21Aj605hPjLrnxJN61gt1qjtLRFWUC0c/edit?usp=sharing](https://docs.google.com/spreadsheets/d/137ed67QpIim21Aj605hPjLrnxJN61gt1qjtLRFWUC0c/edit?usp=sharing)
 - [寄票表單編輯](https://docs.google.com/forms/d/1vAob_vghozOt6XDJ3i1Opp0aAr2EcrX7WxXbUEWIoe0/edit)
-
 
 1. 團員須先取得實體票券     
 2. 團員填寫寄票表單後，並將票券裝至信封中，交到寄票處
