@@ -222,6 +222,9 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
 - ✅ 團練出席狀況表單製作	2026/6/24
 - ✅ 參與人員大表（含便當統計、保險等）	2026/6/24
 - ⏳ <font color="blue">確認兩團分部時間</font> 2026/6/27
+- ⏳ <font color="blue">兩團分部聯絡人名單確認</font> 2026/6/27
+- ⏳ <font color="red">開放填寫人員資料與團練調查</font> 2026/6/29
+- ⏳ <font color="red">樂譜電子檔發放</font> 2026/6/29
 
 
 ### 演出人員名單／分團結果
