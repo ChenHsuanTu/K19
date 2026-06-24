@@ -6,6 +6,8 @@
 - [音樂會票務](#音樂會票務)
 - [票務與總務協作項目](#票務與總務協作項目)
 
+<hr/>
+
 ## 負責人名單
 
 #### 音樂會人事
@@ -30,20 +32,20 @@
 1. 統籌與收集**人事基本資料**
     1. 確認未成年團員之保險家長同意書繳交
     1. 處理保險投保
-1. 傳達並確認以下資訊給兩團分部長
+1. 傳達並確認以下資訊給**兩團分部長**
     1. 電子樂譜發放
     1. 確認演出人員名單（包含姓名校對）
     1. 確認團員皆有正確填寫[人員資料與團練調查表](https://forms.gle/XFu6gSpB52mKFhHr5)
     1. 確認團員都有進到 [LINE 大群](https://line.me/R/ti/g/rT01N2E5Tq)，可得到最新消息
-1. 團練出席點名
+1. 團練**出席點名**
     1. 分部長確認出席後，回報人事登記
     1. 統一收發姓名牌
 
-### 人事表單與檔案
+### 相關表單與檔案
 
-- 人員資料與團練調查：[https://forms.gle/XFu6gSpB52mKFhHr5](https://forms.gle/XFu6gSpB52mKFhHr5)
+- 演出及工作人員資料與團練調查：[https://forms.gle/XFu6gSpB52mKFhHr5](https://forms.gle/XFu6gSpB52mKFhHr5)
 - [《星群》人員資料與團練調查：回覆結果](https://docs.google.com/spreadsheets/d/1Uv-LNNq__V5M1YWl10En8RiOG1vhJyWzkaHw94YCH48/edit?resourcekey=&gid=1104497967#gid=1104497967)
-- [投保家長同意書](https://drive.google.com/file/d/16PfSGRhGYH9BWG1IcDWJirXhHHNlHktl/view?usp=sharing)。
+- [投保家長同意書](https://drive.google.com/file/d/16PfSGRhGYH9BWG1IcDWJirXhHHNlHktl/view?usp=sharing)
 
 
 ### 分部長名單（待確認）
@@ -88,7 +90,7 @@
 
 ### 自行購票優惠
 
-OPENTIX 網址：https://www.opentix.life/event/2053691239618875392
+OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://www.opentix.life/event/2053691239618875392)
 
 - 輸入團員折扣碼 ksawokswb 享 8 折優惠
 
@@ -110,7 +112,7 @@ OPENTIX 網址：https://www.opentix.life/event/2053691239618875392
         - 電話：06-3362632
 1. 收到回信後即可前往衛武營取票
     - OPENTIX 高雄服務處
-        - 地址：830043高雄市鳳山區三多一路1號 （衛武營國家藝術文化中心三樓服務中心對面）
+        - 地址：830043 高雄市鳳山區三多一路1號 （衛武營國家藝術文化中心三樓服務中心對面）
         - 聯絡電話：07-710-5958
         - 售取票服務時間：週一至週五 11:00-12:30、13:30-18:00
 
@@ -139,7 +141,7 @@ OPENTIX 網址：https://www.opentix.life/event/2053691239618875392
 ### 📍寄票流程
 
 - 寄票表單：[https://forms.gle/QGhoywd9ZWDANNr19](https://forms.gle/QGhoywd9ZWDANNr19)
-- 寄票表單後台：[https://docs.google.com/spreadsheets/d/137ed67QpIim21Aj605hPjLrnxJN61gt1qjtLRFWUC0c/edit?usp=sharing](https://docs.google.com/spreadsheets/d/137ed67QpIim21Aj605hPjLrnxJN61gt1qjtLRFWUC0c/edit?usp=sharing)
+- [寄票表單後台](https://docs.google.com/spreadsheets/d/137ed67QpIim21Aj605hPjLrnxJN61gt1qjtLRFWUC0c/edit?usp=sharing)
 - [寄票表單編輯](https://docs.google.com/forms/d/1vAob_vghozOt6XDJ3i1Opp0aAr2EcrX7WxXbUEWIoe0/edit)
 
 1. 團員須先取得實體票券     
@@ -159,6 +161,7 @@ OPENTIX 網址：https://www.opentix.life/event/2053691239618875392
 
 
 
+<hr/>
 
 ## 附錄
 
