@@ -401,7 +401,6 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
 
 ## 📍舞監相關
 
-- 衛武營排練室怎麼去？
 - 現場工作人員組織
 - 細流
 
