@@ -102,7 +102,7 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
 - ✅ 數位素材圖檔交付	2026/6/9
 - ✅ 設計師款項交付 2026/6/18
 - ✅ 酷卡與邀請卡印刷 2026/6/23
-- 🏃 <font color="blue">酷卡與邀請卡取件</font> 2026/6/25
+- ✅ 酷卡與邀請卡取件 2026/6/25
 - ⏳ <font color="blue">海報印刷</font> 2026/7/19
 
 ### 設計圖檔     
@@ -303,6 +303,17 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
 🐉 龍團：冠程            
 🌟 星團：侑宸         
 
+### 🔸庶務值班
+
+負責人：校內
+
+#### 庶務值班項目
+
+1. 團練場地開關門
+1. 整理環境、倒除濕機水與倒垃圾
+1. 團練筆記紀錄
+
+
 <br/><br/>
 
 ## 📍宣傳相關
@@ -327,7 +338,8 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
 [活動贊助企畫書](proposal.md)
 
 ### 音樂會公關
-- 負責人：冠程
+
+負責人：冠程
 
 <br/><br/>
 
@@ -344,6 +356,8 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
   - ✅ Gulliver’s Travels 2026/6/20
   - ✅ 流星群の物語～はかなくも壮大な宇宙へ～ 2026/6/17
 - ✅ 說書人演員討論 2026/6/24
+- ⏳ <font color="blue">說書人服裝確認</font> 2026/7/5
+- ⏳ <font color="blue">說書人椅子訂購</font> 2026/7/5
 
 ### 說書人腳本
 - [Alex and the Phantom Band](story/alex)
