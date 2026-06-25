@@ -138,7 +138,7 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
 >                  
 > 共 16 張                 
 
-### 📍寄票流程
+### 寄票流程
 
 - 寄票表單：[https://forms.gle/QGhoywd9ZWDANNr19](https://forms.gle/QGhoywd9ZWDANNr19)
 - [寄票表單後台](https://docs.google.com/spreadsheets/d/137ed67QpIim21Aj605hPjLrnxJN61gt1qjtLRFWUC0c/edit?usp=sharing)
@@ -150,7 +150,7 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
 
 <br/>
 
-## 票務與總務協作項目
+## 📍票務與總務協作項目
 
 ### 團費領票
 **繳交團費後可領團員票 2 張**
