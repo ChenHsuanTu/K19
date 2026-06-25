@@ -1,7 +1,7 @@
-![](https://chenhsuantu.github.io/K19/design_file/FBbanner_1640x856.jpg)
+![](design_file/2026雄中幻影奇談_inv_card01_100x210.jpg)
 
 ## 📍團練出席
-![](https://chenhsuantu.github.io/K19/pic/timetable.jpg)
+![](pic/timetable.jpg)
        
 - 團練時間
     - 下午：14:00\~17:00、晚上：18:30\~21:30。如有不同時間會額外標示。
@@ -12,7 +12,7 @@
          
 #### 演出人員名單（分團結果）．分部長名單
 
-- [演出人員與分部長名單](https://chenhsuantu.github.io/K19/member)
+- [演出人員與分部長名單](member/index.html)
 
 #### 基本資料與出席表單
 
