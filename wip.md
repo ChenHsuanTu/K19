@@ -285,10 +285,12 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
 [**團練行政流程指引**](guideline.md)
 
 ### 🔸音樂會總務
-- 統籌人：子謙
+
+統籌人：子謙
 
 ### 🔸音樂會票務
-- 統籌人：品融
+
+統籌人：品融
 
 #### 寄票表單
 
@@ -297,8 +299,9 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
 - [寄票表單編輯](https://docs.google.com/forms/d/1vAob_vghozOt6XDJ3i1Opp0aAr2EcrX7WxXbUEWIoe0/edit)
 
 ### 🔸團練點名
-- 🐉 龍團：冠程
-- 🌟 星團：侑宸
+
+🐉 龍團：冠程            
+🌟 星團：侑宸         
 
 <br/><br/>
 
