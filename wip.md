@@ -470,7 +470,7 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
 
 #### OPENTIX　票務
 
-－
+- ✅
 
 #### 設計印刷
 
@@ -521,3 +521,7 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
 - 說書人服裝確認
 - 說書人椅子訂購
 - 校長？
+
+#### 其他
+
+- [首頁](https://chenhsuantu.github.io/K19/)
