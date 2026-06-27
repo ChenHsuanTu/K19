@@ -335,6 +335,26 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
 - 🏃 持續宣傳 2026/6/5 - 2026/8/1
 - ⏳ <font color="blue">回饋單</font> 2026/7/5
 
+### 宣傳時程
+
+|時間|星期|內容|
+|--|--|--|
+|7/6|一|🎵 Fanfare for the Common Man|
+|7/8|三|🎵 Sandpaper Ballet|
+|7/10|五||
+|7/12|日|🎵 Selections from Disney’s Moana|
+|7/14|二|🎵 Alex and the Phantom Band|
+|7/16|四|🎵 童玩|
+|7/18|六|🎬 說書人|
+|7/19|日|🎵 Gulliver’s Travels|
+|7/21|二|🎵 掃除用具のファンタジー|
+|7/23|四|🎵 How to Train Your Dragon|
+|7/25|六|🎬 指揮|
+|7/26|日|🎵 流星群の物語～はかなくも壮大な宇宙へ～|
+|7/28|二|總彩排照片，演前公告|
+|7/29|三|裝台／彩排照，演前提醒|
+|7/29|三|音樂會照片，回饋表單|
+|8/1|六|慶功宴照片|
     
 <br/><br/>
 
@@ -472,7 +492,7 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
 
 ⭐ 7/28 改借 B313 合唱團練室
 
-#### OPENTIX　票務
+#### OPENTIX 票務
 
 - ✅
 
