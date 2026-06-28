@@ -65,9 +65,9 @@
 
 <br/>
 
-## 📍演出曲目
+## 📍音樂演出
 
-### 參考資訊
+### 曲目搭配參考資訊
 
 #### 說書人文本
 - [Alex and the Phantom Band](story/alex)
