@@ -17,7 +17,7 @@
 ### 基本資料與出席表單
 
 請假方法：事先填寫出席表單請假。若臨時請假，請通知分部長，並說明原因請假。
-- ✏️[基本資料與團練出席調查表單](https://forms.gle/XFu6gSpB52mKFhHr5) <font color="red">🚨即將開放</font>
+- ✏️[基本資料與團練出席調查表單](https://forms.gle/XFu6gSpB52mKFhHr5)
 - [出席表單後台](https://docs.google.com/spreadsheets/d/1Uv-LNNq__V5M1YWl10En8RiOG1vhJyWzkaHw94YCH48/edit?resourcekey=&gid=1104497967#gid=1104497967)
 
 
@@ -66,6 +66,18 @@
 <br/>
 
 ## 📍演出曲目
+
+### 參考資訊
+
+#### 說書人文本
+- [Alex and the Phantom Band](story/alex)
+- [Gulliver’s Travels](story/gulliver)
+- [流星群の物語～はかなくも壮大な宇宙へ～](story/star)
+
+#### YouTube 示範影片
+- [樂曲影片清單](https://youtube.com/playlist?list=PLTwGp7yPzLtsztraYg2UaE-7z50kd9v-f&si=QilE1V3tQiAhY9mz)
+
+### 演出曲目
 
 #### 龍團🐉
 - **Fanfare for the Common Man** - Aaron Copland
