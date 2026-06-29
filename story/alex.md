@@ -22,15 +22,6 @@ Composer: David Maslanka
 
 ## 腳本
 
-> **待討論**
-> - 「陛下皇家管樂團」名稱修改    
-> - 部分台詞是否要用台語說？ (1) 最後一段奶奶講話 (2) Alex：「奶奶」及其他台詞   
-> - Alex 倒數鐘聲台詞可修改
-> - Fiona 的最後一句可以修改
-> - 倒數第三句「鉸鏈沒有發出一丁點的聲音」
-
-
-
 ##### 中文翻譯：杜承軒
 
 【■ 表示等待音樂後進下一個提示點】
@@ -83,7 +74,7 @@ Alex 轉向音樂傳來的方向，看見了那個女孩，稻草色的頭髮和
 
 窗戶被木板釘死，大門也以一種奇怪的角度歪向一邊。
 
-門上有一塊古老的招牌寫著：「陛下皇家管樂團」。■ `銅管齊奏`
+門上有一塊古老的招牌寫著：「皇家樂隊管樂團」。■ `銅管齊奏`
 
 女孩打開門，帶著 Alex 走進去。
 
@@ -107,7 +98,7 @@ Alex 轉向音樂傳來的方向，看見了那個女孩，稻草色的頭髮和
 
 「<font style="color:green;">我是指揮，</font>」指揮棒莊嚴地說。
 
-「<font style="color:green;">我給樂團節拍，也告訴演奏者音樂應該聽起來是什麼樣子。</font> ■ `木琴音效` <font style="color:green;"> 讓我向你介紹…… </font> ■ `小鼓` <font style="color:green;">陛下皇家管樂團！</font>」■
+「<font style="color:green;">我給樂團節拍，也告訴演奏者音樂應該聽起來是什麼樣子。</font> ■ `木琴音效` <font style="color:green;"> 讓我向你介紹…… </font> ■ `小鼓` <font style="color:green;">皇家樂隊管樂團！</font>」■
 
 -
 
@@ -265,7 +256,7 @@ Its windows were boarded up, and the door was hung at an odd angle.
 
 An old sign over the door read “His Majesty’s Royal Band.”
 
-門上有一塊古老的招牌寫著：「陛下皇家管樂團」。
+門上有一塊古老的招牌寫著：「皇家樂隊管樂團」。
 
 The girl opened the door and ushered Alex inside.
 
@@ -311,7 +302,7 @@ The baton was the last to turn, but when it did, it pointed directly at Alex.
 
 “I give the band a beat. Also I tell the players how the music is supposed to sound. Let me introduce you to…His Majesty’s Royal Band!” 
 
-「<font style="color:green;">我給樂團節拍，也告訴演奏者音樂應該聽起來是什麼樣子。讓我向你介紹……陛下皇家管樂團！</font>」
+「<font style="color:green;">我給樂團節拍，也告訴演奏者音樂應該聽起來是什麼樣子。讓我向你介紹……皇家樂隊管樂團！</font>」
 
 [Band plays and stops]
 
