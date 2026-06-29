@@ -34,6 +34,7 @@
 - ✅ 演出需求表 2026/6/5
 - ✅ 前後台工作證初版 2026/6/5
 - ✅ 衛武營場館租借尾款 2026/6/18
+- 🚨 <font color="red">排練室更動確認</font> 2026/6/29
 - ⏳ <font color="red">場地技術會議</font> 暫訂 2026/7/8
 - ⏳ <font color="red">衛武營舞監演出需求確認期限</font> 2026/7/17
 - ⏳ <font color="red">前後台工作證資訊提供</font> 2026/7/17       
@@ -68,6 +69,7 @@
 - ✅ OPENTIX 上架	2026/5/13
 - ✅ 文化幣青年席位	2026/5/13	
 - ✅ OPENTIX 宣傳圖檔更新 2026/6/7	
+- ✅ 申請後臺調票權限 2026/6/29
 
 <img src="https://chenhsuantu.github.io/K19/pic/OT啟售.jpg" width="50%">     
 
@@ -144,7 +146,8 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
     - 酷卡需送印刷廠合板印刷，因此時程較久。
 - A1 海報
   - 規格：A1、單面
-  - 狀態：⏳ 
+  - 份數：4 張
+  - 狀態：⏳ 待送件
 
 <br/><br/>
 
@@ -183,7 +186,8 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
 <br/>
 
 ### 🔸樂器車廠商
-- ⏳ <font color="blue">聯絡樂器車廠商</font> 2026/7/6      
+- ⏳ <font color="blue">確認樂器車數量</font> 2026/7/12      
+- ⏳ <font color="blue">聯絡樂器車廠商</font> 2026/7/12      
 
 **樂器車廠商：＿＿＿＿＿＿**      
 費用：$ ＿＿＿         
@@ -222,10 +226,10 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
 - ✅ 未成年保險家長同意書製作 2026/6/22
 - ✅ 團練出席狀況表單製作	2026/6/24
 - ✅ 參與人員大表（含便當統計、保險等）	2026/6/24
-- ⏳ <font color="blue">確認兩團分部時間</font> 2026/6/27
-- ⏳ <font color="blue">兩團分部聯絡人名單確認</font> 2026/6/27
-- ⏳ <font color="red">開放填寫人員資料與團練調查</font> 2026/6/29
-- ⏳ <font color="red">樂譜電子檔發放</font> 2026/6/29
+- ✅ 開放填寫人員資料與團練調查</font> 2026/6/29
+- ⏳ <font color="blue">兩團分部聯絡人名單確認</font> 2026/6/29
+- ⏳ <font color="blue">確認兩團分部時間</font> 2026/7/2
+- ⏳ <font color="red">樂譜電子檔發放</font> 2026/7/2
 
 
 ### 演出人員名單／分團結果
@@ -270,7 +274,7 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
 - ✅ 寄票表單 2026/6/25 
 - ⚠️ <font color="red">團費繳納方式</font> 2026/6/21
 - ⚠️ <font color="red">團員票領票方式</font> 2026/6/21
-- ⏳ <font color="blue">庶務值班規劃</font> 2026/7/5
+- ✅ 庶務值班規劃 → 由校內安排
 
 ### 團員費用與團員票特殊優惠
 - 團費 500 元：領團員票 2 張
@@ -494,7 +498,7 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
 
 #### OPENTIX 票務
 
-- ✅
+- 無
 
 #### 設計印刷
 
