@@ -364,7 +364,8 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
 - ✅ 開始宣傳 2026/6/10
 - ✅ 早鳥截止 2026/6/14
 - 🏃 持續宣傳 2026/6/5 - 2026/8/1
-- ⏳ <font color="blue">回饋單</font> 2026/7/5
+- ⏳ <font color="red">影片拍攝腳本</font> 2026/7/5
+- ⏳ <font color="blue">回饋單</font> 2026/7/27
 
 ### 宣傳時程
 
@@ -402,7 +403,7 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
 <br/><br/>
 
 ## 📍節目冊相關
-- ⏳ <font color="red">網頁設計製作初稿</font> 2026/6/21
+- ⏳ <font color="red">網頁設計製作初稿</font> 2026/7/5
 
      
 <br/><br/>
