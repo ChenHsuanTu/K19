@@ -397,9 +397,9 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
 
 ### 活動贊助企畫書
 
-[活動贊助企畫書](proposal.md)
-[PDF 檔文件版本](proposal/%E6%B4%BB%E5%8B%95%E8%B4%8A%E5%8A%A9%E4%BC%81%E7%95%AB%E6%9B%B8.pdf)
-[Word 檔供修改版本](proposal/%E6%B4%BB%E5%8B%95%E8%B4%8A%E5%8A%A9%E4%BC%81%E7%95%AB%E6%9B%B8.docx)
+[活動贊助企畫書](proposal.md)            
+[PDF 檔文件版本](proposal/%E6%B4%BB%E5%8B%95%E8%B4%8A%E5%8A%A9%E4%BC%81%E7%95%AB%E6%9B%B8.pdf)                  
+[Word 檔供修改版本](proposal/%E6%B4%BB%E5%8B%95%E8%B4%8A%E5%8A%A9%E4%BC%81%E7%95%AB%E6%9B%B8.docx)                 
 
 ### 音樂會公關
 
