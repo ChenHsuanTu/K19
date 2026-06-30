@@ -394,16 +394,156 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
 - ✅ 活動贊助企畫書初稿 2026/6/23
 - ✅ 活動贊助企畫書討論 2026/6/29
 - ✅ 活動贊助企畫書文件檔 2026/6/29
+- 🏃 贊助與貴賓名單確認 2026/7/1 - 2026/7/29
+- ⏳ <font color="blue">貴賓票紀錄表</font> 2026/7/5
+- ⏳ <font color="blue">感謝狀公版製作</font> 2026/7/15
+
 
 ### 活動贊助企畫書
 
-[活動贊助企畫書](proposal.md)            
-[PDF 檔文件版本](proposal/%E6%B4%BB%E5%8B%95%E8%B4%8A%E5%8A%A9%E4%BC%81%E7%95%AB%E6%9B%B8.pdf)                  
-[Word 檔供修改版本](proposal/%E6%B4%BB%E5%8B%95%E8%B4%8A%E5%8A%A9%E4%BC%81%E7%95%AB%E6%9B%B8.docx)                 
+- [活動贊助企畫書](proposal.md)            
+- [PDF 檔文件版本](proposal/%E6%B4%BB%E5%8B%95%E8%B4%8A%E5%8A%A9%E4%BC%81%E7%95%AB%E6%9B%B8.pdf)                  
+- [Word 檔供修改版本](proposal/%E6%B4%BB%E5%8B%95%E8%B4%8A%E5%8A%A9%E4%BC%81%E7%95%AB%E6%9B%B8.docx)                 
 
 ### 音樂會公關
 
 負責人：冠程
+
+- 贊助名單確認
+  - 來源：主動寄信邀請、被動收到通知處理
+  - 列名名單
+  - **感謝狀製作**
+- 貴賓邀請
+  - 貴賓名單整理
+    - 雄中校內主任、訓育組
+    - 家長會
+    - 校友會
+    - 雄中校內老師*
+- **貴賓票**
+  - 與票務聯繫
+  - **記錄貴賓與座位**
+
+#### 企業贊助方案
+
+
+<table border="1" style="border-collapse: collapse; width: 100%; text-align: center; font-family: sans-serif;">
+  <thead>
+    <tr style="background-color: #f2f2f2;">
+      <th colspan="2" style="padding: 8px; width: 25%;">方案</th>
+      <th style="padding: 8px; width: 12.5%;">2,000元</th>
+      <th style="padding: 8px; width: 12.5%;">3,000元</th>
+      <th style="padding: 8px; width: 12.5%;">5,000元</th>
+      <th style="padding: 8px; width: 12.5%;">10,000元</th>
+      <th style="padding: 8px; width: 12.5%;">15,000元</th>
+      <th style="padding: 8px; width: 12.5%;">20,000元</th>
+    </tr>
+  </thead>
+  <tbody>
+    <!-- 基本回饋 -->
+    <tr>
+      <td rowspan="2" style="font-weight: bold; padding: 8px; width: 10%;">基本回饋</td>
+      <td style="padding: 8px; width: 15%; text-align: left;">電子節目冊列名感謝</td>
+      <td style="padding: 8px;">✓</td>
+      <td style="padding: 8px;">✓</td>
+      <td style="padding: 8px;">✓</td>
+      <td style="padding: 8px;">✓</td>
+      <td style="padding: 8px;">✓</td>
+      <td style="padding: 8px;">✓</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; text-align: left;">感謝狀發放</td>
+      <td style="padding: 8px;">✓</td>
+      <td style="padding: 8px;">✓</td>
+      <td style="padding: 8px;">✓</td>
+      <td style="padding: 8px;">✓</td>
+      <td style="padding: 8px;">✓</td>
+      <td style="padding: 8px;">✓</td>
+    </tr>
+    <!-- 網路宣傳 -->
+    <tr>
+      <td rowspan="3" style="font-weight: bold; padding: 8px;">網路宣傳</td>
+      <td style="padding: 8px; text-align: left;">贊助商資訊放送</td>
+      <td style="padding: 8px;"></td>
+      <td style="padding: 8px;">✓</td>
+      <td style="padding: 8px;">✓</td>
+      <td style="padding: 8px;">✓</td>
+      <td style="padding: 8px;">✓</td>
+      <td style="padding: 8px;">✓</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; text-align: left;">商品專欄</td>
+      <td style="padding: 8px;"></td>
+      <td style="padding: 8px;"></td>
+      <td style="padding: 8px;">✓</td>
+      <td style="padding: 8px;">✓</td>
+      <td style="padding: 8px;">✓</td>
+      <td style="padding: 8px;">✓</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; text-align: left;">電子節目冊版面廣告</td>
+      <td style="padding: 8px;"></td>
+      <td style="padding: 8px;"></td>
+      <td style="padding: 8px;"></td>
+      <td style="padding: 8px;">✓</td>
+      <td style="padding: 8px;">✓</td>
+      <td style="padding: 8px;">✓</td>
+    </tr>
+    <!-- 實體宣傳 -->
+    <tr>
+      <td rowspan="3" style="font-weight: bold; padding: 8px;">實體宣傳</td>
+      <td style="padding: 8px; text-align: left;">活動當日櫃台之文宣品發放<br>（A4 大小 DM 展示）</td>
+      <td style="padding: 8px;"></td>
+      <td style="padding: 8px;"></td>
+      <td style="padding: 8px;"></td>
+      <td style="padding: 8px;">✓</td>
+      <td style="padding: 8px;">✓</td>
+      <td style="padding: 8px;">✓</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; text-align: left;">活動當日櫃台之商品寄售或發放</td>
+      <td style="padding: 8px;"></td>
+      <td style="padding: 8px;"></td>
+      <td style="padding: 8px;"></td>
+      <td style="padding: 8px;"></td>
+      <td style="padding: 8px;">✓</td>
+      <td style="padding: 8px;">✓</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; text-align: left;">主持人口頭致謝</td>
+      <td style="padding: 8px;"></td>
+      <td style="padding: 8px;"></td>
+      <td style="padding: 8px;"></td>
+      <td style="padding: 8px;"></td>
+      <td style="padding: 8px;"></td>
+      <td style="padding: 8px;">✓</td>
+    </tr>
+    <!-- 其他回饋品 -->
+    <tr>
+      <td style="font-weight: bold; padding: 8px;">其他回饋品</td>
+      <td style="padding: 8px; text-align: left;">貴賓票</td>
+      <td style="padding: 8px;">1</td>
+      <td style="padding: 8px;">1</td>
+      <td style="padding: 8px;">2</td>
+      <td style="padding: 8px;">4</td>
+      <td style="padding: 8px;">6</td>
+      <td style="padding: 8px;">8</td>
+    </tr>
+  </tbody>
+</table>
+
+#### 個⼈贊助方案
+
+贊助達 2,000 元，即享以下回饋：
+- 電子節目冊列名感謝
+- 感謝狀發放 
+- 貴賓票 1 張
+- 贊助金額每滿 2,000 元，即加贈貴賓票 1 張（如贊助 4,000 元獲 2 張、6,000 元獲 3 張，以此類推）
+
+
+
+
+
+
 
 <br/><br/>
 
