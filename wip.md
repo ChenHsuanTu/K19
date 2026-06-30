@@ -254,7 +254,7 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
 - ✅ 團練出席狀況表單製作	2026/6/24
 - ✅ 參與人員大表（含便當統計、保險等）	2026/6/24
 - ✅ 開放填寫人員資料與團練調查</font> 2026/6/29
-- ⏳ <font color="blue">兩團分部聯絡人名單確認</font> 2026/6/29
+- ✅ <font color="blue">兩團分部聯絡人名單確認</font> 2026/6/29
 - ⏳ <font color="blue">確認兩團分部時間</font> 2026/7/2
 - ⏳ <font color="red">樂譜電子檔發放</font> 2026/7/2
 
@@ -392,9 +392,14 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
 
 ## 📍公關贊助相關
 - ✅ 活動贊助企畫書初稿 2026/6/23
+- ✅ 活動贊助企畫書討論 2026/6/29
+- ✅ 活動贊助企畫書文件檔 2026/6/29
 
 ### 活動贊助企畫書
+
 [活動贊助企畫書](proposal.md)
+[PDF 檔文件版本](proposal/%E6%B4%BB%E5%8B%95%E8%B4%8A%E5%8A%A9%E4%BC%81%E7%95%AB%E6%9B%B8.pdf)
+[Word 檔供修改版本](proposal/%E6%B4%BB%E5%8B%95%E8%B4%8A%E5%8A%A9%E4%BC%81%E7%95%AB%E6%9B%B8.docx)
 
 ### 音樂會公關
 
@@ -474,8 +479,8 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
 
 ## 📍舞監相關
 
-- 現場工作人員組織
-- 細流
+- ⏳ <font color="blue">工作人員招募</font> 2026/7/19
+- ⏳ <font color="blue">細流製作</font> 2026/7/27
 
 <br/><br/>
 
