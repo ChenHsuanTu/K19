@@ -50,17 +50,23 @@
 
 ### 分部長名單
 
-||龍團|星團|
-|---|---|---|
-|長笛|劉子謙|劉子謙|
-|雙簧管／巴松管|吳宥陞|吳宥陞|
-|豎笛|黃冠程|黃冠程|
-|薩克|邵康揚|邵康揚|
-|法國號|梁莊堯|梁莊堯|
-|小號|呂紹銨|呂紹銨|
-|長號|林岱威|許侑宸|
-|低銅／貝斯|莊才昇|黃浚賀|
-|打擊／鋼琴|林畇昕|劉昱翔|
+<table>
+  <thead>
+    <tr><th></th><th>龍團</th><th>星團</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>長笛</td><td colspan="2" style="text-align: center;">劉子謙</td></tr>
+    <tr><td>雙簧管／巴松管</td><td colspan="2" style="text-align: center;">吳宥陞</td></tr>
+    <tr><td>豎笛</td><td colspan="2" style="text-align: center;">黃冠程</td></tr>
+    <tr><td>薩克</td><td colspan="2" style="text-align: center;">邵康揚</td></tr>
+    <tr><td>法國號</td><td colspan="2" style="text-align: center;">梁莊堯</td></tr>
+    <tr><td>小號</td><td colspan="2" style="text-align: center;">呂紹銨</td></tr>
+    <tr><td>長號</td><td>林岱威</td><td>許侑宸</td></tr>
+    <tr><td>低銅／貝斯</td><td>莊才昇</td><td>黃浚賀</td></tr>
+    <tr><td>打擊／鋼琴</td><td>林畇昕</td><td>劉昱翔</td></tr>
+  </tbody>
+</table>
+
 
 <br/>
 
