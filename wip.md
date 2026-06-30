@@ -744,7 +744,7 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
 
 - 說書人服裝確認
 - 說書人椅子訂購
-- 校長？
+- 校長聯繫
 
 #### 其他
 
