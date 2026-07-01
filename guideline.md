@@ -46,7 +46,7 @@
 
 ### 相關表單與檔案
 
-- [《星群》出席表單](https://docs.google.com/spreadsheets/d/1ZqVxk69gxManb5Qf4JO3Z04tJ1CI6iW7U7Wj4kAr6F8/edit?usp=sharing)
+- [《星群》出席點名表](https://docs.google.com/spreadsheets/d/1ZqVxk69gxManb5Qf4JO3Z04tJ1CI6iW7U7Wj4kAr6F8/edit?usp=sharing)
 - 演出及工作人員資料與團練調查：[https://forms.gle/XFu6gSpB52mKFhHr5](https://forms.gle/XFu6gSpB52mKFhHr5)
 - [《星群》人員資料與團練調查：回覆結果](https://docs.google.com/spreadsheets/d/1Uv-LNNq__V5M1YWl10En8RiOG1vhJyWzkaHw94YCH48/edit?resourcekey=&gid=1104497967#gid=1104497967)
 - [投保家長同意書](https://drive.google.com/file/d/16PfSGRhGYH9BWG1IcDWJirXhHHNlHktl/view?usp=sharing)
