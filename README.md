@@ -19,7 +19,8 @@
 
 請假方法：事先填寫出席表單請假。若臨時請假，請通知分部長，並說明原因請假。
 - ✏️[基本資料與團練出席調查表單](https://forms.gle/XFu6gSpB52mKFhHr5)
-- [《星群》出席表單](https://docs.google.com/spreadsheets/d/1ZqVxk69gxManb5Qf4JO3Z04tJ1CI6iW7U7Wj4kAr6F8/edit?usp=sharing)
+- [《星群》人事資料總表](https://docs.google.com/spreadsheets/d/1qtmEVaePaVPPVScvtmeRbesSBFAVDRuCU7Pi3GTUHr4)
+- [《星群》出席點名表](https://docs.google.com/spreadsheets/d/1ZqVxk69gxManb5Qf4JO3Z04tJ1CI6iW7U7Wj4kAr6F8)
 
 <br/>
 
