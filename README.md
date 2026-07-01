@@ -1,8 +1,3 @@
----
-title: test
-date: 2026-07-01
----
-
 ## 📍團練出席
 ![](pic/timetable.jpg)
        
