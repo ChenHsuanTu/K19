@@ -548,7 +548,7 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
   </tbody>
 </table>
 
-#### 個⼈贊助方案
+#### 個人贊助方案
 
 贊助達 2,000 元，即享以下回饋：
 - 電子節目冊列名感謝
