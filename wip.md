@@ -29,8 +29,8 @@
 
 ### 表單與回覆
 
-|編號|表單名稱|填寫連結|表單編輯|回覆表|問卷編輯|檢視權限|編輯權限|
-|--|--|--|:--:|:--:|--|--|--|
+|編號|表單名稱|問卷填寫連結|表單編輯|回覆表|問卷編輯|檢視權限|編輯權限|
+|:--:|--|--|:--:|:--:|:--:|:--:|:--:|
 |F01|參與意願調查|[https://forms.gle/mGhX678bWQsAyUMW9](https://forms.gle/mGhX678bWQsAyUMW9)|[✏️](https://docs.google.com/forms/d/1iFbcxll7_67Ymcq1zYP1sMyYA2BEJ3lSd_UamlgiD0A/edit)|[📄](https://docs.google.com/spreadsheets/d/1dFJ_M3eat-5QGJzTTgddtNwCkPXwnEF2yeBqd5hIU2Q)|人事統籌|全|人事|
 |F02|基本資料|[https://forms.gle/XFu6gSpB52mKFhHr5](https://forms.gle/XFu6gSpB52mKFhHr5)|[✏️](https://docs.google.com/forms/d/1XpAAzgvFFbyINakuWumSQ0QFfUGYEaBGLH2OxdMO65s/edit)|[📄](https://docs.google.com/spreadsheets/d/1Uv-LNNq__V5M1YWl10En8RiOG1vhJyWzkaHw94YCH48)|人事統籌|-|人事|
 |F03|團員票繳費||[✏️]()|[📄]()|||
@@ -39,8 +39,8 @@
 ### 資料總表
 
 |編號|資料表名稱與連結|檢視權限|編輯權限|
-|--|--|:--:|:--:|
-|T11|[人事資料總表](https://docs.google.com/spreadsheets/d/1qtmEVaePaVPPVScvtmeRbesSBFAVDRuCU7Pi3GTUHr4)|全|財務、總務|
+|:--:|--|:--:|:--:|
+|T11|[人事資料總表](https://docs.google.com/spreadsheets/d/1qtmEVaePaVPPVScvtmeRbesSBFAVDRuCU7Pi3GTUHr4)<br/>包含[校友團費繳交名單](https://docs.google.com/spreadsheets/d/1qtmEVaePaVPPVScvtmeRbesSBFAVDRuCU7Pi3GTUHr4)、工作證資訊等|全|財務、總務|
 |T12|[出席點名表](https://docs.google.com/spreadsheets/d/1ZqVxk69gxManb5Qf4JO3Z04tJ1CI6iW7U7Wj4kAr6F8)|全|人事點名|
 |T13|[保險資料](https://docs.google.com/spreadsheets/d/1jks-fXK49GLar90umuvZbhzwTExSF9yfXIaxvXN_hSE)|-|人事統籌|
 
