@@ -26,17 +26,18 @@
 <hr/>
 
 ## 📍表單總覽
-|[✏️]()|[📄]()|||
+
 ### 表單與回覆
 
 |編號|表單名稱|填寫連結|表單編輯|回覆表|檢視權限|編輯權限|
 |--|--|--|:--:|:--:|--|--|
 |F01|參與意願調查|[https://forms.gle/mGhX678bWQsAyUMW9](https://forms.gle/mGhX678bWQsAyUMW9)|[✏️](https://docs.google.com/forms/d/1iFbcxll7_67Ymcq1zYP1sMyYA2BEJ3lSd_UamlgiD0A/edit)|[📄](https://docs.google.com/spreadsheets/d/1dFJ_M3eat-5QGJzTTgddtNwCkPXwnEF2yeBqd5hIU2Q)|||
-|F02|基本資料|[https://forms.gle/XFu6gSpB52mKFhHr5](https://forms.gle/XFu6gSpB52mKFhHr5)|[✏️](https://docs.google.com/forms/d/1XpAAzgvFFbyINakuWumSQ0QFfUGYEaBGLH2OxdMO65s/edit)|[📄](https://docs.google.com/spreadsheets/d/1Uv-LNNq__V5M1YWl10En8RiOG1vhJyWzkaHw94YCH481104497967)|||
+|F02|基本資料|[https://forms.gle/XFu6gSpB52mKFhHr5](https://forms.gle/XFu6gSpB52mKFhHr5)|[✏️](https://docs.google.com/forms/d/1XpAAzgvFFbyINakuWumSQ0QFfUGYEaBGLH2OxdMO65s/edit)|[📄](https://docs.google.com/spreadsheets/d/1Uv-LNNq__V5M1YWl10En8RiOG1vhJyWzkaHw94YCH48)|||
 |F03|團員票繳費||[✏️]()|[📄]()|||
 |F04|寄票表單|[https://forms.gle/QGhoywd9ZWDANNr19](https://forms.gle/QGhoywd9ZWDANNr19)|[✏️](https://docs.google.com/forms/d/1vAob_vghozOt6XDJ3i1Opp0aAr2EcrX7WxXbUEWIoe0/edit)|[📄](https://docs.google.com/spreadsheets/d/137ed67QpIim21Aj605hPjLrnxJN61gt1qjtLRFWUC0c)|||
 
 ### 資料總表
+
 |編號|資料表名稱與連結|檢視權限|編輯權限|
 |--|--|:--:|:--:|
 |T11|[人事資料總表](https://docs.google.com/spreadsheets/d/1qtmEVaePaVPPVScvtmeRbesSBFAVDRuCU7Pi3GTUHr4)|||
@@ -297,7 +298,7 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
 - 音樂會公開資訊：[https://bit.ly/ksawo19](https://bit.ly/ksawo19)       
 
 #### 幹部內部資訊
-- [《星群》人員資料與團練調查：回覆結果](https://docs.google.com/spreadsheets/d/1Uv-LNNq__V5M1YWl10En8RiOG1vhJyWzkaHw94YCH48/edit?resourcekey=&gid=1104497967#gid=1104497967)（限制權限，僅人事可以檢視、編輯）
+- [《星群》人員資料與團練調查：回覆結果](https://docs.google.com/spreadsheets/d/1Uv-LNNq__V5M1YWl10En8RiOG1vhJyWzkaHw94YCH48)（限制權限，僅人事可以檢視、編輯）
 - [《星群》保險資訊](https://docs.google.com/spreadsheets/d/1jks-fXK49GLar90umuvZbhzwTExSF9yfXIaxvXN_hSE)（限制權限，僅人事可以檢視、編輯）
 - [《星群》人員資料與團練調查：表單編輯](https://docs.google.com/forms/d/1XpAAzgvFFbyINakuWumSQ0QFfUGYEaBGLH2OxdMO65s/edit)
 - [參與意願調查結果](https://docs.google.com/spreadsheets/d/1dFJ_M3eat-5QGJzTTgddtNwCkPXwnEF2yeBqd5hIU2Q/edit?gid=836008564#gid=836008564)
