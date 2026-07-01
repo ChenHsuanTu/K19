@@ -40,7 +40,7 @@
 
 |編號|資料表名稱與連結|檢視權限|編輯權限|
 |:--:|--|:--:|:--:|
-|T11|[人事資料總表](https://docs.google.com/spreadsheets/d/1qtmEVaePaVPPVScvtmeRbesSBFAVDRuCU7Pi3GTUHr4)<br/>包含[校友團費繳交名單](https://docs.google.com/spreadsheets/d/1qtmEVaePaVPPVScvtmeRbesSBFAVDRuCU7Pi3GTUHr4)、前後台工作證等|全|財務、總務|
+|T11|[人事資料總表](https://docs.google.com/spreadsheets/d/1qtmEVaePaVPPVScvtmeRbesSBFAVDRuCU7Pi3GTUHr4)<br/>包含[校友團費繳交名單](https://docs.google.com/spreadsheets/d/1qtmEVaePaVPPVScvtmeRbesSBFAVDRuCU7Pi3GTUHr4)、前後台工作證等|全|人事、財務、總務<br/>團費僅財務、總務可編輯|
 |T12|[出席點名表](https://docs.google.com/spreadsheets/d/1ZqVxk69gxManb5Qf4JO3Z04tJ1CI6iW7U7Wj4kAr6F8)|全|人事點名|
 |T13|[保險資料](https://docs.google.com/spreadsheets/d/1jks-fXK49GLar90umuvZbhzwTExSF9yfXIaxvXN_hSE)|-|人事|
 
