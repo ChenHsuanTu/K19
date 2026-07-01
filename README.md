@@ -1,4 +1,5 @@
-高雄中學校友管樂團暨高雄中學管樂團　第十九次聯合音樂會
+<img src="design_file/2026雄中幻影奇談_inv_card01_100x210.jpg" width="60%">  
+
 ## 📍團練出席
 ![](pic/timetable.jpg)
        
@@ -128,5 +129,3 @@
   - 🪀 童玩換場
 - 🐉 **童玩** - 詹采軒
 - 🐉 **How to Train Your Dragon** - John Powell (arr. Bertrand Moren)
-
-![](design_file/2026雄中幻影奇談_inv_card01_100x210.jpg)
