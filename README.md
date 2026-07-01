@@ -1,5 +1,3 @@
-![](design_file/2026雄中幻影奇談_inv_card01_100x210.jpg)
-
 ## 📍團練出席
 ![](pic/timetable.jpg)
        
@@ -129,3 +127,5 @@
   - 🪀 童玩換場
 - 🐉 **童玩** - 詹采軒
 - 🐉 **How to Train Your Dragon** - John Powell (arr. Bertrand Moren)
+
+![](design_file/2026雄中幻影奇談_inv_card01_100x210.jpg)
