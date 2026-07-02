@@ -257,7 +257,7 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
 
 1. 請團員查閱 [OPENTIX 可售座位](https://www.opentix.life/event/2053691239618875392)選擇座位。
 1. 進入[後台自行調票與取票流程](#後台自行調票與取票流程)，以每位團員為一個訂單，訂購票券（刷出金額設定 0 元）。
-1. 進入[電子表單]，填寫訂單編號。告知約等兩個工作天後會拿到票券。
+1. 進入[電子表單](https://docs.google.com/spreadsheets/d/1xtQz9T_avZxnjWPBW5okXkPGpNSywtslsCDRWkDCYy4)，填寫訂單編號。告知約等兩個工作天後會拿到票券。
 1. 當天或當時段結束後（假日期間可等週日晚上統一處理），寄信給 OPENTIX 窗口印票。
 1. 收到 OPENTIX 窗口回覆印製完成後，至聯絡處取票並發放給團員。
 
