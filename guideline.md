@@ -84,8 +84,11 @@
 
 ### 團員費用
 
+[校友團費繳交清單](https://docs.google.com/spreadsheets/d/1qtmEVaePaVPPVScvtmeRbesSBFAVDRuCU7Pi3GTUHr4/edit?gid=319775402#gid=319775402)
+
 - 團費 500 元：領團員票 2 張
-- 活動費 1000 元（演出人員必須要繳交）
+- 活動費 1,000 元（演出人員必須要繳交）
+- 入團費 200 元： 若過去未交入團費則需要繳交（詳見名單）
 
 <br/>
 
