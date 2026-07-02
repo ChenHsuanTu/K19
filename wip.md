@@ -33,7 +33,7 @@
 |:--:|--|--|:--:|:--:|:--:|:--:|:--:|
 |F01|參與意願調查|[https://forms.gle/mGhX678bWQsAyUMW9](https://forms.gle/mGhX678bWQsAyUMW9)|[✏️](https://docs.google.com/forms/d/1iFbcxll7_67Ymcq1zYP1sMyYA2BEJ3lSd_UamlgiD0A/edit)|[📄](https://docs.google.com/spreadsheets/d/1dFJ_M3eat-5QGJzTTgddtNwCkPXwnEF2yeBqd5hIU2Q)|人事|全|人事|
 |F02|基本資料|[https://forms.gle/XFu6gSpB52mKFhHr5](https://forms.gle/XFu6gSpB52mKFhHr5)|[✏️](https://docs.google.com/forms/d/1XpAAzgvFFbyINakuWumSQ0QFfUGYEaBGLH2OxdMO65s/edit)|[📄](https://docs.google.com/spreadsheets/d/1Uv-LNNq__V5M1YWl10En8RiOG1vhJyWzkaHw94YCH48)|人事|人事|人事|
-|F03|團員半價優惠||[✏️]()|[📄]()|||
+|F03|團員半價優惠|https://forms.gle/m9iyGwYWh59gjexY9|[✏️](https://docs.google.com/forms/d/1oSEzVB80XSCSNDHPd-eYN6uFckK6WGlHmqUO3dQctdk/edit)|[📄](https://docs.google.com/spreadsheets/d/1xtQz9T_avZxnjWPBW5okXkPGpNSywtslsCDRWkDCYy4)|總務、票務|總務、票務|
 |F04|寄票表單|[https://forms.gle/QGhoywd9ZWDANNr19](https://forms.gle/QGhoywd9ZWDANNr19)|[✏️](https://docs.google.com/forms/d/1vAob_vghozOt6XDJ3i1Opp0aAr2EcrX7WxXbUEWIoe0/edit)|[📄](https://docs.google.com/spreadsheets/d/137ed67QpIim21Aj605hPjLrnxJN61gt1qjtLRFWUC0c)|票務|全|票務|
 
 ### 資料總表
@@ -325,7 +325,7 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
 - 活動費 1000 元（演出人員必須要繳交）
 - 入團費 200 元（首次入團須額外繳納）
 - OPENTIX 輸入團員折扣碼 ksawokswb 享 8 折
-- ⭐ <font color="red"><B>團員半價方案</B></font>：加價 1000 元，可領原價 500 元票 4 張，即等同半價優惠。
+- ⭐ <font color="red"><B>團員半價優惠方案</B></font>：加價 1000 元，可領原價 500 元票 4 張，即等同半價優惠。
    - 每位團員僅限 1 次
    - 限定由票務刷票，一次需購買 4 張，不得分次。
    - 可改成領取 800 元票 2 張，或 300 元票 6 張。      
