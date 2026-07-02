@@ -79,8 +79,9 @@
 
 ### 工作項目
 
-1. 收團費與活動費：需開收據與繳費證明
+1. 收團費與活動費：登記並開立收據
 2. 團員半價優惠方案繳費
+3. 補開線上繳費團員之收據
 
 ### 團員費用
 
@@ -99,7 +100,7 @@
 1. 票券管理（刷票、取票）：寄信到 OPENTIX 窗口後，到衛武營領票，並協助保管與發放。
     1. 團員票：繳納團費可以領取團員票 2 張。
     1. 貴賓票：與音樂會公關協作，登記貴賓與座位。
-    1. 團員半價優惠方案領票
+    1. 團員半價優惠方案領票。
 1. 寄票處理：暫訂 7/25 後，開放寄票。
 
 ### 自行購票優惠
@@ -221,19 +222,44 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
 ### 團費領票
 **繳交團費後可領團員票 2 張**
 
-#### 💰
-團費繳交
+#### 💰團費繳交：現場繳交
 
+[校友團費繳交](https://docs.google.com/spreadsheets/d/1qtmEVaePaVPPVScvtmeRbesSBFAVDRuCU7Pi3GTUHr4/edit?gid=319775402#gid=319775402)
+- 可查閱需繳金額（如團員對於金額有問題，可以回報校友團幹部）
+- 團員繳交後，請在團員當面確認
+  1. 電子表單打勾確認
+  1. 開立紙本收據（一位團員一張）
 
+#### 🎫團員票領票
 
-#### 🎫
+[團員票領票紀錄](https://docs.google.com/spreadsheets/d/1qtmEVaePaVPPVScvtmeRbesSBFAVDRuCU7Pi3GTUHr4/edit?gid=371994255#gid=371994255)：可查閱是否有領票資格（已繳團費）         
+[團員票圖](https://docs.google.com/spreadsheets/d/1qtmEVaePaVPPVScvtmeRbesSBFAVDRuCU7Pi3GTUHr4/edit?gid=1696288439#gid=1696288439)：可查閱尚可領取團員票的座位      
 
+1. 進入`團員票領票紀錄`，確認團員已有領票資格
+1. 請團員或票務依照`團員票圖`選擇座位
+1. 提供紙本票給團員後，將`團員票圖`中該區座位取消填滿（底色改白色）
+1. 進入`團員票領票紀錄`，勾選第一欄「已領取團員票」
+
+<br/>
 
 ### 團員半價優惠方案
 **團員加價 1,000 元，可領取 500×4 或 800×2 或 300×6 的票券**
 
+團員首先需要填寫[團員半價優惠表單](https://forms.gle/m9iyGwYWh59gjexY9)。         
+回覆結果：[電子表單](https://docs.google.com/spreadsheets/d/1xtQz9T_avZxnjWPBW5okXkPGpNSywtslsCDRWkDCYy4)。    
 
+#### 💰費用繳交
+1. 僅限現場付費。收取 1,000 元。
+1. [電子表單](https://docs.google.com/spreadsheets/d/1xtQz9T_avZxnjWPBW5okXkPGpNSywtslsCDRWkDCYy4)打勾確認。
+1. 開立紙本收據（一位團員一張）
 
+#### 🎫訂票與領票
+
+1. 請團員查閱 [OPENTIX 可售座位](https://www.opentix.life/event/2053691239618875392)選擇座位。
+1. 進入[後台自行調票與取票流程](#後台自行調票與取票流程)，以每位團員為一個訂單，訂購票券（刷出金額設定 0 元）。
+1. 進入[電子表單]，填寫訂單編號。告知約等兩個工作天後會拿到票券。
+1. 當天或當時段結束後（假日期間可等週日晚上統一處理），寄信給 OPENTIX 窗口印票。
+1. 收到 OPENTIX 窗口回覆印製完成後，至聯絡處取票並發放給團員。
 
 <hr/>
 
