@@ -339,8 +339,6 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
 
 統籌人：子謙
 
-<br/>
-
 ### 🔸音樂會票務
 
 統籌人：品融
@@ -358,16 +356,12 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
 - [寄票表單後台](https://docs.google.com/spreadsheets/d/137ed67QpIim21Aj605hPjLrnxJN61gt1qjtLRFWUC0c/edit?usp=sharing)
 - [寄票表單編輯](https://docs.google.com/forms/d/1vAob_vghozOt6XDJ3i1Opp0aAr2EcrX7WxXbUEWIoe0/edit)
 
-<br/>
-
 ### 🔸團練點名
 
 🐉 龍團：冠程            
 🌟 星團：侑宸         
 
 [出席點名表](https://docs.google.com/spreadsheets/d/1ZqVxk69gxManb5Qf4JO3Z04tJ1CI6iW7U7Wj4kAr6F8)
-
-<br/>
 
 ### 🔸庶務值班
 
@@ -775,4 +769,4 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
 
 #### 其他
 
-- [首頁](https://chenhsuantu.github.io/K19/)製作
+- 團員資訊首頁製作
