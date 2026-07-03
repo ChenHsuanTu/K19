@@ -27,3 +27,20 @@
 🔦 團費與票務紀錄的名單，避免工作表順序調整導致記錄錯誤，因此這兩張的名單直接複製，非用自動關聯。                       
 🔦 因此人員新增也需要手動加上於 T12 [校友團費繳交](https://docs.google.com/spreadsheets/d/1qtmEVaePaVPPVScvtmeRbesSBFAVDRuCU7Pi3GTUHr4/edit?gid=319775402#gid=319775402)、T13 [團員票領票紀錄](https://docs.google.com/spreadsheets/d/1qtmEVaePaVPPVScvtmeRbesSBFAVDRuCU7Pi3GTUHr4/edit?gid=371994255#gid=371994255)。                
 🔦 前台工作證名單 (T16) 亦手動加入。                  
+
+```
+                      T18
+                       │
+                       ▼
+F20 ─────► T11 ─────► T12 ──────────► T13   人員總表、團費、團員票
+ │          │
+ │          │
+ │          ├───────► T15、T16              衛武營工作證
+ │          │
+ │          ▼
+ │         T23 ─────► T21、T22 ─────► T24   出席點名統計
+ │
+ │
+ └───────► T17、T32                         保險相關
+
+```
