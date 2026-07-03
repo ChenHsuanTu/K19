@@ -27,22 +27,24 @@
 
 ## 📍表單總覽
 
+[資料表關聯](table.md)
+
 ### 表單與回覆
 
 |編號|表單名稱|問卷填寫連結|表單編輯|回覆表|問卷編輯|檢視權限|編輯權限|
 |:--:|--|--|:--:|:--:|:--:|:--:|:--:|
-|F01|參與意願調查|[https://forms.gle/mGhX678bWQsAyUMW9](https://forms.gle/mGhX678bWQsAyUMW9)|[✏️](https://docs.google.com/forms/d/1iFbcxll7_67Ymcq1zYP1sMyYA2BEJ3lSd_UamlgiD0A/edit)|[📄](https://docs.google.com/spreadsheets/d/1dFJ_M3eat-5QGJzTTgddtNwCkPXwnEF2yeBqd5hIU2Q)|人事|全|人事|
-|F02|基本資料|[https://forms.gle/XFu6gSpB52mKFhHr5](https://forms.gle/XFu6gSpB52mKFhHr5)|[✏️](https://docs.google.com/forms/d/1XpAAzgvFFbyINakuWumSQ0QFfUGYEaBGLH2OxdMO65s/edit)|[📄](https://docs.google.com/spreadsheets/d/1Uv-LNNq__V5M1YWl10En8RiOG1vhJyWzkaHw94YCH48)|人事|人事|人事|
-|F03|團員半價優惠|[https://forms.gle/m9iyGwYWh59gjexY9](https://forms.gle/m9iyGwYWh59gjexY9)|[✏️](https://docs.google.com/forms/d/1oSEzVB80XSCSNDHPd-eYN6uFckK6WGlHmqUO3dQctdk/edit)|[📄](https://docs.google.com/spreadsheets/d/1xtQz9T_avZxnjWPBW5okXkPGpNSywtslsCDRWkDCYy4)|總務票務|全|總務票務|
-|F04|寄票表單|[https://forms.gle/QGhoywd9ZWDANNr19](https://forms.gle/QGhoywd9ZWDANNr19)|[✏️](https://docs.google.com/forms/d/1vAob_vghozOt6XDJ3i1Opp0aAr2EcrX7WxXbUEWIoe0/edit)|[📄](https://docs.google.com/spreadsheets/d/137ed67QpIim21Aj605hPjLrnxJN61gt1qjtLRFWUC0c)|票務|全|票務|
+|F1|參與意願調查|[https://forms.gle/mGhX678bWQsAyUMW9](https://forms.gle/mGhX678bWQsAyUMW9)|[✏️](https://docs.google.com/forms/d/1iFbcxll7_67Ymcq1zYP1sMyYA2BEJ3lSd_UamlgiD0A/edit)|[📄](https://docs.google.com/spreadsheets/d/1dFJ_M3eat-5QGJzTTgddtNwCkPXwnEF2yeBqd5hIU2Q)|人事|全|人事|
+|F2|基本資料|[https://forms.gle/XFu6gSpB52mKFhHr5](https://forms.gle/XFu6gSpB52mKFhHr5)|[✏️](https://docs.google.com/forms/d/1XpAAzgvFFbyINakuWumSQ0QFfUGYEaBGLH2OxdMO65s/edit)|[📄](https://docs.google.com/spreadsheets/d/1Uv-LNNq__V5M1YWl10En8RiOG1vhJyWzkaHw94YCH48)|人事|人事|人事|
+|F3|團員半價優惠|[https://forms.gle/m9iyGwYWh59gjexY9](https://forms.gle/m9iyGwYWh59gjexY9)|[✏️](https://docs.google.com/forms/d/1oSEzVB80XSCSNDHPd-eYN6uFckK6WGlHmqUO3dQctdk/edit)|[📄](https://docs.google.com/spreadsheets/d/1xtQz9T_avZxnjWPBW5okXkPGpNSywtslsCDRWkDCYy4)|總務票務|全|總務票務|
+|F4|寄票表單|[https://forms.gle/QGhoywd9ZWDANNr19](https://forms.gle/QGhoywd9ZWDANNr19)|[✏️](https://docs.google.com/forms/d/1vAob_vghozOt6XDJ3i1Opp0aAr2EcrX7WxXbUEWIoe0/edit)|[📄](https://docs.google.com/spreadsheets/d/137ed67QpIim21Aj605hPjLrnxJN61gt1qjtLRFWUC0c)|票務|全|票務|
 
 ### 資料總表
 
 |編號|資料表名稱與連結|檢視權限|編輯權限|
 |:--:|--|:--:|:--:|
-|T11|[人事資料總表](https://docs.google.com/spreadsheets/d/1qtmEVaePaVPPVScvtmeRbesSBFAVDRuCU7Pi3GTUHr4)<br/>包含[校友團費繳交名單](https://docs.google.com/spreadsheets/d/1qtmEVaePaVPPVScvtmeRbesSBFAVDRuCU7Pi3GTUHr4)、[團員票領票紀錄](https://docs.google.com/spreadsheets/d/1qtmEVaePaVPPVScvtmeRbesSBFAVDRuCU7Pi3GTUHr4/edit?gid=371994255#gid=371994255)等|全|人事、財務、總務、票務<br/>（團費、領票等僅相關人可編輯）|
-|T12|[出席點名表](https://docs.google.com/spreadsheets/d/1ZqVxk69gxManb5Qf4JO3Z04tJ1CI6iW7U7Wj4kAr6F8)|全|人事、團練點名|
-|T13|[保險資料](https://docs.google.com/spreadsheets/d/1jks-fXK49GLar90umuvZbhzwTExSF9yfXIaxvXN_hSE)|人事|人事|
+|T1|[人事資料總表](https://docs.google.com/spreadsheets/d/1qtmEVaePaVPPVScvtmeRbesSBFAVDRuCU7Pi3GTUHr4)<br/>包含[校友團費繳交名單](https://docs.google.com/spreadsheets/d/1qtmEVaePaVPPVScvtmeRbesSBFAVDRuCU7Pi3GTUHr4)、[團員票領票紀錄](https://docs.google.com/spreadsheets/d/1qtmEVaePaVPPVScvtmeRbesSBFAVDRuCU7Pi3GTUHr4/edit?gid=371994255#gid=371994255)等|全|人事、財務、總務、票務<br/>（團費、領票等僅相關人可編輯）|
+|T2|[出席點名表](https://docs.google.com/spreadsheets/d/1ZqVxk69gxManb5Qf4JO3Z04tJ1CI6iW7U7Wj4kAr6F8)|全|人事、團練點名|
+|T3|[保險資料](https://docs.google.com/spreadsheets/d/1jks-fXK49GLar90umuvZbhzwTExSF9yfXIaxvXN_hSE)|人事|人事|
 
 
 <hr/>
