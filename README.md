@@ -87,7 +87,8 @@
 - [寄票表單後台](https://docs.google.com/spreadsheets/d/137ed67QpIim21Aj605hPjLrnxJN61gt1qjtLRFWUC0c/edit?usp=sharing)
 - 寄票處開放時間地點：
     - 7/25 - 26 下午、晚上 ＠ 雄中英文科小劇場
-    - 7/27 - 28 下午、晚上 ＠ 衛武營合唱排練室
+    - 7/27 下午、晚上 ＠ 衛武營 B304 合唱排練室
+    - 7/28 下午、晚上 ＠ 衛武營 B313 樂團排練室
     - 7/29 11:00-13:00 ＠ 衛武營後台休息準備室
 
 <br/>
