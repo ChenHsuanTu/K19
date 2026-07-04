@@ -568,7 +568,7 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
 <br/><br/>
 
 ## 📍節目冊相關
-- ✅ <font color="red">雄管 GitHub 帳號申請</font> 2026/7/4
+- ✅ 雄管 GitHub 帳號申請 2026/7/4
 - ⏳ <font color="red">網頁設計製作初稿</font> 2026/7/12
 
      
