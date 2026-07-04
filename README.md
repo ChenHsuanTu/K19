@@ -12,7 +12,7 @@
     - [團員半價優惠介紹](#團員購票優惠資訊)
     - ✏️ 填寫[寄票表單](https://forms.gle/QGhoywd9ZWDANNr19)
 - [曲目順序](#曲目順序)
-    - [示範音檔清單](https://youtube.com/playlist?list=PLTwGp7yPzLtsztraYg2UaE-7z50kd9v-f&si=QilE1V3tQiAhY9mz)
+    - [YouTube 示範音檔清單](https://youtube.com/playlist?list=PLTwGp7yPzLtsztraYg2UaE-7z50kd9v-f&si=QilE1V3tQiAhY9mz)
     - [說書人文本](#-說書人文本)
 
 ## 📍團練出席
