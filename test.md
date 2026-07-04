@@ -9,7 +9,7 @@
 - [團費與團員票規則](#團費與票務) 
     - [ℹ️ 我該繳多少費用？](https://docs.google.com/spreadsheets/d/1qtmEVaePaVPPVScvtmeRbesSBFAVDRuCU7Pi3GTUHr4/edit?gid=319775402#gid=319775402)
     - [團員票圖](https://docs.google.com/spreadsheets/d/1qtmEVaePaVPPVScvtmeRbesSBFAVDRuCU7Pi3GTUHr4/edit?gid=1696288439#gid=1696288439)
-    - [線上購票](https://www.opentix.life/event/2053691239618875392)：團員 8 折折扣碼`ksawokswb`
+    - [線上購票](https://www.opentix.life/event/2053691239618875392)輸入 `ksawokswb` 團員 8 折
     - [團員半價優惠介紹](#團員半價優惠方案)
     - ✏️ 填寫[寄票表單](https://forms.gle/QGhoywd9ZWDANNr19)
 - [曲目順序](#曲目順序)
@@ -33,7 +33,7 @@
          
 ### 演出人員分團與分部長名單
 
-[演出人員與分部長名單](member/index.html)
+- [演出人員與分部長名單](member/index.html)
 
 ### 基本資料與出席表單
 
@@ -78,14 +78,14 @@
 繳費確認後，團練期間找**音樂會票務曾品融**現場取票。<br/>
 現場領取時，可先[查閱團員票圖](https://docs.google.com/spreadsheets/d/1qtmEVaePaVPPVScvtmeRbesSBFAVDRuCU7Pi3GTUHr4/edit?gid=1696288439#gid=1696288439)，選擇領票座位。
 
-### 🔸團員購票優惠
+### 🔸團員購票優惠資訊
 
 #### 團員折扣碼
 - [👉 OPENTIX 節目購票](https://www.opentix.life/event/2053691239618875392)
 - 輸入團員折扣碼 **ksawokswb** 享 8 折優惠
 
 #### **團員半價優惠方案**⭐    
-**加價 1000 元**，可領原價 500 元票 4 張，即等同半價優惠。    
+**加價 1000 元**，可領原價 500 元票 4 張，即等同**半價優惠**。    
 - 每位團員僅限 1 次。
 - 限由票務刷票，一次需購買 4 張，**不得分次**。
 - 可改成領取 800 元票 2 張，或 300 元票 6 張。 
@@ -158,7 +158,7 @@
   - 🎺 小號、長號在二樓合唱席吹奏
 - 🐉 **Alex and the Phantom Band**
   - 📖 說書人：李佳勳
-- 🚨 樂團換場 ──────────────────
+- 🚨 樂團換場 ──────────────
   - 📖 說書人：李佳勳
 - 🌟**Gulliver’s Travels** - Bert Appermont
   - 📖 說書人：李佳勳
@@ -171,7 +171,7 @@
 - 🌟**Sandpaper Ballet**
   - 🥁 打擊在舞台前方演奏砂紙
 - 🌟**Selections from Disney’s Moana**
-- 🚨 樂團換場 ──────────────────
+- 🚨 樂團換場 ──────────────
   - 🪀 童玩換場
 - 🐉 **童玩**
 - 🐉 **How to Train Your Dragon**
