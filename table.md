@@ -22,6 +22,8 @@
 |||T24|出席總計|T23|T21, T22|
 |T3|[保險資料](https://docs.google.com/spreadsheets/d/1jks-fXK49GLar90umuvZbhzwTExSF9yfXIaxvXN_hSE)|T31|名單填寫確認|T11|-|
 |||T32|保險資訊|F20||
+|T4|[貴賓邀請與貴賓票統計](https://docs.google.com/spreadsheets/d/16y9Wl7oZnGcUIm4vtNtMpJh4LUfqN-9KitIu6xuLhgo)|T41|貴賓／贊助名單|-|-|
+|||T42|貴賓票|-|-|
 
 💡 演出或工作人員新增，必須首先將資訊加入於 T11 [人員總名單](https://docs.google.com/spreadsheets/d/1qtmEVaePaVPPVScvtmeRbesSBFAVDRuCU7Pi3GTUHr4)。        
 🔦 團費與票務紀錄的名單，避免工作表順序調整導致記錄錯誤，因此這兩張的名單直接複製，非用自動關聯。                       
