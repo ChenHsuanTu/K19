@@ -31,7 +31,7 @@
 
 ### 表單與回覆
 
-|編號|表單名稱|問卷填寫連結|表單編輯|回覆表|問卷編輯|檢視權限|編輯權限|
+|編號|表單名稱|問卷填寫連結|表單編輯|回覆|問卷編輯|檢視權限|編輯權限|
 |:--:|--|--|:--:|:--:|:--:|:--:|:--:|
 |F1|參與意願調查|[https://forms.gle/mGhX678bWQsAyUMW9](https://forms.gle/mGhX678bWQsAyUMW9)|[✏️](https://docs.google.com/forms/d/1iFbcxll7_67Ymcq1zYP1sMyYA2BEJ3lSd_UamlgiD0A/edit)|[📄](https://docs.google.com/spreadsheets/d/1dFJ_M3eat-5QGJzTTgddtNwCkPXwnEF2yeBqd5hIU2Q)|人事|全|人事|
 |F2|基本資料|[https://forms.gle/XFu6gSpB52mKFhHr5](https://forms.gle/XFu6gSpB52mKFhHr5)|[✏️](https://docs.google.com/forms/d/1XpAAzgvFFbyINakuWumSQ0QFfUGYEaBGLH2OxdMO65s/edit)|[📄](https://docs.google.com/spreadsheets/d/1Uv-LNNq__V5M1YWl10En8RiOG1vhJyWzkaHw94YCH48)|人事|人事|人事|
