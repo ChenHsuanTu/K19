@@ -436,14 +436,14 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
 
 - 贊助名單確認
   - 來源：主動寄信邀請、被動收到通知處理
-  - 列名名單
+  - 列出名單：[貴賓邀請與貴賓票統計](https://docs.google.com/spreadsheets/d/16y9Wl7oZnGcUIm4vtNtMpJh4LUfqN-9KitIu6xuLhgo)
   - **感謝狀製作**
 - 貴賓邀請
   - 貴賓名單整理
     - 雄中校內主任、訓育組
     - 家長會
     - 校友會
-    - 雄中校內老師*
+    - 雄中校內老師\*→追蹤校內狀況
 - **貴賓票**
   - 與票務聯繫
   - **記錄貴賓贊助與座位**
