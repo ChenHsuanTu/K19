@@ -19,6 +19,7 @@
 - [節目冊相關](#節目冊相關)
 - [節目製作相關](#節目製作相關)
   - [說書人腳本](story/README.md)
+  - [曲目解說](program_notes/README.md)
   - [演出順序](#演出順序)
 - [舞監相關](#舞監相關)
 - [支出費用紀錄](#支出費用紀錄)
@@ -588,10 +589,23 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
 - ⏳ <font color="blue">說書人資訊確認</font> 2026/7/5
 
 ### 說書人腳本
+
 - [Alex and the Phantom Band](story/alex)
 - [Gulliver’s Travels](story/gulliver)
 - [流星群の物語～はかなくも壮大な宇宙へ～](story/star)
               
+### 曲目解說
+
+- [Fanfare for the Common Man](program_notes/fanfare.md)
+- [Alex and the Phantom Band](program_notes/alex.md)
+- [Gulliver’s Travels](program_notes/gulliver.md)
+- [掃除用具のファンタジ](program_notes/souji.md)
+- [流星群の物語～はかなくも壮大な宇宙へ～](program_notes/ryusei.md)
+- [Sandpaper Ballet](program_notes/sandpaper.md)
+- [Selections from Disney’s Moana](program_notes/moana.md)
+- [童玩](program_notes/toys.md)
+- [How to Train Your Dragon](program_notes/dragon.md)
+
 ### 說書人資訊聯繫
 
 - 基本資訊詢問
