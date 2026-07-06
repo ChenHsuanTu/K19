@@ -46,6 +46,7 @@
 |T2|[出席點名表](https://docs.google.com/spreadsheets/d/1ZqVxk69gxManb5Qf4JO3Z04tJ1CI6iW7U7Wj4kAr6F8)|全|人事、團練點名|
 |T3|[保險資料](https://docs.google.com/spreadsheets/d/1jks-fXK49GLar90umuvZbhzwTExSF9yfXIaxvXN_hSE)|人事|人事|
 |T4|[貴賓邀請與貴賓票統計](https://docs.google.com/spreadsheets/d/16y9Wl7oZnGcUIm4vtNtMpJh4LUfqN-9KitIu6xuLhgo)|公關、票務|公關、票務|
+|E1|[打擊分部與樂器清單](https://docs.google.com/spreadsheets/d/1OJ2pt2LxUeWfETGH21XR9GC0YODxquEfyaYIkvSo1NI/edit?gid=0#gid=0)|-|-|
 
 
 <hr/>
