@@ -292,7 +292,8 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
   - 🌟 星團：侑宸
 
 ### 團練相關資訊
-<img src="https://chenhsuantu.github.io/K19/pic/timetable.jpg" width="70%">   
+<img src="pic/timetable.jpg" width="70%">   
+<img src="pic/timetable2.jpg" width="70%">   
 
 #### 公告
 - 人員資料與團練調查：[https://forms.gle/XFu6gSpB52mKFhHr5](https://forms.gle/XFu6gSpB52mKFhHr5)
