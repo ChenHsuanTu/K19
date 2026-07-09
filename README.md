@@ -18,14 +18,14 @@
 ## 📍團練出席
 ![](pic/timetable.jpg)
 
-#### 分部課時間
+#### 🎶 分部課時間
 ![](pic/timetable2.jpg)
        
-**🕒 團練時間**    
+#### 🕒 團練時間    
 - 下午：14:00\~17:00、晚上：18:30\~21:30。
     - 如有不同時間會額外標示。
 
-**🏫 團練地點**      
+#### 🏫 團練地點      
 - 7/26 前：雄中綜合大樓四樓英文科小劇場
   - ℹ️ [如何前往雄中排練場地](location_info.md/#雄中排練場地)
 - 7/27 衛武營 B304 合唱排練室
@@ -126,6 +126,9 @@
 - [Alex and the Phantom Band](story/alex)
 - [Gulliver’s Travels](story/gulliver)
 - [流星群の物語～はかなくも壮大な宇宙へ～](story/star)
+
+#### 🎼 曲目解說
+- [曲目解說首頁](program_notes/README.md)
 
 #### 🎬 YouTube 示範影片
 - [樂曲影片清單](https://youtube.com/playlist?list=PLTwGp7yPzLtsztraYg2UaE-7z50kd9v-f&si=QilE1V3tQiAhY9mz)
