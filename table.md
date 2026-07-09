@@ -23,11 +23,17 @@
       <td>-</td>
     </tr>
     <tr>
-      <td>F2</td>
-      <td><a href="https://docs.google.com/spreadsheets/d/1Uv-LNNq__V5M1YWl10En8RiOG1vhJyWzkaHw94YCH48">人員資料與團練調查</a></td>
+      <td rowspan="2">F2</td>
+      <td rowspan="2"><a href="https://docs.google.com/spreadsheets/d/1Uv-LNNq__V5M1YWl10En8RiOG1vhJyWzkaHw94YCH48">人員資料與團練調查</a></td>
+      <td>F20a</td>
+      <td>原始表單回覆</td>
+      <td>-</td>
+      <td>-</td>
+    </tr>
+    <tr>
       <td><strong>F20</strong></td>
       <td><strong>表單回覆</strong></td>
-      <td>-</td>
+      <td>F20a</td>
       <td>-</td>
     </tr>
     <tr>
