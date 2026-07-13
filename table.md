@@ -107,13 +107,13 @@
       <td rowspan="4"><a href="https://docs.google.com/spreadsheets/d/1ZqVxk69gxManb5Qf4JO3Z04tJ1CI6iW7U7Wj4kAr6F8">出席點名表</a></td>
       <td>T21</td>
       <td>🌟星團出席表單</td>
-      <td>T23</td>
+      <td>🔦原生</td>
       <td>F20</td>
     </tr>
     <tr>
       <td>T22</td>
       <td>🐉龍團出席表單</td>
-      <td>T23</td>
+      <td>🔦原生</td>
       <td>F20</td>
     </tr>
     <tr>
@@ -160,8 +160,9 @@
 </table>
 
 💡 演出或工作人員新增，必須首先將資訊加入於 T11 [人員總名單](https://docs.google.com/spreadsheets/d/1qtmEVaePaVPPVScvtmeRbesSBFAVDRuCU7Pi3GTUHr4)。        
-🔦 團費與票務紀錄的名單，避免工作表順序調整導致記錄錯誤，因此這兩張的名單直接複製，非用自動關聯。                       
-🔦 因此人員新增也需要手動加上於 T12 [校友團費繳交](https://docs.google.com/spreadsheets/d/1qtmEVaePaVPPVScvtmeRbesSBFAVDRuCU7Pi3GTUHr4/edit?gid=319775402#gid=319775402)、T13 [團員票領票紀錄](https://docs.google.com/spreadsheets/d/1qtmEVaePaVPPVScvtmeRbesSBFAVDRuCU7Pi3GTUHr4/edit?gid=371994255#gid=371994255)。                
+🔦 團費與票務紀錄的名單，避免工作表順序調整導致記錄錯誤，因此這兩張的名單直接複製，非用自動關聯。    
+🔦 點名表單的團員名單也改成複製，非用自動關聯。                      
+🔦 因此人員新增也需要手動加上於 T12 [校友團費繳交](https://docs.google.com/spreadsheets/d/1qtmEVaePaVPPVScvtmeRbesSBFAVDRuCU7Pi3GTUHr4/edit?gid=319775402#gid=319775402)、T13 [團員票領票紀錄](https://docs.google.com/spreadsheets/d/1qtmEVaePaVPPVScvtmeRbesSBFAVDRuCU7Pi3GTUHr4/edit?gid=371994255#gid=371994255)，以及 T2 [出席點名表](https://docs.google.com/spreadsheets/d/1ZqVxk69gxManb5Qf4JO3Z04tJ1CI6iW7U7Wj4kAr6F8)。                
 🔦 前台工作證名單 (T16) 亦手動加入。                  
 
 ```
