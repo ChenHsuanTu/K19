@@ -323,6 +323,7 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
 - ✅ 寄票表單 2026/6/25 
 - ✅ 團費繳納方式 2026/7/2
 - ✅ 團員票領票方式 2026/7/2
+- ✅ 姓名條製作 2026/7/13
 - ✅ 庶務值班規劃 → 由校內安排
 
 ### 團員費用與團員票特殊優惠
@@ -366,7 +367,8 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
 🐉 龍團：冠程            
 🌟 星團：侑宸         
 
-[出席點名表](https://docs.google.com/spreadsheets/d/1ZqVxk69gxManb5Qf4JO3Z04tJ1CI6iW7U7Wj4kAr6F8)
+[出席點名表](https://docs.google.com/spreadsheets/d/1ZqVxk69gxManb5Qf4JO3Z04tJ1CI6iW7U7Wj4kAr6F8)                       
+[🎥 姓名條製作教學](https://youtu.be/7ggD1SxVfk0)
 
 ### 🔸庶務值班
 

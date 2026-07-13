@@ -8,11 +8,25 @@
 **高雄中學　綜合大樓四樓　英文科小劇場**      
 地址：高雄市三民區建國三路50號     
 
+🚨今年綜合大樓一樓電梯也需要磁扣感應，會有校內團員排值班同學協助～（大感謝！）        
+
+
 <img src="pic/loc/loc_ks1.jpg" width="60%">     
 <img src="pic/loc/loc_ks2.jpg" width="60%">     
 <img src="pic/loc/loc_ks3.jpg" width="60%">     
 <img src="pic/loc/loc_ks4.jpg" width="60%">     
 <img src="pic/loc/loc_ks5.jpg" width="60%">     
+<br/>
+<br/>
+
+#### 其他雄中排練場地
+
+1. 社辦：實驗館地下一樓
+2. 教室：綜合大樓四樓英文科教室
+
+<img src="pic/loc/loc_ks.jpg" width="60%">     
+
+
 
 <br/><br/>
 
