@@ -6,6 +6,7 @@ Composer: David Maslanka
 ## 參考資料
 - [🎞️ YouTube 樂團音檔](https://www.youtube.com/watch?v=1lfb5c8NNaM&list=PLTwGp7yPzLtsztraYg2UaE-7z50kd9v-f&index=2)
 - [🎞️ 樂譜商示範音檔](https://maslankapress.com/shop/alex-and-the-phantom-band-wind-ens-sets/)
+- [Google 文件共同編輯版本](https://docs.google.com/document/d/1U6LM6NTz1ENWq5kiw4LNt_TeCpSFcURT5a5g4J8mjMo/edit?usp=sharing)
 
 ## 表演安排
 **說書人：李佳勳**     
