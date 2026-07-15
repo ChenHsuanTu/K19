@@ -401,18 +401,18 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
 
 |時間|星期|內容|
 |--|--|--|
-|7/6|一|🎵 Fanfare for the Common Man|
-|7/8|三|🎵 Sandpaper Ballet|
-|7/10|五||
-|7/12|日|🎵 Selections from Disney’s Moana|
-|7/14|二|🎵 Alex and the Phantom Band|
-|7/16|四|🎵 童玩|
-|7/18|六|🎬 說書人|
-|7/19|日|🎵 Gulliver’s Travels|
-|7/21|二|🎵 掃除用具のファンタジー|
-|7/23|四|🎵 How to Train Your Dragon|
-|7/25|六|🎬 指揮|
-|7/26|日|🎵 流星群の物語～はかなくも壮大な宇宙へ～|
+|7/13|一|🎵 Fanfare for the Common Man|
+|7/15|三|🎵 Sandpaper Ballet|
+|7/17|五|🎬 說書人：李佳勳|
+|7/18|六|🎵 Selections from Disney’s Moana|
+|7/19|日|🎬 說書人|
+|7/20|一|🎵 Alex and the Phantom Band|
+|7/22|二|🎬 指揮|
+|7/23|四|🎵 童玩|
+|7/24|五|🎵 Gulliver’s Travels|
+|7/25|六|🎵 掃除用具のファンタジー|
+|7/26|日|🎵 How to Train Your Dragon|
+|7/27|一|🎵 流星群の物語～はかなくも壮大な宇宙へ～|
 |7/28|二|總彩排照片，演前公告|
 |7/29|三|裝台／彩排照，演前提醒|
 |7/29|三|音樂會照片，回饋表單|
