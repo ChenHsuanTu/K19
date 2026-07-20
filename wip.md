@@ -35,7 +35,7 @@
 |編號|表單名稱|問卷填寫連結|表單編輯|回覆|問卷編輯|檢視權限|編輯權限|
 |:--:|--|--|:--:|:--:|:--:|:--:|:--:|
 |F1|參與意願調查|[https://forms.gle/mGhX678bWQsAyUMW9](https://forms.gle/mGhX678bWQsAyUMW9)|[✏️](https://docs.google.com/forms/d/1iFbcxll7_67Ymcq1zYP1sMyYA2BEJ3lSd_UamlgiD0A/edit)|[📄](https://docs.google.com/spreadsheets/d/1dFJ_M3eat-5QGJzTTgddtNwCkPXwnEF2yeBqd5hIU2Q)|人事|全|人事|
-|F2|基本資料|[https://forms.gle/XFu6gSpB52mKFhHr5](https://forms.gle/XFu6gSpB52mKFhHr5)|[✏️](https://docs.google.com/forms/d/1XpAAzgvFFbyINakuWumSQ0QFfUGYEaBGLH2OxdMO65s/edit)|[📄](https://docs.google.com/spreadsheets/d/1Uv-LNNq__V5M1YWl10En8RiOG1vhJyWzkaHw94YCH48)|人事|人事|人事|
+|F2|基本資料|[https://forms.gle/XFu6gSpB52mKFhHr5](https://forms.gle/XFu6gSpB52mKFhHr5)|[✏️](https://docs.google.com/forms/d/1XpAAzgvFFbyINakuWumSQ0QFfUGYEaBGLH2OxdMO65s/edit)|[📄](https://docs.google.com/spreadsheets/d/1Uv-LNNq__V5M1YWl10En8RiOG1vhJyWzkaHw94YCH48)[📄](https://docs.google.com/spreadsheets/d/1Uk8AwHx7LdQ8st56i8ul9RaMtELV0qXg0spY-ZyJUqM)|人事|人事|人事|
 |F3|團員半價優惠|[https://forms.gle/m9iyGwYWh59gjexY9](https://forms.gle/m9iyGwYWh59gjexY9)|[✏️](https://docs.google.com/forms/d/1oSEzVB80XSCSNDHPd-eYN6uFckK6WGlHmqUO3dQctdk/edit)|[📄](https://docs.google.com/spreadsheets/d/1xtQz9T_avZxnjWPBW5okXkPGpNSywtslsCDRWkDCYy4)|總務、票務|全|總務、票務|
 |F4|寄票表單|[https://forms.gle/QGhoywd9ZWDANNr19](https://forms.gle/QGhoywd9ZWDANNr19)|[✏️](https://docs.google.com/forms/d/1vAob_vghozOt6XDJ3i1Opp0aAr2EcrX7WxXbUEWIoe0/edit)|[📄](https://docs.google.com/spreadsheets/d/137ed67QpIim21Aj605hPjLrnxJN61gt1qjtLRFWUC0c)|票務|全|票務|
 
