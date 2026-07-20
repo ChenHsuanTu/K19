@@ -64,9 +64,8 @@
 - ✅ 衛武營場館租借尾款 2026/6/18
 - ✅ 排練室更動確認 2026/6/29
 - ✅ 確認排練是否有停車優惠 2026/7/8
-- ⏳ <font color="red">場地技術會議</font> 暫訂 2026/7/8
-- ⏳ <font color="red">衛武營舞監演出需求確認期限</font> 2026/7/17
-- ⏳ <font color="red">前後台工作證資訊提供</font> 2026/7/17       
+- ✅ 衛武營舞監演出需求確認期限 2026/7/17
+- ✅ 前後台工作證資訊提供 2026/7/17       
 
 ### 衛武營場館租借系統
 [《星群下的幻影奇談》雄中管樂團與校友管樂團 (25331045)](https://portal.venuehire.npac-weiwuying.org/Portal/Application/Detail/54ce43ab-4c73-f011-b069-005056b0842b)
@@ -407,7 +406,7 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
 |7/18|六|🎵 Selections from Disney’s Moana|
 |7/19|日|🎬 說書人|
 |7/20|一|🎵 Alex and the Phantom Band|
-|7/22|二|🎬 指揮|
+|7/21|二|🎬 指揮|
 |7/23|四|🎵 童玩|
 |7/24|五|🎵 Gulliver’s Travels|
 |7/25|六|🎵 掃除用具のファンタジー|
@@ -575,7 +574,7 @@ OPENTIX 網址：[https://www.opentix.life/event/2053691239618875392](https://ww
 
 ## 📍節目冊相關
 - ✅ 雄管 GitHub 帳號申請 2026/7/4
-- ⏳ <font color="red">網頁設計製作初稿</font> 2026/7/12
+- ✅ 網頁製作 2026/7/20
 
      
 <br/><br/>
