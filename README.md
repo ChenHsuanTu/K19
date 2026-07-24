@@ -15,6 +15,7 @@
     - [YouTube 示範音檔清單](https://youtube.com/playlist?list=PLTwGp7yPzLtsztraYg2UaE-7z50kd9v-f&si=QilE1V3tQiAhY9mz)
     - [曲目解說](program_notes/README.md)
     - [說書人文本](#-說書人文本)
+    - [電子節目冊](http://ksawokswb.github.io)
 
 ## 📍團練出席
 ![](pic/timetable.jpg)
@@ -107,7 +108,6 @@
 
 ### 🔸寄票
 
-🚨<font color="red">預計 7/25 開放寄票</font>                
 填寫表單後，並將票券裝至信封中，交到寄票處。
 
 - ✏️填寫[寄票表單](https://forms.gle/QGhoywd9ZWDANNr19)
